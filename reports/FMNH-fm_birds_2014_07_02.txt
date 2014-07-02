@@ -1,0 +1,165 @@
+Report for Institution Code FMNH, Resource fm_birds
+Usage stats for June, 2014, generated on 2014/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 86
+Number of records retrieved in searches: 946
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 33
+	Country: Denmark ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 46
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-02 ; Times: 2
+	Date: 2014-06-03 ; Times: 12
+	Date: 2014-06-04 ; Times: 13
+	Date: 2014-06-05 ; Times: 3
+	Date: 2014-06-06 ; Times: 1
+	Date: 2014-06-09 ; Times: 3
+	Date: 2014-06-10 ; Times: 13
+	Date: 2014-06-12 ; Times: 4
+	Date: 2014-06-16 ; Times: 18
+	Date: 2014-06-17 ; Times: 1
+	Date: 2014-06-19 ; Times: 1
+	Date: 2014-06-20 ; Times: 2
+	Date: 2014-06-22 ; Times: 1
+	Date: 2014-06-23 ; Times: 3
+	Date: 2014-06-24 ; Times: 1
+	Date: 2014-06-25 ; Times: 1
+	Date: 2014-06-26 ; Times: 1
+	Date: 2014-06-29 ; Times: 4
+	Date: 2014-06-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "trogon rufus type:specimen" ; Times: 2
+	Query: "type:specimen genus:procnias (fluid OR alcohol)" ; Times: 2
+	Query: "catalognumber:475303 institutioncode:FMNH" ; Times: 2
+	Query: "cercomacra nigricans" ; Times: 2
+	Query: "napothera rabori" ; Times: 1
+	Query: "genus:strigops" ; Times: 1
+	Query: "genus:cyanoliseus" ; Times: 1
+	Query: "emberizoides mappable:1" ; Times: 3
+	Query: "country:"Panama" specificepithet:fasciatum genus:Tigrisoma" ; Times: 1
+	Query: "type:specimen specificepithet:ruficauda genus:galbula year >= 1990" ; Times: 1
+	Query: "specificepithet:cinerea genus:Piezorhina" ; Times: 1
+	Query: "aratinga pertinax type:specimen year >= 1990" ; Times: 1
+	Query: ""Cercomacra nigricans" type:specimen" ; Times: 1
+	Query: "Todirostrum viridanum" ; Times: 5
+	Query: "aburria year >= 1985 year <= 2014" ; Times: 1
+	Query: "country:"Panama" specificepithet:laniirostris genus:Euphonia" ; Times: 1
+	Query: "anthracothorax dominicus" ; Times: 1
+	Query: "galbula ruficauda type:specimen year >= 1990" ; Times: 1
+	Query: "catalognumber:174679 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:472842 institutioncode:FMNH" ; Times: 1
+	Query: "Eudyptes moseleyi" ; Times: 3
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "(bard) year >= 1921 year <= 1921" ; Times: 1
+	Query: "trogon collaris type:specimen year >= 1990" ; Times: 1
+	Query: "catalognumber:442419 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:112650 institutioncode:FMNH" ; Times: 1
+	Query: "batara" ; Times: 1
+	Query: "Myiobius barbatus" ; Times: 3
+	Query: "catalognumber:298765" ; Times: 1
+	Query: "Basileuterus flaveolus" ; Times: 5
+	Query: "anthracothorax viridis" ; Times: 1
+	Query: "trogon rufus type:specimen year >= 1990" ; Times: 1
+	Query: "pharomachrus type:specimen year >= 1990" ; Times: 1
+	Query: "fmnh 276806" ; Times: 1
+	Query: "lophotriccus" ; Times: 1
+	Query: "polytmus theresiae" ; Times: 1
+	Query: "specificepithet:zeylonensis genus:Ketupa" ; Times: 1
+	Query: "catalognumber:436203 institutioncode:FMNH" ; Times: 2
+	Query: "Oreophasis" ; Times: 2
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "jandaya type:specimen year >= 1990" ; Times: 1
+	Query: "jmb field" ; Times: 1
+	Query: "genus:Coua" ; Times: 1
+	Query: "type:specimen genus:galbula year >= 1990" ; Times: 1
+	Query: "Talegalla" ; Times: 1
+	Query: "pyrrhura type:specimen year >= 1990" ; Times: 2
+	Query: "trogon melanurus type:specimen year >= 1990" ; Times: 1
+	Query: "aulacorhynchus prasinus" ; Times: 1
+	Query: "Copsychus saularis mappable:1" ; Times: 1
+	Query: "bombus" ; Times: 1
+	Query: "aburria" ; Times: 1
+	Query: "Eulipoa" ; Times: 1
+	Query: "country:"Panama" specificepithet:cajanea genus:Aramides" ; Times: 1
+	Query: "catalognumber:431305 institutioncode:FMNH" ; Times: 2
+	Query: "centralis stateprovince:"Veracruz"" ; Times: 1
+	Query: "Aepypodius" ; Times: 1
+	Query: "trogon elegans type:specimen year >= 1990" ; Times: 1
+	Query: "brachygalba type:specimen year >= 1990" ; Times: 1
+	Query: "seagull" ; Times: 1
+	Query: "trogon curucui type:specimen year >= 1990" ; Times: 1
+	Query: "fmnh turnix" ; Times: 2
+	Query: "eremophila alpestris utah county" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 278 download events in this period)
+Total number of records downloaded: 1066 (out of 1064147 records downloaded for all resources in this period)
+Total number of unique records downloaded: 961
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Unknown ; Times: 2
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-03 ; Times: 1
+	Date: 2014-06-04 ; Times: 1
+	Date: 2014-06-05 ; Times: 2
+	Date: 2014-06-09 ; Times: 2
+	Date: 2014-06-10 ; Times: 2
+	Date: 2014-06-19 ; Times: 1
+	Date: 2014-06-20 ; Times: 2
+	Date: 2014-06-22 ; Times: 1
+	Date: 2014-06-23 ; Times: 2
+	Date: 2014-06-24 ; Times: 1
+	Date: 2014-06-27 ; Times: 1
+	Date: 2014-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "anthracothorax viridis" ; Times: 1
+	Query: "anthracothorax dominicus" ; Times: 1
+	Query: "Copsychus saularis mappable:1" ; Times: 1
+	Query: "psittacidae country:"Venezuela"" ; Times: 1
+	Query: "genus:strigops" ; Times: 1
+	Query: "polyplectron" ; Times: 1
+	Query: "ectopistes" ; Times: 1
+	Query: "Icterus cucullatus" ; Times: 1
+	Query: "catalognumber:100000" ; Times: 1
+	Query: "Eudyptes chrysocome" ; Times: 1
+	Query: "specificepithet:cinerea genus:Piezorhina" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "Milvus migrans" ; Times: 1
+	Query: "emberizoides mappable:1" ; Times: 1
+	Query: "catalognumber:298765" ; Times: 1
+	Query: "type:specimen genus:procnias" ; Times: 2
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 568
+Total number of records retrieved from searches: 8333
+Number of download events that retrieved data from the resource: 178
+Total number of records downloaded: 812659
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 568
+Total number of records retrieved from searches: 8333
+Number of download events that retrieved data from the resource: 229
+Total number of records downloaded: 892050
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
