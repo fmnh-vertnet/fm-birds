@@ -1,0 +1,983 @@
+Report for Institution Code FMNH, Resource fm_birds
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1336
+Number of records retrieved in searches: 16392
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 27
+	Country: Australia ; Times: 15
+	Country: Belgium ; Times: 6
+	Country: Brazil ; Times: 91
+	Country: Canada ; Times: 50
+	Country: Chile ; Times: 36
+	Country: Colombia ; Times: 4
+	Country: Czech Republic ; Times: 33
+	Country: Denmark ; Times: 3
+	Country: France ; Times: 2
+	Country: Germany ; Times: 53
+	Country: India ; Times: 40
+	Country: Mexico ; Times: 22
+	Country: Netherlands ; Times: 15
+	Country: Peru ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Thailand ; Times: 26
+	Country: United Kingdom ; Times: 54
+	Country: United States ; Times: 761
+	Country: Unknown ; Times: 95
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 93
+	Date: 2015-05-06 ; Times: 106
+	Date: 2015-05-07 ; Times: 32
+	Date: 2015-05-08 ; Times: 54
+	Date: 2015-05-09 ; Times: 32
+	Date: 2015-05-10 ; Times: 55
+	Date: 2015-05-11 ; Times: 107
+	Date: 2015-05-12 ; Times: 55
+	Date: 2015-05-13 ; Times: 64
+	Date: 2015-05-14 ; Times: 31
+	Date: 2015-05-15 ; Times: 32
+	Date: 2015-05-16 ; Times: 46
+	Date: 2015-05-17 ; Times: 14
+	Date: 2015-05-18 ; Times: 49
+	Date: 2015-05-19 ; Times: 37
+	Date: 2015-05-20 ; Times: 68
+	Date: 2015-05-21 ; Times: 50
+	Date: 2015-05-22 ; Times: 63
+	Date: 2015-05-23 ; Times: 25
+	Date: 2015-05-24 ; Times: 25
+	Date: 2015-05-25 ; Times: 48
+	Date: 2015-05-26 ; Times: 78
+	Date: 2015-05-27 ; Times: 45
+	Date: 2015-05-28 ; Times: 34
+	Date: 2015-05-29 ; Times: 61
+	Date: 2015-05-30 ; Times: 17
+	Date: 2015-05-31 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "anthus dabbenei" ; Times: 1
+	Query: "fmnh 64279" ; Times: 3
+	Query: "Anthropoides virgo country:"india"" ; Times: 1
+	Query: "fmnh 64277" ; Times: 3
+	Query: "Sialia sialis Arizona" ; Times: 2
+	Query: "contopus cinereus brazil" ; Times: 1
+	Query: "perdicula erythrorhyncha" ; Times: 5
+	Query: "catalognumber:427316 institutioncode:FMNH" ; Times: 1
+	Query: "baily egg" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 4
+	Query: "197853" ; Times: 2
+	Query: "Oriolus type:specimen AND (NOT Canada NOT USA) year >= 1936 year <= 1936" ; Times: 1
+	Query: "119603" ; Times: 2
+	Query: "catalognumber:253539" ; Times: 2
+	Query: "Knipolegus poecilocercus brazil" ; Times: 1
+	Query: "fulica gigantea" ; Times: 1
+	Query: "Amaurolimnas concolor brazil" ; Times: 1
+	Query: "aves Georgia United States Sitta carolinensis" ; Times: 1
+	Query: "brotogeris sanctithomae type:specimen (skel)" ; Times: 1
+	Query: "catalognumber:124858 institutioncode:FMNH" ; Times: 1
+	Query: "turdoides subrufus" ; Times: 4
+	Query: "Cnemotriccus fuscatus brazil" ; Times: 1
+	Query: "Mirafra rufocinnamomea tigrina" ; Times: 2
+	Query: "oriolus nigripennis (skel)" ; Times: 1
+	Query: "accipiter trivirgatus" ; Times: 4
+	Query: "catalognumber:419249 institutioncode:FMNH" ; Times: 1
+	Query: "copsychus malabaricus" ; Times: 11
+	Query: "Campephilus principalis" ; Times: 4
+	Query: "class:aves catalognumber:49430 institutioncode:fmnh" ; Times: 1
+	Query: "312558" ; Times: 1
+	Query: "Pipra chloromeros" ; Times: 2
+	Query: "pomatorhinus schisticeps" ; Times: 2
+	Query: "Anthus correndera chilensis" ; Times: 1
+	Query: "catalognumber:92555" ; Times: 1
+	Query: "fmnh 122788" ; Times: 2
+	Query: "todirostrum maculatum tissue:1" ; Times: 1
+	Query: "pulsatrix perspicillata country:"Ecuador"" ; Times: 1
+	Query: "Vireo pallens angulensis" ; Times: 1
+	Query: "pionus maximiliani" ; Times: 8
+	Query: "genus:grus specificepithet:americana year >= 1900 year <= 1925" ; Times: 1
+	Query: "aves Georgia United States Corvus ossifragus" ; Times: 1
+	Query: "Onychorhynchus coronatus occidentalis" ; Times: 1
+	Query: "Sitta neglecta" ; Times: 1
+	Query: "Gyps fulvus" ; Times: 1
+	Query: "turdus unicolor" ; Times: 2
+	Query: "Tyto longimembris country:"india"" ; Times: 1
+	Query: "catalognumber:431710 institutioncode:FMNH" ; Times: 1
+	Query: "gallicolumba criniger" ; Times: 1
+	Query: "dumetia hyperythra" ; Times: 2
+	Query: "Cuculus canorus Kenya" ; Times: 1
+	Query: ""Coracina striata"" ; Times: 16
+	Query: "aves Georgia United States Cyanocitta cristata" ; Times: 2
+	Query: "catalognumber:346176 institutioncode:FMNH" ; Times: 1
+	Query: "Platyrinchus saturatus brazil" ; Times: 1
+	Query: "Tolmomyias sulphurescens pallescens" ; Times: 1
+	Query: "136* specificepithet:melodia" ; Times: 2
+	Query: "catalognumber:124894 institutioncode:FMNH" ; Times: 1
+	Query: "griseopyga melbina" ; Times: 1
+	Query: "aves Georgia United States Troglodytes troglodytes" ; Times: 1
+	Query: "wisconsin horicon marsh" ; Times: 3
+	Query: "aviceda leuphotes" ; Times: 2
+	Query: "beach station stateprovince:"illinois"" ; Times: 1
+	Query: "Amaurornis akool country:"india"" ; Times: 1
+	Query: "genus:Platylophus" ; Times: 1
+	Query: "francolinus francolinus" ; Times: 4
+	Query: "412916" ; Times: 1
+	Query: "Pipra erythrocephala 392205" ; Times: 1
+	Query: "Onychorhynchus coronatus fraterculus" ; Times: 2
+	Query: "Coua cristata dumonti" ; Times: 1
+	Query: "Merops variegatus institutioncode:FMNH" ; Times: 1
+	Query: "terenura maculata brazil" ; Times: 1
+	Query: "catalognumber:331135 institutioncode:FMNH" ; Times: 1
+	Query: "94030" ; Times: 1
+	Query: "Microchera albocoronata albocoronata" ; Times: 2
+	Query: "neomorphus geoffroyi" ; Times: 1
+	Query: "fmnh 86950" ; Times: 2
+	Query: "clamator jacobinus" ; Times: 2
+	Query: "gallicolumba platenae" ; Times: 1
+	Query: "Thryothorus albinucha" ; Times: 1
+	Query: "oxyruncus cristatus tocantinsi" ; Times: 1
+	Query: "Nothocrax urumutum brazil" ; Times: 1
+	Query: "haliaeetus leucoryphus" ; Times: 2
+	Query: "pycnonotus priocephalus" ; Times: 2
+	Query: "Anthus leucophrys" ; Times: 1
+	Query: "Turdoides year >= 1980" ; Times: 2
+	Query: "" claudiae"" ; Times: 1
+	Query: "119602" ; Times: 1
+	Query: "catalognumber:6586 institutioncode:FMNH" ; Times: 4
+	Query: "pauxi" ; Times: 1
+	Query: "262956" ; Times: 1
+	Query: "Bubo coromandus country:"india"" ; Times: 1
+	Query: "brotogeris sanctithomae (skel)" ; Times: 1
+	Query: "corvus class:aves institutioncode:fmnh" ; Times: 1
+	Query: "rhipidura albogularis" ; Times: 4
+	Query: "lanius collurio x" ; Times: 1
+	Query: "columba punicea" ; Times: 2
+	Query: "semirufa (skel)" ; Times: 1
+	Query: "418968" ; Times: 1
+	Query: "Spizella+pallida+Baja California" ; Times: 1
+	Query: "catalognumber:247277 institutioncode:FMNH" ; Times: 1
+	Query: "418961" ; Times: 1
+	Query: "418965" ; Times: 1
+	Query: "418966" ; Times: 1
+	Query: "418967" ; Times: 1
+	Query: "picus viridis country:"Iran"" ; Times: 1
+	Query: "catalognumber:428682 institutioncode:FMNH" ; Times: 1
+	Query: "nana Jamaica" ; Times: 2
+	Query: "barrabandi" ; Times: 1
+	Query: "catalognumber:109168 institutioncode:FMNH" ; Times: 1
+	Query: "oxyruncus cristatus phelpsi" ; Times: 1
+	Query: "genus:rupicola mappable:1" ; Times: 1
+	Query: "Lophotriccus vitiosus brazil" ; Times: 1
+	Query: "pulsatrix country:"Ecuador"" ; Times: 6
+	Query: "parus fasciiventer (skel)" ; Times: 1
+	Query: "Pyrocephalus rubinus brazil" ; Times: 2
+	Query: "catalognumber:352915 institutioncode:FMNH" ; Times: 1
+	Query: "Rhynchocyclus" ; Times: 7
+	Query: "Streptopelia sylvicola India year >= 1938 year <= 1938" ; Times: 1
+	Query: "Lagopus welchi" ; Times: 8
+	Query: "catalognumber:392423 institutioncode:FMNH" ; Times: 1
+	Query: "Oriolus oriolus year >= 1936 year <= 1936" ; Times: 1
+	Query: "R-184488" ; Times: 1
+	Query: "rhynchocyclus olivaceus tamborensis" ; Times: 1
+	Query: "Lepidocolaptes angustirostris" ; Times: 9
+	Query: "catalognumber:7608 institutioncode:fmnh" ; Times: 1
+	Query: "blewitti" ; Times: 1
+	Query: "mino kreffti (skel)" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus tissue:1" ; Times: 1
+	Query: "Contopus caribaeus" ; Times: 1
+	Query: "catalognumber:264980" ; Times: 1
+	Query: "zarcero" ; Times: 1
+	Query: "Talegalla" ; Times: 11
+	Query: "corvus corax class:aves year >= 1933 year <= 1933" ; Times: 1
+	Query: ""Parus major" year >= 1937 year <= 1937" ; Times: 1
+	Query: "catalognumber:392424 institutioncode:FMNH" ; Times: 1
+	Query: "tolmomyias assimilis tissue:1" ; Times: 1
+	Query: "Phylloscartes nigrifrons" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "otus bakkamoena" ; Times: 4
+	Query: "cranioleuca baroni" ; Times: 1
+	Query: "Coracina striata" ; Times: 5
+	Query: "Tinamotis pentlandii" ; Times: 1
+	Query: "Platyrinchus coronatus brazil" ; Times: 2
+	Query: "Merops nubicus institutioncode:FMNH" ; Times: 1
+	Query: "Hirundinea ferruginea brazil" ; Times: 1
+	Query: "carpodacus erythrinus india" ; Times: 2
+	Query: "catalognumber:459390" ; Times: 1
+	Query: "todirostrum sylvia brazil" ; Times: 1
+	Query: "60354 OR 92916 OR 541 OR 5446 OR 5450 specificepithet:mollissima genus:Somateria" ; Times: 1
+	Query: "parus atricapillus type:specimen (skel)" ; Times: 1
+	Query: "leptoptilos javanicus" ; Times: 1
+	Query: "Parus stupae" ; Times: 1
+	Query: "Phaetusa simplex chloropoda" ; Times: 1
+	Query: "burzil" ; Times: 1
+	Query: "Megalaima javensis" ; Times: 1
+	Query: "Sitta magna" ; Times: 2
+	Query: "Aegolius India year >= 1936 year <= 1936" ; Times: 1
+	Query: "fumifrons brazil" ; Times: 1
+	Query: "aves Georgia United States Certhia americana" ; Times: 1
+	Query: "catalognumber:394003 institutioncode:FMNH" ; Times: 1
+	Query: "grallaria hypoleuca" ; Times: 1
+	Query: "myiobius villosus schaeferi" ; Times: 1
+	Query: "strigiformes country:"Mexico" year >= 2000 year <= 2015 mappable:1" ; Times: 2
+	Query: "marmaronetta angustirostris" ; Times: 1
+	Query: "pseudibis papillosa" ; Times: 1
+	Query: "ichthyophaga humilis" ; Times: 1
+	Query: "leucotis country:"Guatemala"" ; Times: 1
+	Query: "Satrapa icterophrys brazil" ; Times: 1
+	Query: "Picus viridanus" ; Times: 1
+	Query: "aves Georgia United States Vireo solitarius" ; Times: 2
+	Query: "cyanoptila cumatilis" ; Times: 1
+	Query: "Pachyramphus castaneus country:"venezuela"" ; Times: 1
+	Query: "rhopocichla atriceps" ; Times: 5
+	Query: "catalognumber:122544 institutioncode:FMNH" ; Times: 3
+	Query: "phylloscopus griseolus" ; Times: 2
+	Query: "aves Georgia United States Troglodytes aedon" ; Times: 1
+	Query: "dendroica occidentalis Chihuahua" ; Times: 1
+	Query: "todirostrum fumifrons brazil" ; Times: 1
+	Query: "Didunculus" ; Times: 1
+	Query: "oxyruncus cristatus" ; Times: 1
+	Query: "Otus vermiculatus" ; Times: 2
+	Query: "Rhynchocyclus olivaceus brazil" ; Times: 1
+	Query: "butastur teesa" ; Times: 3
+	Query: "harpactes fasciatus" ; Times: 4
+	Query: "FMNH 196677" ; Times: 2
+	Query: "Lagopus gabrielsoni" ; Times: 2
+	Query: "Tringa guttifer" ; Times: 1
+	Query: "Stigmatura napensis brazil" ; Times: 1
+	Query: "Pipra erythrocephala 391575" ; Times: 1
+	Query: "todirostrum chrysocrotaphum tissue:1" ; Times: 1
+	Query: "Merops bullockoides institutioncode:FMNH" ; Times: 1
+	Query: "Cachar Sitta" ; Times: 2
+	Query: "hypocolius" ; Times: 1
+	Query: "choriotis nigriceps" ; Times: 3
+	Query: "baily" ; Times: 1
+	Query: "461099" ; Times: 1
+	Query: "class:Aves catalognumber:192359 institutioncode:FMNH" ; Times: 1
+	Query: "461095" ; Times: 1
+	Query: "461096" ; Times: 1
+	Query: "class:aves catalognumber:49430" ; Times: 1
+	Query: "Sublegatus obscurior brazil" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 6
+	Query: "nectarinia minima" ; Times: 1
+	Query: "449604" ; Times: 1
+	Query: "catalognumber:124873 institutioncode:FMNH" ; Times: 2
+	Query: "FMNH 129791" ; Times: 1
+	Query: "Foudia eminentissima consobrina" ; Times: 1
+	Query: "Buteo rufinus country:"india"" ; Times: 3
+	Query: "phylloscopus fuscatus" ; Times: 2
+	Query: "turdoides striatus" ; Times: 6
+	Query: "Knipolegus cyanirostris brazil" ; Times: 2
+	Query: "clamator coromandus india" ; Times: 1
+	Query: "thamnophilus cryptoleucus" ; Times: 4
+	Query: "catalognumber:356751 institutioncode:FMNH" ; Times: 1
+	Query: "ramphocelus transitus" ; Times: 1
+	Query: "specificepithet:mollissima genus:Somateria catalognumber:60354 OR 92916" ; Times: 1
+	Query: "188298" ; Times: 1
+	Query: "sypheotides indica" ; Times: 2
+	Query: "Rynchops niger intercedens" ; Times: 1
+	Query: "catalognumber:345860 institutioncode:FMNH" ; Times: 1
+	Query: "pelecanus philippensis india" ; Times: 1
+	Query: "FMNH 183756" ; Times: 2
+	Query: "birds country:"USA" institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 183754" ; Times: 2
+	Query: "FMNH 183755" ; Times: 2
+	Query: "Cinclus FMNH (SKEL)" ; Times: 2
+	Query: "Mesitornis unicolor" ; Times: 1
+	Query: "Pipra chloromeros 398153" ; Times: 1
+	Query: "grus antigone" ; Times: 2
+	Query: "Lurocalis semitorquatus" ; Times: 2
+	Query: "aves Georgia United States Cistothorus palustris" ; Times: 1
+	Query: "delalandi brazil" ; Times: 1
+	Query: "Cochlearius cochlearius brazil" ; Times: 1
+	Query: "catalognumber:431745 institutioncode:FMNH" ; Times: 1
+	Query: "myrmoborus lugubris" ; Times: 1
+	Query: "Serpophaga subcristata brazil" ; Times: 1
+	Query: "aves Georgia United States Lanius ludovicianus" ; Times: 4
+	Query: "Leptopogon amaurocephalus brazil" ; Times: 1
+	Query: "catalognumber:310787 institutioncode:FMNH" ; Times: 2
+	Query: "FMNH 197814" ; Times: 2
+	Query: "FMNH 197811" ; Times: 2
+	Query: "FMNH 197812" ; Times: 2
+	Query: "Myiophobus fasciatus brazil" ; Times: 1
+	Query: "407302" ; Times: 1
+	Query: "pycnonotus gularis" ; Times: 2
+	Query: "tolmomyias sulphurescens country:"colombia"" ; Times: 2
+	Query: "aves Georgia United States Tyrannus tyrannus" ; Times: 1
+	Query: "Neochmia phaeton year >= 1900 year <= 1960" ; Times: 1
+	Query: "Ranchon country:"Panama"" ; Times: 1
+	Query: "turdus hauxwelli (skel)" ; Times: 1
+	Query: "409038" ; Times: 1
+	Query: "pterocles indicus" ; Times: 1
+	Query: "class:Aves institutioncode:FMNH tissue:1" ; Times: 1
+	Query: "Myiobius barbatus brazil" ; Times: 3
+	Query: "Empidonax brazil" ; Times: 1
+	Query: "catalognumber:278605 institutioncode:FMNH" ; Times: 2
+	Query: "411923" ; Times: 1
+	Query: "catalognumber:289057" ; Times: 1
+	Query: "Knipolegus nigerrimus brazil" ; Times: 1
+	Query: "Todirostrum plumbeiceps brazil" ; Times: 1
+	Query: "piranga flava tissue:1" ; Times: 1
+	Query: "catalognumber:297955 institutioncode:FMNH" ; Times: 1
+	Query: "Micrastur mintoni" ; Times: 3
+	Query: "caprimulgus mahrattensis" ; Times: 1
+	Query: "pitta cyanea type:specimen (egg*)" ; Times: 1
+	Query: "Strix aluco country:"India"" ; Times: 1
+	Query: "talegalla" ; Times: 1
+	Query: "Buteo rufinus county:"india"" ; Times: 1
+	Query: "Rhynochetos jubatus" ; Times: 2
+	Query: "Mionectes macconnelli brazil" ; Times: 1
+	Query: "342052" ; Times: 1
+	Query: "lonchura kelaarti" ; Times: 1
+	Query: "Chloephaga melanoptera" ; Times: 2
+	Query: "Megalurulus mariae" ; Times: 1
+	Query: "fmnh 78545" ; Times: 1
+	Query: "sphenocichla" ; Times: 1
+	Query: "rhynchocyclus olivaceus flavus" ; Times: 2
+	Query: "lamprotornis chalcurus (skel)" ; Times: 1
+	Query: "Platyrinchus platyrhynchos brazil" ; Times: 2
+	Query: "pavo muticus india" ; Times: 1
+	Query: "Neochen jubata brazil" ; Times: 2
+	Query: "catalognumber:328138" ; Times: 1
+	Query: "catalognumber:124861 institutioncode:FMNH" ; Times: 2
+	Query: "Troglodytes year >= 1946 year <= 1946" ; Times: 1
+	Query: "418970" ; Times: 1
+	Query: "rupicola peruviana" ; Times: 2
+	Query: "phaenicophaeus pyrrhocephalus" ; Times: 1
+	Query: "clamator coromandus" ; Times: 4
+	Query: "Tolmomyias assimilis brazil" ; Times: 1
+	Query: "Hemitriccus griseipectus brazil" ; Times: 1
+	Query: "tockus birostris" ; Times: 4
+	Query: "Psittacula 1918" ; Times: 2
+	Query: "58062" ; Times: 1
+	Query: "Troglodytes chilensis" ; Times: 2
+	Query: "Tyto longimembris country:"INDIA"" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "centropus steerii" ; Times: 1
+	Query: "type:specimen county:"Gabon"" ; Times: 1
+	Query: "Merops muelleri institutioncode:FMNH" ; Times: 1
+	Query: "Myiornis ecaudatus brazil" ; Times: 1
+	Query: "cairina india" ; Times: 1
+	Query: "Dinopium shorii country:"india"" ; Times: 1
+	Query: "ficedula albicilla" ; Times: 2
+	Query: "lanius cristatus institutioncode:fmnh" ; Times: 1
+	Query: "fmnh 79962" ; Times: 3
+	Query: "fmnh 79963" ; Times: 1
+	Query: "aves Georgia United States bewickii" ; Times: 1
+	Query: "ptilinopus perousii (skel)" ; Times: 1
+	Query: "Mionectes oleagineus pacificus" ; Times: 1
+	Query: "Chauna torquata brazil" ; Times: 1
+	Query: "Platyrinchus leucoryphus brazil" ; Times: 1
+	Query: "phaeomyias murina brazil" ; Times: 1
+	Query: "Sakesphorus melanonotus" ; Times: 1
+	Query: "catalognumber:364353 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:124261 institutioncode:FMNH" ; Times: 1
+	Query: "ketupa flavipes" ; Times: 1
+	Query: "mino anais (skel)" ; Times: 1
+	Query: "Inezia caudata brazil" ; Times: 1
+	Query: "aves Georgia United States Sitta canadensis" ; Times: 1
+	Query: "catalognumber:343407 institutioncode:FMNH" ; Times: 1
+	Query: "412916 A" ; Times: 2
+	Query: "Formicivora grisea country:"Brazil"" ; Times: 2
+	Query: "Gyps fulvus country:"india"" ; Times: 1
+	Query: "caprimulgus nigrescens" ; Times: 5
+	Query: "odontophorus stellatus" ; Times: 2
+	Query: "Hemitriccus nidipendulus" ; Times: 1
+	Query: "Oceanodroma leucorhoa year >= 1901 year <= 1901" ; Times: 1
+	Query: "jubata brazil" ; Times: 1
+	Query: "Aegolius funereus country:"India"" ; Times: 1
+	Query: "zoothera wardii-" ; Times: 1
+	Query: "Aegithalos iouschistos bonvaloti" ; Times: 1
+	Query: "sylvia brazil" ; Times: 1
+	Query: "Cnipodectes subbrunneus" ; Times: 1
+	Query: "myrmotherula klagesi" ; Times: 3
+	Query: "aves Georgia United States Vireo griseus" ; Times: 2
+	Query: "Campephilus imperialis Chihuahua" ; Times: 2
+	Query: "salpornis" ; Times: 1
+	Query: "aythya nyroca india" ; Times: 1
+	Query: "zoothera wardii" ; Times: 14
+	Query: "Phylloscartes parkeri" ; Times: 5
+	Query: "Contopus sordidulus saturatus year <= 1899" ; Times: 1
+	Query: "Hemitriccus diops brazil" ; Times: 1
+	Query: "Malawi institutioncode:FMNH" ; Times: 2
+	Query: "collinson stateprovince:"alaska" class:aves institutioncode:fmnh year >= 1933 year <= 1933" ; Times: 2
+	Query: "Todirostrum chrysocrotaphum brazil" ; Times: 1
+	Query: "FMNH 218776" ; Times: 2
+	Query: "anas strepera india" ; Times: 3
+	Query: "anthus hellmayri" ; Times: 2
+	Query: "Lophotriccus galeatus brazil" ; Times: 1
+	Query: "Graminicola bengalensis" ; Times: 1
+	Query: "Aegolius (India) AND (NOT Canada)" ; Times: 1
+	Query: "specificepithet:botterii institutioncode:FMNH" ; Times: 2
+	Query: "Pardirallus maculatus type:specimen" ; Times: 1
+	Query: "vermivora bachmanii" ; Times: 1
+	Query: "Otus guatemalae vermiculatus" ; Times: 4
+	Query: "Terpsiphone viridis ferreti" ; Times: 1
+	Query: "Phylloscartes sylviolus" ; Times: 2
+	Query: "aves Georgia United States Vireo olivaceus" ; Times: 1
+	Query: "Phoenicopterus chilensis" ; Times: 2
+	Query: "Moho SKIN" ; Times: 1
+	Query: "corvus stateprovince:"alaska" class:aves institutioncode:fmnh" ; Times: 1
+	Query: "dendrocitta leucogastra" ; Times: 2
+	Query: "myzomela tristrami" ; Times: 1
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "Strix biddulphi country:"India"" ; Times: 1
+	Query: "Microchera albocoronata type:specimen" ; Times: 1
+	Query: "Pterocles alchata" ; Times: 10
+	Query: "otus sunia" ; Times: 2
+	Query: "Aeronautes saxatalis nigrior" ; Times: 1
+	Query: "aves Georgia United States Empidonax minimus" ; Times: 2
+	Query: "catalognumber:392517 institutioncode:FMNH" ; Times: 1
+	Query: "gracula religiosa" ; Times: 1
+	Query: "catalognumber:467567 institutioncode:FMNH" ; Times: 1
+	Query: "Hemitriccus margaritaceiventer brazil" ; Times: 1
+	Query: "specificepithet:ferruginea genus:calidris" ; Times: 6
+	Query: "Megalaima rubricapilla SKIN" ; Times: 1
+	Query: "turdoides affinis" ; Times: 5
+	Query: "catalognumber:331137 institutioncode:FMNH" ; Times: 1
+	Query: "Selasphorus platycercus guatemalae" ; Times: 1
+	Query: "aves Georgia United States Eremophila alpestris" ; Times: 1
+	Query: "Megalaima henricii SKIN" ; Times: 1
+	Query: "Phaetusa simplex" ; Times: 1
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "Sublegatus modestus brazil" ; Times: 1
+	Query: "Hemitriccus orbitatus brazil" ; Times: 1
+	Query: "todirostrum chrysocrotaphum illigeri" ; Times: 1
+	Query: "amazona dufresniana type:specimen (skel)" ; Times: 1
+	Query: "Spizella pallida+Baja California" ; Times: 2
+	Query: "Spelaeornis chocolatinus" ; Times: 1
+	Query: "Pipra chloromeros 433681" ; Times: 1
+	Query: "Pipra chloromeros 433680" ; Times: 2
+	Query: "Parotia wahnesi" ; Times: 1
+	Query: "lanius collurio" ; Times: 2
+	Query: "anser indicus" ; Times: 1
+	Query: "Hemitriccus cinnamomeipectus" ; Times: 1
+	Query: "Phaethornis ochraceiventris" ; Times: 1
+	Query: "Aegolius year >= 1936 year <= 1936" ; Times: 1
+	Query: "vireo bellii california san bernardino" ; Times: 1
+	Query: "pseudibis davisoni" ; Times: 1
+	Query: "FMNH 196679" ; Times: 2
+	Query: "Merops bulocki institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 196678" ; Times: 2
+	Query: "FMNH 217234" ; Times: 2
+	Query: "R 184443" ; Times: 1
+	Query: ""anser caerulescens" stateprovince:"Alaska"" ; Times: 1
+	Query: "francolinus pictus type:specimen" ; Times: 1
+	Query: "297552" ; Times: 1
+	Query: "Sitta carolinensis year >= 1937 year <= 1937" ; Times: 1
+	Query: "FMNH 102669" ; Times: 2
+	Query: "county:"Guatemala"" ; Times: 1
+	Query: "Micropygia schomburgkii" ; Times: 1
+	Query: "461100" ; Times: 1
+	Query: "461101" ; Times: 1
+	Query: "63685 specificepithet:CAPENSIS genus:zonotrichia institutioncode:FMNH" ; Times: 1
+	Query: "Megalaima javensis SKIN" ; Times: 1
+	Query: "Hemitriccus iohannis brazil" ; Times: 1
+	Query: "Phylloscartes flaviventris" ; Times: 1
+	Query: "catalognumber:247241 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:124890 institutioncode:FMNH" ; Times: 2
+	Query: "Merops oreobates institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:160970" ; Times: 1
+	Query: "fmnh 55504" ; Times: 4
+	Query: "fmnh 55505" ; Times: 4
+	Query: "brotogeris versicolurus type:specimen (skel)" ; Times: 1
+	Query: "todirostrum chrysocrotaphum" ; Times: 2
+	Query: "Tolmomyias sulphurescens brazil" ; Times: 3
+	Query: "country:"Peru" institutioncode:FMNH year >= 1975 year <= 1975" ; Times: 1
+	Query: "myrmeciza hemimelaena" ; Times: 2
+	Query: "fmnh 84215" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves institutioncode:fmnh year >= 1933 year <= 1933" ; Times: 1
+	Query: "FMNH 357577" ; Times: 1
+	Query: ""Parus major" year >= 1938 year <= 1938" ; Times: 1
+	Query: "Megalaima skin India" ; Times: 6
+	Query: "Rynchops niger cinerascens" ; Times: 1
+	Query: "locustella certhiola" ; Times: 6
+	Query: "class:aves institutioncode:fmnh" ; Times: 5
+	Query: "corvus corax stateprovince:"alaska" class:aves institutioncode:fmnh" ; Times: 1
+	Query: "38-14 class:Aves institutioncode:UMMZ OR FMNH" ; Times: 1
+	Query: "Psilopogon skin" ; Times: 1
+	Query: "Piranga flava savannarum" ; Times: 1
+	Query: "Muscicapa Thailand" ; Times: 1
+	Query: "fmnh 79964" ; Times: 2
+	Query: "pulsatrix perspicillata country:"Colombia"" ; Times: 1
+	Query: "Todirostrum maculatum brazil" ; Times: 2
+	Query: "catalognumber:6586 institutioncode:fmnh" ; Times: 9
+	Query: "Chaetura fumosa type:specimen" ; Times: 1
+	Query: "Hemitriccus striaticollis brazil" ; Times: 1
+	Query: "54847" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1880" ; Times: 1
+	Query: "catalognumber:105410 institutioncode:FMNH" ; Times: 2
+	Query: "Hemitriccus zosterops brazil" ; Times: 1
+	Query: "institutioncode:fmnh" ; Times: 1
+	Query: "syrmaticus humiae manipur" ; Times: 1
+	Query: "aythya nyroca" ; Times: 2
+	Query: "Phylloscartes ventralis brazil" ; Times: 2
+	Query: "plumbeiceps brazil" ; Times: 1
+	Query: "Harpactes kasumba" ; Times: 1
+	Query: "stateprovince:"Arizona" specificepithet:troglodytes genus:Troglodytes" ; Times: 1
+	Query: "lanius isabellinus" ; Times: 6
+	Query: "acrocephalus dumetorum" ; Times: 5
+	Query: "Euscarthmus meloryphus brazil" ; Times: 1
+	Query: "Turdus poliocephalus vanikorensis" ; Times: 1
+	Query: "Pterocles personatus" ; Times: 9
+	Query: "dw 2247" ; Times: 3
+	Query: "cuculus sparverioides" ; Times: 3
+	Query: "Serpophaga nigricans brazil" ; Times: 1
+	Query: "Rwanda Aves" ; Times: 1
+	Query: "phalacrocorax carbo india" ; Times: 2
+	Query: "412873" ; Times: 1
+	Query: "Nyctiphrynus ocellatus" ; Times: 1
+	Query: "catalognumber:249503 institutioncode:FMNH" ; Times: 2
+	Query: "aves Georgia United States Parus bicolor" ; Times: 1
+	Query: "FMNH 203542" ; Times: 4
+	Query: "bubo coromandus" ; Times: 2
+	Query: "Scythrops novaehollandiae country:"new guinea"" ; Times: 1
+	Query: "catalognumber:221827" ; Times: 5
+	Query: "88511" ; Times: 1
+	Query: "Fulica gigantea" ; Times: 1
+	Query: "Sterna saundersi" ; Times: 1
+	Query: "Crax globulosa" ; Times: 2
+	Query: "zoothera wardii-india" ; Times: 24
+	Query: "country:"Mexico" (Cordova)" ; Times: 2
+	Query: "Lophornis delattrei lessoni" ; Times: 1
+	Query: "Selasphorus platycercus county:"Guatemala"" ; Times: 1
+	Query: "aves Georgia United States Progne subis" ; Times: 2
+	Query: "461097" ; Times: 1
+	Query: "Turdus falcklandii" ; Times: 1
+	Query: "Pipra erythrocephala 391574" ; Times: 1
+	Query: "FMNH 149022" ; Times: 3
+	Query: "FMNH 231776" ; Times: 1
+	Query: "FMNH 149021" ; Times: 2
+	Query: "pitta cyanea" ; Times: 1
+	Query: "catalognumber:331134 institutioncode:FMNH" ; Times: 1
+	Query: "leptoptilos dubius" ; Times: 4
+	Query: "pterocles exustus" ; Times: 9
+	Query: "Strix fulvescens" ; Times: 1
+	Query: "petrochelidon fluvicola" ; Times: 1
+	Query: "fmnh 78453" ; Times: 3
+	Query: "fmnh 78451" ; Times: 3
+	Query: "diomedea immutabilis type:specimen year >= 1900 year <= 1950" ; Times: 1
+	Query: "Euphonia chlorotica" ; Times: 2
+	Query: "fmnh 78455" ; Times: 3
+	Query: "fmnh 78454" ; Times: 3
+	Query: "fmnh 78458" ; Times: 3
+	Query: "Sitta magna Thailand" ; Times: 1
+	Query: "strigiformes country:"Mexico" year >= 1990 year <= 2000 mappable:1" ; Times: 1
+	Query: ""platyrhynchos x "" ; Times: 1
+	Query: "Sitta carolinensis year >= 1886 year <= 1887" ; Times: 1
+	Query: "407298" ; Times: 2
+	Query: "407299" ; Times: 1
+	Query: "111073 genus:ZONOTRICHIA" ; Times: 2
+	Query: "county:"Mexico"" ; Times: 3
+	Query: "Myiornis auricularis brazil" ; Times: 1
+	Query: "Terenotriccus erythrurus" ; Times: 1
+	Query: "aves Georgia United States Sitta pusilla 18" ; Times: 1
+	Query: "202942" ; Times: 1
+	Query: "garrulax austeni India" ; Times: 1
+	Query: "Myiobius atricaudus brazil" ; Times: 1
+	Query: "egretta gularis-india" ; Times: 1
+	Query: "catalognumber:331131 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:331138 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:346845 institutioncode:FMNH" ; Times: 1
+	Query: "fmnh 79959" ; Times: 2
+	Query: "Maras" ; Times: 1
+	Query: "platyrinchus mystaceus type:specimen mappable:1 tissue:1" ; Times: 1
+	Query: "amazona rhodocorytha" ; Times: 1
+	Query: "FMNH 137643" ; Times: 4
+	Query: "Sclerurus mexicanus tissue:1" ; Times: 1
+	Query: "catalognumber:430147 institutioncode:FMNH" ; Times: 1
+	Query: "centropus toulou" ; Times: 4
+	Query: "Inezia subflava brazil" ; Times: 1
+	Query: "FMNH 137645" ; Times: 3
+	Query: "catalognumber:336794 institutioncode:FMNH" ; Times: 2
+	Query: "Polystictus pectoralis brazil" ; Times: 1
+	Query: "country:"Peru" institutioncode:FMNH year >= 1968 year <= 1968" ; Times: 1
+	Query: "Merops boehmi institutioncode:FMNH" ; Times: 1
+	Query: "cyanopectus" ; Times: 2
+	Query: "Onychorhynchus swainsoni brazil" ; Times: 1
+	Query: "Otidiphaps nobilis" ; Times: 27
+	Query: "Aegolius ridgwayi" ; Times: 1
+	Query: "460096" ; Times: 1
+	Query: "460095" ; Times: 1
+	Query: "Rallus celebensis" ; Times: 1
+	Query: "birds egg country:"USA" institutioncode:FMNH" ; Times: 1
+	Query: "Merops hirundineus institutioncode:FMNH" ; Times: 1
+	Query: "Electron platyrhynchum" ; Times: 1
+	Query: "Mionectes rufiventris brazil" ; Times: 1
+	Query: "Otus barbarus" ; Times: 1
+	Query: "stateprovince:"Kansas" specificepithet:carolinus genus:Euphagus" ; Times: 2
+	Query: "Tolmomyias sulphurescens mixtus" ; Times: 1
+	Query: "169828" ; Times: 1
+	Query: "Phylloscartes nigrifrons tissue:1" ; Times: 1
+	Query: "Contopus cinereus brazil" ; Times: 1
+	Query: "Merops viridis institutioncode:FMNH" ; Times: 1
+	Query: "Merops gularis institutioncode:FMNH" ; Times: 1
+	Query: "strix ocellata" ; Times: 1
+	Query: "lanius cristatus lucionensis" ; Times: 1
+	Query: "Otus guatemalae vermiculatus type:specimen" ; Times: 1
+	Query: "pericrocotus flammeus" ; Times: 7
+	Query: "Terenotriccus erythrurus brazil" ; Times: 1
+	Query: "Berenicornis comatus" ; Times: 1
+	Query: "797285" ; Times: 1
+	Query: "Ognorhynchus icterotis" ; Times: 1
+	Query: "hemitriccus minor brazil brazil" ; Times: 1
+	Query: "Nyctyornis amicta institutioncode:FMNH" ; Times: 1
+	Query: ""Limnodromus griseus" year >= 1924 year <= 1924" ; Times: 1
+	Query: "catalognumber:322789 institutioncode:FMNH" ; Times: 1
+	Query: "122533" ; Times: 1
+	Query: "FMNH 128791" ; Times: 1
+	Query: "Aegolius "India" type:specimen AND (NOT Canada NOT USA)" ; Times: 1
+	Query: "turdus obscurus-india" ; Times: 2
+	Query: "r-87381" ; Times: 1
+	Query: "Merops albicollis institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:249495 institutioncode:FMNH" ; Times: 2
+	Query: "turdoides malcolmi" ; Times: 4
+	Query: "Phaetusa simplex simplex" ; Times: 1
+	Query: "psittacula finschii type:specimen" ; Times: 1
+	Query: "specificepithet:bahamensis genus:anas" ; Times: 1
+	Query: "Spizella pallida Baja California" ; Times: 1
+	Query: "Tolmomyias sulphurescens pallescens brazil" ; Times: 1
+	Query: "aves Georgia United States Sitta pusilla" ; Times: 2
+	Query: "449606" ; Times: 1
+	Query: "catalognumber:4488 institutioncode:FMNH" ; Times: 2
+	Query: "strix leptogrammica" ; Times: 2
+	Query: "Chalcophaps indica sandwichensis" ; Times: 1
+	Query: "genus:rupicola" ; Times: 2
+	Query: ""Archbold Biological Station" type:specimen class:Aves" ; Times: 1
+	Query: "Culicivora caudacuta brazil" ; Times: 1
+	Query: "78732" ; Times: 1
+	Query: "institutioncode:FMNH (Accipitridae OR Cathartidae OR Pandionidae OR Falconidae)" ; Times: 1
+	Query: "scolopax rusticola" ; Times: 6
+	Query: "Crypturellus cinereus brazil" ; Times: 2
+	Query: "Platyrinchus mystaceus brazil" ; Times: 2
+	Query: "psittacula cyanocephala type:specimen (skel)" ; Times: 1
+	Query: "449605" ; Times: 1
+	Query: "254877" ; Times: 1
+	Query: "103178" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "psittacula eupatria" ; Times: 4
+	Query: "cyanerpes nitidus (skel)" ; Times: 1
+	Query: "Phoenicoparrus jamesi" ; Times: 1
+	Query: "catalognumber:247229 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:394295 institutioncode:FMNH" ; Times: 1
+	Query: "stateprovince:"alaska" specificepithet:fischeri class:aves year >= 1915 year <= 1920" ; Times: 1
+	Query: "Apus pacificus country:"india"" ; Times: 1
+	Query: "Myiobius barbatus semiflavus" ; Times: 1
+	Query: "Tolmomyias flaviventris brazil" ; Times: 2
+	Query: "turdus obscurus" ; Times: 3
+	Query: "Dendragapus obscurus COLORADO year >= 1800 year <= 1910" ; Times: 1
+	Query: "fmnh 86949" ; Times: 2
+	Query: "Picus vittatus" ; Times: 1
+	Query: "Leptopogon superciliaris tissue:1" ; Times: 1
+	Query: "FMNH 144362" ; Times: 2
+	Query: "FMNH 144363" ; Times: 3
+	Query: "FMNH 144361" ; Times: 2
+	Query: "gallicolumba criniger skin" ; Times: 1
+	Query: "fmnh 86943" ; Times: 1
+	Query: "fmnh 86944" ; Times: 3
+	Query: "fmnh 86945" ; Times: 3
+	Query: "fmnh 86946" ; Times: 1
+	Query: "fmnh 86947" ; Times: 2
+	Query: "418960" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "catalognumber:124906 institutioncode:FMNH" ; Times: 2
+	Query: "Geotrygon saphirina" ; Times: 20
+	Query: "cairina scutulata india" ; Times: 1
+	Query: "Onychorhynchus coronatus brazil" ; Times: 1
+	Query: "Chloephaga melanoptera country:"Chile" mappable:1" ; Times: 1
+	Query: "dendrocygna bicolor india" ; Times: 2
+	Query: "catalognumber:331130 institutioncode:FMNH" ; Times: 1
+	Query: "Cinclus (SKEL)" ; Times: 1
+	Query: "catalognumber:457594 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:439359 institutioncode:FMNH" ; Times: 1
+	Query: "52375" ; Times: 1
+	Query: "Otus sunia country:"india"" ; Times: 1
+	Query: "63683 genus:ZONOTRICHIA" ; Times: 4
+	Query: "PATAGONA GIGAS year >= 1800 year <= 1900" ; Times: 1
+	Query: "Arborophila brunneopectus henrici" ; Times: 2
+	Query: "Amaurornis akool" ; Times: 1
+	Query: "hypsipetes madagascariensis" ; Times: 7
+	Query: "tolmomyias flaviventris amazonas" ; Times: 1
+	Query: "Serpophaga subcristata" ; Times: 1
+	Query: "corapipo leucorrhoa country:"colombia"" ; Times: 1
+	Query: "411835" ; Times: 1
+	Query: "411836" ; Times: 1
+	Query: "contoy" ; Times: 1
+	Query: "Gallicolumba johannae" ; Times: 2
+	Query: "fmnh 79961" ; Times: 1
+	Query: "hemignathus lucidus SKIN" ; Times: 2
+	Query: "Megalaima armillaris skin" ; Times: 1
+	Query: "Xiphorhynchus guttatus susurrans" ; Times: 1
+	Query: "Eudromias morinellus" ; Times: 1
+	Query: "amazona pretrei type:specimen (skel)" ; Times: 1
+	Query: "brachypteryx major" ; Times: 1
+	Query: "muscicapa ruficauda" ; Times: 4
+	Query: "4206 specificepithet:melodia" ; Times: 2
+	Query: "Tachuris rubrigastra brazil" ; Times: 1
+	Query: "garrulax delesserti" ; Times: 1
+	Query: "Phoenicoparrus andinus" ; Times: 1
+	Query: "cuculus saturatus" ; Times: 3
+	Query: "gallus sonneratii" ; Times: 1
+	Query: "penelope obscura" ; Times: 1
+	Query: "jerez zacatecas" ; Times: 1
+	Query: "tolmomyias flaviventris amazonas Brazil" ; Times: 1
+	Query: "Myiobius atricaudus portovelae" ; Times: 1
+	Query: "sclerurus mexicanus" ; Times: 1
+	Query: "tolmomyias sulphurescens tissue:1" ; Times: 3
+	Query: "Nothura minor brazil" ; Times: 1
+	Query: "fmnh 86948" ; Times: 2
+	Query: "Pipra rubrocapilla 391215" ; Times: 1
+	Query: "Pipra rubrocapilla 391214" ; Times: 1
+	Query: "Dicaeum hypoleucum" ; Times: 1
+	Query: "55546" ; Times: 1
+	Query: "arachnothera clarae" ; Times: 1
+	Query: "penelope superciliaris" ; Times: 2
+	Query: "gallicolumba keayi" ; Times: 1
+	Query: "Psittacula alexandri Indonesia" ; Times: 1
+	Query: "catalognumber:391650 institutioncode:FMNH" ; Times: 1
+	Query: "aves Georgia United States Thryothorus ludovicianus" ; Times: 2
+	Query: "Microchera albocoronata albocoronata county:"Panama"" ; Times: 1
+	Query: "Accipiter gularis" ; Times: 1
+	Query: "Serpophaga munda brazil" ; Times: 1
+	Query: "aves Georgia United States Cistothorus palustris 1886" ; Times: 1
+	Query: ""lanius" institutioncode:FMNH" ; Times: 1
+	Query: "amazona collaria type:specimen (skel)" ; Times: 1
+	Query: "catalognumber:262813 institutioncode:FMNH" ; Times: 2
+	Query: "pulsatrix" ; Times: 3
+	Query: "Megapodius laperouse senex" ; Times: 3
+	Query: "Aegolius "India" type:specimen AND (NOT Canada)" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1923" ; Times: 1
+	Query: "Myiobius atricaudus" ; Times: 1
+	Query: "lanius collurio institutioncode:fmnh" ; Times: 1
+	Query: "pionus sordidus" ; Times: 2
+	Query: "Todirostrum cinereum brazil" ; Times: 1
+	Query: "gavia immer "North Dakota" year >= 1905 year <= 1905" ; Times: 1
+	Query: "75588" ; Times: 1
+	Query: "iodopleura isabellae" ; Times: 2
+	Query: "Gallinago undulata brazil" ; Times: 1
+	Query: "Merops breweri institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:206332" ; Times: 1
+	Query: "Monias benschi" ; Times: 2
+	Query: "Inezia inornata brazil" ; Times: 1
+	Query: "797085" ; Times: 1
+	Query: "fmnh 4488" ; Times: 1
+	Query: "Gallinago paraguaiae brazil" ; Times: 1
+	Query: "Quiche country:"Guatemala" class:Aves" ; Times: 2
+	Query: "Buteo rufinus" ; Times: 1
+	Query: "loxigilla desiradensis" ; Times: 1
+	Query: "catalognumber:392659 institutioncode:FMNH" ; Times: 1
+	Query: "Ixobrychus exilis brazil" ; Times: 1
+	Query: "rhynchocyclus olivaceus tissue:1" ; Times: 1
+	Query: "catalognumber:311129 institutioncode:FMNH" ; Times: 1
+	Query: "anthus lutescens" ; Times: 2
+	Query: "Eremophila alpestris hoyti year <= 1895" ; Times: 1
+	Query: "Skin-411920" ; Times: 1
+	Query: "ficedula nigrorufa" ; Times: 1
+	Query: "Nyctibius grandis guatemalensis" ; Times: 1
+	Query: "764732" ; Times: 1
+	Query: "Terenotriccus erythrurus signatus" ; Times: 2
+	Query: "dicaeum ignipectus" ; Times: 1
+	Query: "class:Aves catalognumber:10783 institutioncode:FMNH" ; Times: 1
+	Query: "tolmomyias flaviventris Amazonas Brazil" ; Times: 1
+	Query: "Strix aluco biddulphi country:"India"" ; Times: 1
+	Query: "gorsachius melanolophus india" ; Times: 1
+	Query: "Euscarthmus rufomarginatus brazil" ; Times: 1
+	Query: "Pionopsitta pyrilia" ; Times: 1
+	Query: "catalognumber:334603 institutioncode:FMNH" ; Times: 1
+	Query: "dicaeum trigonostigma" ; Times: 2
+	Query: "anthus hellmayri dabbenei" ; Times: 2
+	Query: "seicercus burkii" ; Times: 1
+	Query: "Tolmomyias poliocephalus brazil" ; Times: 2
+	Query: "catalognumber:30758" ; Times: 1
+	Query: "type:specimen class:Aves (Rio Grande do Sul) year >= 1910 year <= 1940" ; Times: 1
+	Query: "FMNH 218506" ; Times: 2
+	Query: "Pachyramphus aglaiae gravis" ; Times: 1
+	Query: "Onychorhynchus coronatus" ; Times: 1
+	Query: "Coryphospingus cucullatus" ; Times: 2
+	Query: "corvus corax stateprovince:"alaska" class:aves year >= 1933 year <= 1933" ; Times: 1
+	Query: "anas platyrhynchos india" ; Times: 9
+	Query: "49339" ; Times: 3
+	Query: "Merops persicus institutioncode:FMNH" ; Times: 1
+	Query: "Phapitreron leucotis brevirostris" ; Times: 2
+	Query: "Arachnothera flavigaster" ; Times: 2
+	Query: "class:aves catalognumber:163574" ; Times: 2
+	Query: "407285" ; Times: 1
+	Query: "Turdoides type:specimen year >= 1980" ; Times: 1
+	Query: "Mionectes oleagineus country:"venezuela"" ; Times: 3
+	Query: "Merops malimbicus institutioncode:FMNH" ; Times: 1
+	Query: "Contopus latirostris" ; Times: 1
+	Query: "aves Georgia United States Parus carolinensis" ; Times: 3
+	Query: "Anthus burzil" ; Times: 7
+	Query: "Muscisaxicola fluviatilis brazil" ; Times: 1
+	Query: "aves Georgia United States Tyrannus dominicensis" ; Times: 1
+	Query: "zoothera dauma" ; Times: 6
+	Query: "aves Georgia United States Corvus brachyrhynchos" ; Times: 1
+	Query: "Todirostrum poliocephalum brazil" ; Times: 1
+	Query: "FMNH 134734" ; Times: 2
+	Query: "stateprovince:"alaska" specificepithet:squatarola class:aves year >= 1915 year <= 1920" ; Times: 1
+	Query: "chalcites xanthorhynchus" ; Times: 2
+	Query: "ampelion rufaxilla country:"colombia"" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 139 (out of 976 download events in this period)
+Total number of records downloaded: 113800 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 70975
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Brazil ; Times: 16
+	Country: Canada ; Times: 4
+	Country: Chile ; Times: 1
+	Country: Germany ; Times: 3
+	Country: India ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: Netherlands ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 36
+	Country: Unknown ; Times: 57
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-06 ; Times: 3
+	Date: 2015-05-07 ; Times: 2
+	Date: 2015-05-08 ; Times: 2
+	Date: 2015-05-09 ; Times: 1
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 6
+	Date: 2015-05-12 ; Times: 3
+	Date: 2015-05-13 ; Times: 11
+	Date: 2015-05-14 ; Times: 4
+	Date: 2015-05-15 ; Times: 4
+	Date: 2015-05-16 ; Times: 2
+	Date: 2015-05-17 ; Times: 2
+	Date: 2015-05-18 ; Times: 19
+	Date: 2015-05-19 ; Times: 36
+	Date: 2015-05-20 ; Times: 4
+	Date: 2015-05-21 ; Times: 1
+	Date: 2015-05-22 ; Times: 6
+	Date: 2015-05-23 ; Times: 2
+	Date: 2015-05-24 ; Times: 5
+	Date: 2015-05-25 ; Times: 5
+	Date: 2015-05-27 ; Times: 7
+	Date: 2015-05-28 ; Times: 4
+	Date: 2015-05-29 ; Times: 5
+	Date: 2015-05-30 ; Times: 1
+	Date: 2015-05-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "Didunculus" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "county:"isla" country:"Mexico"" ; Times: 1
+	Query: "type:specimen specificepithet:iliaca class:Aves institutioncode:FMNH OR UMMZ" ; Times: 1
+	Query: "Streptoprocne semicollaris" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "Rhynchocyclus" ; Times: 2
+	Query: "Cistothorus platensis" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "Cnemotriccus fuscatus brazil" ; Times: 1
+	Query: "specificepithet:tigrina genus:Dendroica class:Aves institutioncode:UMMZ OR FMNH" ; Times: 1
+	Query: "aves Georgia United States Sitta pusilla" ; Times: 1
+	Query: "ammodramus leconteii" ; Times: 1
+	Query: "Sublegatus modestus brazil" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1909" ; Times: 38
+	Query: "platyrinchus mystaceus type:specimen mappable:1 tissue:1" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "tyto alba" ; Times: 1
+	Query: "Rynchops niger intercedens" ; Times: 2
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "pionus maximiliani" ; Times: 2
+	Query: "Cistothorus palustris" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "Accipitridae OR Cathartidae OR Pandionidae OR Falconidae stateprovince:"Texas" country:"USA" institutioncode:FMNH" ; Times: 1
+	Query: "genus:rupicola" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Thryothorus ludovicianus" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Sakesphorus melanonotus" ; Times: 1
+	Query: "mionectes oleagineus" ; Times: 1
+	Query: "Cinclus (SKEL)" ; Times: 1
+	Query: "hypogramma" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "Accipitridae OR Cathartidae OR Pandionidae OR Falconidae stateprovince:"Texas" institutioncode:FMNH" ; Times: 2
+	Query: "samar aves" ; Times: 1
+	Query: "Myiophobus fasciatus brazil" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1891 year <= 1909" ; Times: 4
+	Query: "Vermivora pinus year >= 1800 year <= 1930" ; Times: 1
+	Query: "Neochmia phaeton year >= 1900 year <= 1960" ; Times: 1
+	Query: "stateprovince:"Texas" country:"USA" institutioncode:FMNH (Accipitridae OR Cathartidae OR Pandionidae OR Falconidae)" ; Times: 1
+	Query: "Rynchops niger cinerascens" ; Times: 1
+	Query: "arizona elegans" ; Times: 1
+	Query: "Thryothorus albinucha" ; Times: 1
+	Query: "Micrastur mintoni" ; Times: 1
+	Query: "specificepithet:hudsonicus class:Aves institutioncode:ROM OR UMMZ OR FMNH OR MVZ OR CAS" ; Times: 1
+	Query: "Sitta magna" ; Times: 1
+	Query: "lanius isabellinus" ; Times: 1
+	Query: "laticauda" ; Times: 1
+	Query: "Pterocles personatus" ; Times: 2
+	Query: "Vermivora pinus" ; Times: 1
+	Query: "nana Jamaica" ; Times: 1
+	Query: "Pyrocephalus rubinus brazil" ; Times: 1
+	Query: "specificepithet:minor genus:Chordeiles class:Aves institutioncode:UMMZ OR FMNH" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1910 year <= 1925" ; Times: 4
+	Query: ""Neochmia phaeton" country:"Australia"" ; Times: 1
+	Query: "country:"Philippines" class:Aves year <= 2015" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1890" ; Times: 3
+	Query: "phaeomyias murina brazil" ; Times: 1
+	Query: "Lepidocolaptes angustirostris" ; Times: 2
+	Query: "Motacilla alba type:specimen year >= 1926 year <= 1936" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus tissue:1" ; Times: 1
+	Query: "stateprovince:"Texas" institutioncode:FMNH (Accipitridae OR Cathartidae OR Pandionidae OR Falconidae) AND (egg)" ; Times: 1
+	Query: "country:"Peru" institutioncode:FMNH year >= 1975 year <= 1975" ; Times: 2
+	Query: "Motacilla alba type:specimen year >= 1937 year <= 1955" ; Times: 1
+	Query: "Streptopelia turtur" ; Times: 1
+	Query: "cranioleuca baroni" ; Times: 1
+	Query: "jerez zacatecas" ; Times: 1
+	Query: "Motacilla alba type:specimen year >= 1956 year <= 1988" ; Times: 1
+	Query: "minnesota egg" ; Times: 1
+	Query: "Sitta magna Thailand" ; Times: 1
+	Query: "Tyrannidae" ; Times: 2
+	Query: "Underwood" ; Times: 1
+	Query: "60354 OR 92916 OR 541 OR 5446 OR 5450 specificepithet:mollissima genus:Somateria" ; Times: 1
+	Query: "Phaetusa simplex simplex" ; Times: 1
+	Query: "Chloephaga melanoptera country:"Chile" mappable:1" ; Times: 1
+	Query: "Coryphospingus cucullatus" ; Times: 1
+	Query: "Phaetusa simplex chloropoda" ; Times: 1
+	Query: "arachnothera" ; Times: 1
+	Query: "country:"Peru" institutioncode:FMNH year >= 1968 year <= 1968" ; Times: 1
+	Query: "ammodramus nelsoni" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "Cachar" ; Times: 1
+	Query: "certhia americana" ; Times: 1
+	Query: "Satrapa icterophrys brazil" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 3851
+Total number of records retrieved from searches: 48072
+Number of download events that retrieved data from the resource: 284
+Total number of records downloaded: 241933
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 4334
+Total number of records retrieved from searches: 53557
+Number of download events that retrieved data from the resource: 651
+Total number of records downloaded: 1318775
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
