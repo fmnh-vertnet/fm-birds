@@ -1,0 +1,249 @@
+Report for Institution Code FMNH, Resource fm_birds
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 184
+Number of records retrieved in searches: 2180
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 32
+	Country: Canada ; Times: 4
+	Country: Australia ; Times: 6
+	Country: Mexico ; Times: 8
+	Country: Denmark ; Times: 2
+	Country: Puerto Rico ; Times: 4
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 14
+	Country: Austria ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Bolivia ; Times: 1
+	Country: United States ; Times: 98
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 14
+	Date: 2016-03-02 ; Times: 11
+	Date: 2016-03-10 ; Times: 13
+	Date: 2016-03-01 ; Times: 20
+	Date: 2016-03-08 ; Times: 14
+	Date: 2016-03-09 ; Times: 9
+	Date: 2016-03-06 ; Times: 13
+	Date: 2016-03-07 ; Times: 8
+	Date: 2016-03-14 ; Times: 24
+	Date: 2016-03-05 ; Times: 10
+	Date: 2016-03-11 ; Times: 11
+	Date: 2016-03-03 ; Times: 7
+	Date: 2016-03-13 ; Times: 25
+	Date: 2016-03-12 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen genus:mionectes class:Aves stateprovince:&#34;alagoas&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "clamator jacobinus kerala" ; Times: 1
+	Query: "Capito dayi brazil" ; Times: 1
+	Query: "type:specimen genus:Platyrinchus class:Aves stateprovince:&#34;alagoas&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "ceyx erithacus" ; Times: 1
+	Query: "FMNH neblina" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "megalaima zeylanica" ; Times: 2
+	Query: "Diglossa plumbea" ; Times: 1
+	Query: "Limnodromus griseus (British Columbia)" ; Times: 2
+	Query: "perdix minnesota" ; Times: 1
+	Query: "(bleda) institutioncode:FMNH" ; Times: 5
+	Query: "95588" ; Times: 1
+	Query: "petechia cuba" ; Times: 1
+	Query: "type:specimen genus:Platyrinchus class:Aves stateprovince:&#34;PERNAMBUCO&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "clark salyer" ; Times: 1
+	Query: "icterus pyrrhopterus tissue:1" ; Times: 1
+	Query: "merops leschenaulti" ; Times: 1
+	Query: "specificepithet:flava genus:motacilla country:&#34;china&#34; year &gt;= 1930 year &lt;= 1931" ; Times: 1
+	Query: "type:specimen genus:Pyrrhura country:&#34;Peru&#34; (roseifrons)" ; Times: 1
+	Query: "crypturellus tataupa" ; Times: 1
+	Query: "catalognumber:265832 institutioncode:FMNH" ; Times: 1
+	Query: "megalaima viridis" ; Times: 1
+	Query: "genus:Tachuris class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "FMNH 81071" ; Times: 2
+	Query: "catharus minimus month &gt;= 6 month &lt;= 8 tissue:1" ; Times: 1
+	Query: "FMNH 81072" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "diglossa baritula" ; Times: 3
+	Query: "specificepithet:chrysaetos genus:aquila country:&#34;china&#34;" ; Times: 1
+	Query: "Phoenicoparrus jamesi" ; Times: 1
+	Query: "Strix type:specimen country:&#34;guatemala&#34; AND (NOT nigrolineata NOT occidentalis NOT virgata NOT nigrolineatum NOT virgatum)" ; Times: 1
+	Query: "type:specimen genus:Platyrinchus class:Aves stateprovince:&#34;Goias&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:platyrhynchos genus:Platyrinchus class:Aves stateprovince:&#34;amazonas&#34; country:&#34;Brazil&#34;" ; Times: 3
+	Query: "type:specimen genus:mionectes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "institutioncode:FMNH" ; Times: 2
+	Query: "country:&#34;Honduras&#34; year &gt;= 1964 year &lt;= 1965" ; Times: 1
+	Query: "specificepithet:violaceus genus:cyanocorax country:&#34;colombia&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:platyrhynchos genus:Platyrinchus class:Aves stateprovince:&#34;RORAIMA&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "lepidocolaptes angustirostris mappable:1" ; Times: 2
+	Query: "FMNH 187426" ; Times: 1
+	Query: "Charmosyna josefinae" ; Times: 1
+	Query: "affinis minnesota" ; Times: 1
+	Query: "Claravis mondetoura" ; Times: 1
+	Query: "rhipidura nigromentalis" ; Times: 1
+	Query: "picumnus cirratus" ; Times: 1
+	Query: "anthus nilghiriensis" ; Times: 1
+	Query: "Caprimulgus tristigma" ; Times: 1
+	Query: "type:specimen specificepithet:coronatus genus:Platyrinchus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "FMNH 78219" ; Times: 1
+	Query: "FMNH 78218" ; Times: 2
+	Query: "234977" ; Times: 1
+	Query: "FMNH 78217" ; Times: 1
+	Query: "219887 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:126505" ; Times: 1
+	Query: "Aves Upucerthia (Bolivia)" ; Times: 1
+	Query: "eudynamys scolopacea india" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 1
+	Query: "Pitta elliotii" ; Times: 1
+	Query: "Petronia brachydactyla" ; Times: 1
+	Query: "monster" ; Times: 4
+	Query: "Tachybaptus novaehollandiae FMNH" ; Times: 1
+	Query: "FMNH 81680" ; Times: 1
+	Query: "FMNH-43456" ; Times: 1
+	Query: "xiphorhynchus obsoletus mappable:1" ; Times: 1
+	Query: "tyto alba india" ; Times: 1
+	Query: "type:specimen genus:Platyrinchus class:Aves stateprovince:&#34;AMAZONAS&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:289463" ; Times: 1
+	Query: "276604" ; Times: 1
+	Query: "crypturellus duidae" ; Times: 1
+	Query: "sylvietta ruficapilla institutioncode:FMNH" ; Times: 1
+	Query: "catharus fuscescens month &gt;= 6 month &lt;= 8 tissue:1" ; Times: 1
+	Query: "dicrurus adsimilis" ; Times: 1
+	Query: "Strix type:specimen country:&#34;guatemala&#34; AND (NOT nigrolineata NOT occidentalis NOT virgata)" ; Times: 1
+	Query: "sylvietta ruficapilla" ; Times: 1
+	Query: "type:specimen specificepithet:mystaceus genus:Platyrinchus class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Falco sparverius (Alaska OR Yukon ) month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "nkk 415" ; Times: 2
+	Query: "Pandion haliaetus ridgwayi type:specimen" ; Times: 1
+	Query: "myrmecocichla nigra" ; Times: 1
+	Query: "Icterus cayanensis mappable:1" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "Furnarius rufus" ; Times: 1
+	Query: "type:specimen genus:Mionectes class:Aves stateprovince:&#34;Maranhao&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "nkk 420" ; Times: 1
+	Query: "Pachyramphus aglaiae tissue:1" ; Times: 1
+	Query: "striata stateprovince:&#34;Manitoba&#34; country:&#34;Canada&#34; (setophaga OR dendroica) month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "specificepithet:heilprini genus:cyanocorax" ; Times: 1
+	Query: "type:specimen genus:mionectes class:Aves stateprovince:&#34;bahia&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "235105" ; Times: 1
+	Query: "235104" ; Times: 1
+	Query: "Pyrrhura griseipectus" ; Times: 1
+	Query: "FMNH 81035" ; Times: 4
+	Query: "type:specimen specificepithet:leucoryphus genus:Platyrinchus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "taccocua leschenaultii india" ; Times: 2
+	Query: "ectopistes migratorius" ; Times: 2
+	Query: "dicrurus macrocercus" ; Times: 1
+	Query: "megalaima haemacephala india" ; Times: 1
+	Query: "Aechmophorus clarkii" ; Times: 1
+	Query: "type:specimen specificepithet:oleagineus genus:Mionectes class:Aves stateprovince:&#34;para&#34; country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Pachyramphus albogriseus tissue:1" ; Times: 1
+	Query: "crypturellus undulatus adspersus" ; Times: 1
+	Query: "&#34;Caprimulgus tristigma&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:platyrhynchos genus:Platyrinchus class:Aves stateprovince:&#34;pARA&#34; country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:platyrhynchos genus:Platyrinchus class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "synallaxis type:specimen tissue:1" ; Times: 1
+	Query: "specificepithet:americana genus:Grus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "diglossa sittoides" ; Times: 2
+	Query: "class:aves catalognumber:11346" ; Times: 2
+	Query: "centropus toulou" ; Times: 2
+	Query: "crypturellus obsoletus griseiventris" ; Times: 2
+	Query: "Ammodramus henslowii (virginia)" ; Times: 1
+	Query: "troglodytes helleri" ; Times: 1
+	Query: "Celeus flavescens brazil" ; Times: 1
+	Query: "otus continent:Asia tissue:1" ; Times: 2
+	Query: "Brachypteryx major" ; Times: 2
+	Query: "Puffinus auricularis auricularis" ; Times: 1
+	Query: "petechia country:&#34;cuba&#34;" ; Times: 1
+	Query: "116352" ; Times: 2
+	Query: "cuculus canorus india" ; Times: 1
+	Query: "Campephilus robustus brazil" ; Times: 1
+	Query: "aythya americana class:Aves country:&#34;Canada&#34; year &gt;= 1940 year &lt;= 1940" ; Times: 1
+	Query: "type:specimen genus:Atrichornis" ; Times: 1
+	Query: "playa escondida" ; Times: 1
+	Query: "Tringa solitaria (British Columbia)" ; Times: 1
+	Query: "prinia socialis" ; Times: 1
+	Query: "(yehuin)" ; Times: 1
+	Query: "class:aves catalognumber:11350" ; Times: 1
+	Query: "Pitta reichenowi" ; Times: 1
+	Query: "Doricha eliza" ; Times: 1
+	Query: "calothorax pulcher" ; Times: 1
+	Query: "catalognumber:71838 institutioncode:FMNH" ; Times: 1
+	Query: "genus:Cnipodectes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "coracina melanoptera" ; Times: 1
+	Query: "FMNH 78178" ; Times: 1
+	Query: "catalognumber:193823" ; Times: 1
+	Query: "type:specimen genus:mionectes class:Aves stateprovince:&#34;paulo&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Camptorhynchus" ; Times: 1
+	Query: "Limnodromus scolopaceus (British Columbia)" ; Times: 1
+	Query: "Oriolus xanthornus" ; Times: 2
+	Query: "clamator jacobinus india" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 230 download events in this period)
+Total number of records downloaded: 19695
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Denmark ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 14
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 3
+	Date: 2016-03-10 ; Times: 5
+	Date: 2016-03-08 ; Times: 1
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-11 ; Times: 6
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-13 ; Times: 1
+	Date: 2016-03-01 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;regulus satrapa&#34; genus:regulus year &gt;= 2000 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Psittacidae Psittacula" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1941 year &lt;= 1945" ; Times: 2
+	Query: "chordeiles minor mappable:1" ; Times: 1
+	Query: "killdeer" ; Times: 1
+	Query: "calothorax" ; Times: 1
+	Query: "oreonympha nobilis" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "Oriolus xanthonotus" ; Times: 1
+	Query: "myrmecocichla nigra" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Icterus cayanensis mappable:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "parula americana" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1986 year &lt;= 1989" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1929 year &lt;= 1930" ; Times: 1
+	Query: "tyrannus forficatus" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1980 year &lt;= 1985" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "Doricha eliza" ; Times: 1
+	Query: "parula pitiayumi" ; Times: 1
+	Query: "xiphorhynchus obsoletus mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1938 year &lt;= 1940" ; Times: 1
+	Query: "lepidocolaptes angustirostris mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1900" ; Times: 1
+	Query: "Ardeidae Costa Rica" ; Times: 1
+
+
+End of report.
