@@ -1,0 +1,322 @@
+Report for Institution Code FMNH, Resource fm_birds
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 280
+Number of records retrieved in searches: 3511
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 29
+	Country: Turkey ; Times: 1
+	Country: Russia ; Times: 3
+	Country: Australia ; Times: 20
+	Country: Colombia ; Times: 11
+	Country: Portugal ; Times: 8
+	Country: Mexico ; Times: 20
+	Country: Unknown ; Times: 3
+	Country: Panama ; Times: 3
+	Country: India ; Times: 2
+	Country: France ; Times: 4
+	Country: United States ; Times: 129
+	Country: Malaysia ; Times: 2
+	Country: Netherlands ; Times: 6
+	Country: Germany ; Times: 13
+	Country: United Kingdom ; Times: 13
+	Country: Chile ; Times: 2
+	Country: Denmark ; Times: 4
+	Country: Japan ; Times: 1
+	Country: China ; Times: 5
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 29
+	Date: 2016-05-18 ; Times: 14
+	Date: 2016-05-17 ; Times: 3
+	Date: 2016-05-16 ; Times: 13
+	Date: 2016-05-15 ; Times: 6
+	Date: 2016-05-14 ; Times: 3
+	Date: 2016-05-13 ; Times: 11
+	Date: 2016-05-12 ; Times: 22
+	Date: 2016-05-11 ; Times: 19
+	Date: 2016-05-10 ; Times: 6
+	Date: 2016-05-31 ; Times: 24
+	Date: 2016-05-30 ; Times: 7
+	Date: 2016-05-09 ; Times: 8
+	Date: 2016-05-02 ; Times: 4
+	Date: 2016-05-03 ; Times: 4
+	Date: 2016-05-04 ; Times: 9
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-06 ; Times: 3
+	Date: 2016-05-07 ; Times: 4
+	Date: 2016-05-26 ; Times: 31
+	Date: 2016-05-27 ; Times: 11
+	Date: 2016-05-24 ; Times: 8
+	Date: 2016-05-25 ; Times: 6
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-23 ; Times: 3
+	Date: 2016-05-20 ; Times: 4
+	Date: 2016-05-21 ; Times: 2
+	Date: 2016-05-28 ; Times: 13
+	Date: 2016-05-29 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "lonchura nana" ; Times: 1
+	Query: "Ocreatus underwoodii type:specimen institutioncode:FMNH" ; Times: 1
+	Query: "type:specimen specificepithet:assimilis genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:gallopavo genus:meleagris tissue:1" ; Times: 1
+	Query: "Myzomela albigula" ; Times: 6
+	Query: "(catalognumber:95656 OR catalognumber:956567) institutioncode:FMNH collectioncode:Birds" ; Times: 1
+	Query: "specificepithet:cyanocephalus stateprovince:&#34;Kansas&#34;" ; Times: 4
+	Query: "genus:Colaptes country:&#34;Mexico&#34; (Guadalupe)" ; Times: 1
+	Query: "type:specimen specificepithet:olivaceus genus:Rhynchocyclus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:pinus genus:carduelis class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "Aves Madagascar type:specimen tissue:1" ; Times: 1
+	Query: "specificepithet:cyanea genus:platysteira (skel) institutioncode:FMNH" ; Times: 1
+	Query: "class:aves catalognumber:451573" ; Times: 1
+	Query: "chlorostilbon forficatus" ; Times: 1
+	Query: "netta rufina" ; Times: 2
+	Query: "catalognumber:178426" ; Times: 1
+	Query: "Myzomela sclateri" ; Times: 5
+	Query: "Gypaetus barbatus" ; Times: 8
+	Query: "Plegadis falcinellus tissue:1" ; Times: 1
+	Query: "Eupherusa cyanophrys" ; Times: 1
+	Query: "phalacrocorax harrisi" ; Times: 1
+	Query: "specificepithet:DOMESTICUS genus:PASSER continent:Africa" ; Times: 1
+	Query: "150944" ; Times: 1
+	Query: "Halcyon albiventris Kenya" ; Times: 1
+	Query: "Amazilia beryllina devillei" ; Times: 1
+	Query: "323384" ; Times: 1
+	Query: "neophema tissue:1" ; Times: 13
+	Query: "Lophura bulweri" ; Times: 2
+	Query: "FMNH 390007" ; Times: 2
+	Query: "fmnh 129803" ; Times: 1
+	Query: "specificepithet:mesochrysa genus:Euphonia tissue:1" ; Times: 1
+	Query: "pyrrhura lepida" ; Times: 1
+	Query: "eriocnemis godini institutioncode:FMNH" ; Times: 1
+	Query: "caprimulgus indicus" ; Times: 1
+	Query: "mimizuku gurneyi" ; Times: 3
+	Query: "anhima cornuta" ; Times: 4
+	Query: "275548" ; Times: 1
+	Query: "phaethornis subochraceus type:specimen institutioncode:FMNH" ; Times: 1
+	Query: "(catalognumber:95656 OR catalognumber:103274 OR catalognumber:186655) institutioncode:FMNH collectioncode:Birds" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 4
+	Query: "(catalognumber:95656 OR catalognumber:103274) institutioncode:FMNH collectioncode:Birds" ; Times: 1
+	Query: "euscarthmus meloryphus country:&#34;venezuela&#34;" ; Times: 1
+	Query: "nandayus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:sulphurescens genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "graueria vittata" ; Times: 1
+	Query: "Myzomela erythrocephala infuscata" ; Times: 1
+	Query: "genus:Phylloscopus (skel) institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:elegans genus:rallus year &gt;= 1934 year &lt;= 1934" ; Times: 1
+	Query: "Halcyon leucocephala Kenya" ; Times: 1
+	Query: "specificepithet:bairdii stateprovince:&#34;michigan&#34; year &gt;= 1830" ; Times: 1
+	Query: "133942" ; Times: 1
+	Query: "catalognumber:59092" ; Times: 1
+	Query: "Phaethornis rupurumii institutioncode:FMNH" ; Times: 1
+	Query: "gbifdatasetid:36f15a36-6b45-442e-9c31-cd633423aee0" ; Times: 1
+	Query: "Ardea herodias herodias year &gt;= 2012 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "Chlorostilbon forficatus" ; Times: 1
+	Query: "290198" ; Times: 1
+	Query: "fmnh 425603" ; Times: 1
+	Query: "Aves nasutus Kenya" ; Times: 1
+	Query: "Turdoides earlei" ; Times: 2
+	Query: "110018}" ; Times: 1
+	Query: "(catalognumber:95656 OR catalognumber:103274 OR catalognumber:186655 OR catalognumber:186656 OR catalognumber:220658 OR catalognumber:220659 OR catalognumber:220660 OR catalognumber:220661 OR catalognumber:224152 OR catalognumber:224153 OR catalognumber:285575 OR catalognumber:298234 OR catalognumber:301935 OR catalognumber:357942) institutioncode:FMNH collectioncode:Birds" ; Times: 1
+	Query: "nipponia nippon" ; Times: 5
+	Query: "year &gt;= 2015 year &lt;= 2016 institutioncode:FMNH" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "388656" ; Times: 1
+	Query: "Coccyzus erythropthalmus tissue:1" ; Times: 1
+	Query: "Oxypogon guerinii institutioncode:FMNH" ; Times: 1
+	Query: "(catalognumber:301935 OR catalognumber:357942) institutioncode:FMNH collectioncode:Birds" ; Times: 1
+	Query: "heliangelus regalis" ; Times: 1
+	Query: "specificepithet:elegans genus:rallus year &gt;= 1936 year &lt;= 1936 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "aegotheles insignis" ; Times: 1
+	Query: "Amazona tissue:1" ; Times: 1
+	Query: "specificepithet:plumbea genus:polioptila (skel) institutioncode:FMNH" ; Times: 1
+	Query: "Campethera nubica pallida" ; Times: 1
+	Query: "Podiceps auritus AND Island NOT Canada" ; Times: 1
+	Query: "Myzomela adolphinae" ; Times: 1
+	Query: "Numida tissue:1" ; Times: 1
+	Query: "catalognumber:95656 OR catalognumber:103274 OR catalognumber:186655 OR catalognumber:186656 OR catalognumber:220658 OR catalognumber:220659 OR catalognumber:220660 OR catalognumber:220661 OR catalognumber:224152 OR catalognumber:224153 OR catalognumber:285575 OR catalognumber:298234 OR catalognumber:301935 OR catalognumber:357942" ; Times: 1
+	Query: "Coccyzus americanus tissue:1" ; Times: 1
+	Query: "(catalognumber:220660 OR catalognumber:220661 OR catalognumber:224152) institutioncode:FMNH collectioncode:Birds" ; Times: 1
+	Query: "Polyonymus caroli institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:xanthogaster genus:Euphonia tissue:1" ; Times: 1
+	Query: "Ardea herodias year &gt;= 2012 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "313891" ; Times: 1
+	Query: "Treron Tanzania" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "205638" ; Times: 1
+	Query: "specificepithet:cyanea genus:platysteira institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:gymnocephala genus:pityriasis (skel) institutioncode:FMNH" ; Times: 1
+	Query: "Myiarchus venezuelensis" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+	Query: "Podilymbus podiceps AND Island NOT Canada" ; Times: 1
+	Query: "genus:phylloscartes country:&#34;brazil&#34;" ; Times: 1
+	Query: "Terenura spodioptila" ; Times: 2
+	Query: "catalognumber:199499" ; Times: 1
+	Query: "catalognumber:199497" ; Times: 1
+	Query: "Numida" ; Times: 1
+	Query: "Ocreatus" ; Times: 2
+	Query: "283175" ; Times: 1
+	Query: "catalognumber:388656" ; Times: 1
+	Query: "crinifer" ; Times: 1
+	Query: "391039" ; Times: 1
+	Query: "glaucidium minutissimum" ; Times: 2
+	Query: "Kenopia" ; Times: 1
+	Query: "206986" ; Times: 1
+	Query: "Falco AND San Miguel" ; Times: 1
+	Query: "specificepithet:virgata genus:Ciccaba country:&#34;Colombia&#34;" ; Times: 1
+	Query: "lerwa" ; Times: 1
+	Query: "year &gt;= 2014 year &lt;= 2015 institutioncode:FMNH" ; Times: 1
+	Query: "caerulata" ; Times: 1
+	Query: "myioborus ornatus" ; Times: 2
+	Query: "melanerpes aurifrons tissue:1" ; Times: 1
+	Query: "Podiceps auritus AND Santa Rosa" ; Times: 1
+	Query: "genus:hyliota (skel) institutioncode:FMNH" ; Times: 1
+	Query: "siphonorhis brewsteri" ; Times: 2
+	Query: "187364" ; Times: 1
+	Query: "Gampsorhynchus" ; Times: 1
+	Query: "catalognumber:199498" ; Times: 1
+	Query: "catalognumber:95656 institutioncode:FMNH" ; Times: 1
+	Query: "Neophema tissue:1" ; Times: 2
+	Query: "year &gt;= 1990 year &lt;= 1995 institutioncode:FMNH" ; Times: 1
+	Query: "lerwa lerwa" ; Times: 2
+	Query: "genus:nicator (skel) institutioncode:FMNH" ; Times: 1
+	Query: "heliangelus regalis institutioncode:FMNH" ; Times: 1
+	Query: "Oxypogon guerinii" ; Times: 1
+	Query: "galbula tombacea" ; Times: 1
+	Query: "64234" ; Times: 1
+	Query: "type:specimen genus:Tolmomyias class:Aves stateprovince:&#34;mato&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Lampornis hemileucus" ; Times: 1
+	Query: "catalognumber:95656 institutioncode:FMNH collectioncode:Birds" ; Times: 1
+	Query: "neophema institutioncode:FMNH tissue:1" ; Times: 2
+	Query: "nesoctites micromegas" ; Times: 1
+	Query: "Eremophila AND Catalina" ; Times: 1
+	Query: "stigmatura napensis" ; Times: 1
+	Query: "Dendrocincla turdina" ; Times: 1
+	Query: "type:specimen genus:Rhynchocyclus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "(catalognumber:186656 OR catalognumber:220658 OR catalognumber:220659) institutioncode:FMNH collectioncode:Birds" ; Times: 1
+	Query: "collectioncode:birds institutioncode:FMNH" ; Times: 1
+	Query: "threskiornis bernieri" ; Times: 1
+	Query: "155633 fmnh" ; Times: 1
+	Query: "genus:dendroica (skel) institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:199501" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "Galbula tombacea type:specimen country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Ardea herodias herodias year &gt;= 2012 year &lt;= 2016 institutioncode:FMNH tissue:1" ; Times: 1
+	Query: "gallicolumba keayi" ; Times: 1
+	Query: "57306" ; Times: 1
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "amazona lilacina" ; Times: 1
+	Query: "Pycnonotus Tanzania" ; Times: 1
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "type:specimen specificepithet:difficilis genus:Phylloscartes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Fratercula corniculata AND Island NOT Alaska" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "type:specimen specificepithet:sylviolus genus:Phylloscartes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Cygnus olor tissue:1" ; Times: 1
+	Query: "R-67076" ; Times: 1
+	Query: "catalognumber:66486" ; Times: 1
+	Query: "catalognumber:100 institutioncode:FMNH" ; Times: 2
+	Query: "Myzomela melanocephala" ; Times: 3
+	Query: "Myiopsitta monachus" ; Times: 2
+	Query: "genus:Euphonia tissue:1" ; Times: 1
+	Query: "Rallus elegans country:&#34;Cuba&#34;" ; Times: 1
+	Query: "genus:Coereba (skel) institutioncode:FMNH" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 5
+	Query: "FMNH-61386" ; Times: 1
+	Query: "Coracopsis tissue:1" ; Times: 1
+	Query: "selasphorus ardens" ; Times: 3
+	Query: "claravis godefrida" ; Times: 1
+	Query: "(catalognumber:224153 OR catalognumber:285575 OR catalognumber:298234) institutioncode:FMNH collectioncode:Birds" ; Times: 1
+	Query: "catalognumber:56127" ; Times: 1
+	Query: "francolinus pintadeanus" ; Times: 1
+	Query: "Ocreatus type:specimen institutioncode:FMNH" ; Times: 1
+	Query: "Pharomachrus mocinno Mexico" ; Times: 1
+	Query: "specificepithet:pectoralis genus:Euphonia tissue:1" ; Times: 1
+	Query: "genus:Platysteira tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:oustaleti genus:Phylloscartes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:oustaleti genus:Phylloscartes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "genus:cisticola (skel) institutioncode:FMNH" ; Times: 1
+	Query: "myiagra azureocapilla" ; Times: 1
+	Query: "lonchura nana tissue:1" ; Times: 1
+	Query: "Dendrocolaptes picumnus" ; Times: 3
+	Query: "pyrrhura perlata" ; Times: 2
+	Query: "Parabuteo unicinctus Mexico" ; Times: 1
+	Query: "catalognumber:199500" ; Times: 1
+	Query: "Pachyramphus castaneus amazonus" ; Times: 1
+	Query: "catalognumber:199502" ; Times: 1
+	Query: "specificepithet:elegans genus:rallus year &gt;= 1936 year &lt;= 1936" ; Times: 1
+	Query: "Tympanuchus cupido (Canada) year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "asio madagascariensis" ; Times: 1
+	Query: "Colius striatus Tanzania" ; Times: 1
+	Query: "Bleda syndactyla institutioncode:FMNH" ; Times: 1
+	Query: "phodilus assimilis" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 4
+	Query: "104182" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 327 download events in this period)
+Total number of records downloaded: 17240
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 9
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-17 ; Times: 4
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-15 ; Times: 4
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-31 ; Times: 2
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "Babax" ; Times: 1
+	Query: "myioborus melanocephalus" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+	Query: "Henicorhina country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+	Query: "melanerpes aurifrons tissue:1" ; Times: 1
+	Query: "lerwa lerwa" ; Times: 1
+	Query: "Gampsorhynchus" ; Times: 1
+	Query: "rhinomyias" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "nandayus tissue:1" ; Times: 1
+	Query: "Cinclodes fuscus" ; Times: 1
+	Query: "Malacopteron" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 2
+	Query: "Zosterops" ; Times: 1
+	Query: "Yuhina" ; Times: 1
+
+
+End of report.
