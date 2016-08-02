@@ -1,0 +1,1029 @@
+Report for Institution Code FMNH, Resource fm_birds
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 964
+Number of records retrieved in searches: 11286
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 124
+	Country: United States ; Times: 589
+	Country: Israel ; Times: 2
+	Country: Colombia ; Times: 27
+	Country: Portugal ; Times: 57
+	Country: Singapore ; Times: 17
+	Country: Denmark ; Times: 17
+	Country: Panama ; Times: 15
+	Country: Mexico ; Times: 41
+	Country: India ; Times: 7
+	Country: Costa Rica ; Times: 3
+	Country: France ; Times: 10
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 4
+	Country: Germany ; Times: 22
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 23
+	Country: Japan ; Times: 1
+	Country: Czech Republic ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 35
+	Date: 2016-07-10 ; Times: 6
+	Date: 2016-07-13 ; Times: 30
+	Date: 2016-07-12 ; Times: 51
+	Date: 2016-07-15 ; Times: 17
+	Date: 2016-07-14 ; Times: 25
+	Date: 2016-07-17 ; Times: 12
+	Date: 2016-07-16 ; Times: 22
+	Date: 2016-07-19 ; Times: 35
+	Date: 2016-07-18 ; Times: 95
+	Date: 2016-07-20 ; Times: 80
+	Date: 2016-07-07 ; Times: 31
+	Date: 2016-07-23 ; Times: 25
+	Date: 2016-07-24 ; Times: 65
+	Date: 2016-07-25 ; Times: 72
+	Date: 2016-07-26 ; Times: 27
+	Date: 2016-07-27 ; Times: 28
+	Date: 2016-07-06 ; Times: 57
+	Date: 2016-07-21 ; Times: 47
+	Date: 2016-07-22 ; Times: 31
+	Date: 2016-07-05 ; Times: 8
+	Date: 2016-07-08 ; Times: 46
+	Date: 2016-07-09 ; Times: 12
+	Date: 2016-07-28 ; Times: 51
+	Date: 2016-07-29 ; Times: 56
+
+List of queries that retrieved data from the resource: 
+	Query: "melanerpes carolinus virginia" ; Times: 2
+	Query: "scolopax minor tissue:1" ; Times: 2
+	Query: "391236 fmnh" ; Times: 1
+	Query: "type:specimen specificepithet:minor genus:Hemitriccus class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Hylocharis tissue:1" ; Times: 1
+	Query: "basileuterus melanotis" ; Times: 9
+	Query: "type:specimen specificepithet:fusca genus:melanitta class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Cathartes aura Chihuahua" ; Times: 1
+	Query: "Gracula religiosa 1" ; Times: 1
+	Query: "falco jugger india" ; Times: 1
+	Query: "type:specimen specificepithet:hypopolius genus:Melanerpes country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "Chordeiles minor Chihuahua" ; Times: 1
+	Query: "type:specimen genus:Rhynchotus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Aix galericulata 1" ; Times: 1
+	Query: "Dendrortyx barbatus" ; Times: 2
+	Query: "Vermivora ruficapilla tissue:1" ; Times: 1
+	Query: "336018" ; Times: 1
+	Query: "type:specimen specificepithet:perspicillata genus:melanitta class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen family:Furnariidae stateprovince:&#34;Arequipa&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "oxypogon cyanolaemus" ; Times: 1
+	Query: "chalcostigma stanleyi" ; Times: 9
+	Query: "Certhia brachydactyla (skel) institutioncode:FMNH" ; Times: 1
+	Query: "Melanopareia type:specimen" ; Times: 2
+	Query: "Poephila guttata 1" ; Times: 1
+	Query: "type:specimen genus:anhima class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "phaethornis mexicanus" ; Times: 20
+	Query: "type:specimen specificepithet:palmarum genus:Dendroica year &gt;= 1985 year &lt;= 2016 month &gt;= 6 month &lt;= 6" ; Times: 2
+	Query: "type:specimen specificepithet:minor genus:Nothura class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Buthraupis wetmorei" ; Times: 1
+	Query: "fmnh 33143" ; Times: 1
+	Query: "fmnh 33144" ; Times: 2
+	Query: "fmnh 33145" ; Times: 2
+	Query: "fmnh 33146" ; Times: 3
+	Query: "fmnh 33147" ; Times: 1
+	Query: "Nystalus chacuru brazil" ; Times: 1
+	Query: "myzomela cruentata" ; Times: 2
+	Query: "36259" ; Times: 1
+	Query: "hemitriccus margaritaceiventer tissue:1" ; Times: 2
+	Query: "type:specimen specificepithet:arcticus genus:picoides class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "zonotrichia illescasensis" ; Times: 1
+	Query: "taphrolesbia griseiventris" ; Times: 3
+	Query: "Ithaginis cruentus" ; Times: 1
+	Query: "catalognumber:195940" ; Times: 1
+	Query: "Dendroica palmarum tissue:1" ; Times: 1
+	Query: "Penelope perspicax" ; Times: 1
+	Query: "catalognumber:259009 institutioncode:FMNH" ; Times: 2
+	Query: "Conopophaga aurita tissue:1" ; Times: 1
+	Query: "aulacorhynchus prasinus AND nicaragua" ; Times: 1
+	Query: "type:specimen genus:EUSCARTHMUS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 1
+	Query: "Passerina versicolor tissue:1" ; Times: 1
+	Query: "type:specimen genus:nycticorax class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT zoo NOT captive)" ; Times: 1
+	Query: "type:specimen specificepithet:striaticollis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Anabacerthia country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "Psittacidae vicinalis" ; Times: 1
+	Query: "type:specimen specificepithet:autumnalis genus:Dendrocygna class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "carpodacus cassinii Chihuahua" ; Times: 1
+	Query: "type:specimen specificepithet:pileatus genus:dryocopus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen class:aves county:&#34;reeves&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Agapornis roseicollis 1" ; Times: 1
+	Query: "Dendroica kirtlandii institutioncode:FMNH" ; Times: 2
+	Query: "Amazona leucocephala 1" ; Times: 1
+	Query: "69104" ; Times: 1
+	Query: "type:specimen specificepithet:griseus genus:limnodromus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:melitophrys genus:Vireolanius country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "Lampornis castaneoventris" ; Times: 1
+	Query: "Lamprotornis purpureus 1" ; Times: 1
+	Query: "Sialia mexicana chihuahua" ; Times: 1
+	Query: "type:specimen genus:oxyura class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "class:aves stateprovince:&#34;british columbia&#34; country:&#34;canada&#34; year &gt;= 1901 year &lt;= 1901" ; Times: 1
+	Query: "nilgiri birds" ; Times: 9
+	Query: "type:specimen specificepithet:nebulosa genus:strix class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Plocepasser rufoscapulatus tissue:1" ; Times: 1
+	Query: "244460" ; Times: 1
+	Query: "type:specimen specificepithet:cucullata genus:cyanolyca country:&#34;Mexico&#34; year &gt;= 1980" ; Times: 1
+	Query: "type:specimen specificepithet:guttatus genus:Tinamus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "oxypogon lindenii" ; Times: 2
+	Query: "piculus" ; Times: 1
+	Query: "Passerina cyanea tissue:1" ; Times: 1
+	Query: "Alcippe rufogularis" ; Times: 2
+	Query: "melanopareia torquata" ; Times: 1
+	Query: "type:specimen genus:Xenotriccus country:&#34;Mexico&#34; year &gt;= 1900 year &lt;= 1955" ; Times: 1
+	Query: "colaptes auratus Chihuahua" ; Times: 1
+	Query: "Serinus canaria 1" ; Times: 1
+	Query: "Amandava amandava 1" ; Times: 1
+	Query: "FMNH 109954" ; Times: 1
+	Query: "type:specimen specificepithet:melanoleuca genus:tringa class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "sialia mexicana Chihuahua" ; Times: 2
+	Query: "Dendrocygna autumnalis 1" ; Times: 1
+	Query: "Aramus guarauna Colombia" ; Times: 1
+	Query: "Lamprotornis chalybaeus 1" ; Times: 1
+	Query: "Tyrannus vociferans chihuahua" ; Times: 1
+	Query: "oceanodroma castro tissue:1" ; Times: 2
+	Query: "Pellorneum albiventre" ; Times: 1
+	Query: "glaucidium hardyi tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:soui genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:buccinator genus:cygnus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "tichodroma" ; Times: 1
+	Query: "Loxia curvirostra chiapas" ; Times: 1
+	Query: "specificepithet:rusticolus stateprovince:&#34;alaska&#34; year &gt;= 1934 year &lt;= 1934" ; Times: 1
+	Query: "Petrochelidon fulva tissue:1" ; Times: 1
+	Query: "glaucidium tissue:1" ; Times: 2
+	Query: "type:specimen family:prunellidae class:aves country:&#34;italy&#34;" ; Times: 1
+	Query: "type:specimen genus:anser stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:cupido genus:tympanuchus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "FMNH-23099" ; Times: 1
+	Query: "type:specimen specificepithet:galeatus genus:Lophotriccus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Selasphorus type:specimen locality:Volcan chiriqui" ; Times: 1
+	Query: "type:specimen specificepithet:semipalmatus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "hypocryptadius" ; Times: 1
+	Query: "Brachypteracias institutioncode:FMNH" ; Times: 4
+	Query: "Ammodramus caudacutus tissue:1" ; Times: 1
+	Query: "sturnus contra" ; Times: 17
+	Query: "specificepithet:macroura genus:Dendrortyx" ; Times: 2
+	Query: "Sturnella neglecta Chihuahua" ; Times: 1
+	Query: "type:specimen specificepithet:marail class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Geothlypis philadelphia tissue:1" ; Times: 1
+	Query: "Iridosornis reinhardti" ; Times: 1
+	Query: "type:specimen specificepithet:columbianus genus:cygnus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:callizonus genus:Xenotriccus country:&#34;Mexico&#34; year &gt;= 1800 year &lt;= 1960" ; Times: 1
+	Query: "Vireo gilvus stateprovince:&#34;tamaulipas&#34;" ; Times: 1
+	Query: "buteo regalis Chihuahua" ; Times: 1
+	Query: "Ammodramus nelsoni tissue:1" ; Times: 1
+	Query: "Ploceus intermedius 1" ; Times: 1
+	Query: "catalognumber:170844" ; Times: 2
+	Query: "tachyphonus huarandosae" ; Times: 1
+	Query: "Chlorochrysa nitidissima" ; Times: 1
+	Query: "type:specimen specificepithet:viduata genus:Dendrocygna class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:canutus genus:calidris class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "specificepithet:elegans genus:Rallus country:&#34;Cuba&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:flavirostris class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "francolinus pictus" ; Times: 2
+	Query: "perdicula asiatica" ; Times: 13
+	Query: "fulica americana Colombia" ; Times: 2
+	Query: "type:specimen (otus asio) institutioncode:FMNH tissue:1" ; Times: 1
+	Query: "Sirystes albocinereus" ; Times: 1
+	Query: "genus:cochoa" ; Times: 1
+	Query: "buccinator" ; Times: 2
+	Query: "specificepithet:barbatus genus:Dendrortyx" ; Times: 2
+	Query: "Euphagus carolinus tissue:1" ; Times: 1
+	Query: "Malacoptila semicincta brazil" ; Times: 1
+	Query: "muscicapa muttui" ; Times: 1
+	Query: "carpodacus mexicanus collectioncode:birds institutioncode:FMNH tissue:1" ; Times: 2
+	Query: "type:specimen specificepithet:minor class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Psophia" ; Times: 1
+	Query: "Aratinga acuticaudata 1" ; Times: 2
+	Query: "Pytyopsittacus" ; Times: 2
+	Query: "evelynae bahamas aves" ; Times: 1
+	Query: "type:specimen specificepithet:cyanocephalus genus:euphagus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Acridotheres tristis 1" ; Times: 1
+	Query: "taccocua leschenaultii india" ; Times: 2
+	Query: "type:specimen specificepithet:philadelphicus genus:vireo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Geothlypis tolmiei tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:serripennis genus:stelgidopteryx class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Colibri thalassinus year &gt;= 1950 year &lt;= 2015" ; Times: 3
+	Query: "type:specimen specificepithet:motacilla genus:seiurus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Grant county Lepidus" ; Times: 1
+	Query: "type:specimen specificepithet:unicolor genus:Aphelocoma country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "Thryothorus maculipectus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:canadensis genus:perisoreus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "dendroica occidentalis Chihuahua" ; Times: 3
+	Query: "type:specimen specificepithet:obscura genus:penelope class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Dendrortyx stateprovince:&#34;veracruz&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:philadelphia genus:larus stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Rallus longirostris continent:South America" ; Times: 7
+	Query: "type:specimen specificepithet:gentilis genus:accipiter class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Anas cyanoptera country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:xenops family:Furnariidae class:Aves stateprovince:&#34;Madre de Dios&#34; country:&#34;Peru&#34; tissue:1" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 1
+	Query: "genus:Dendrortyx" ; Times: 1
+	Query: "type:specimen specificepithet:orbitatus genus:Hemitriccus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:montifringilla class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Eremophila alpestris chihuahua" ; Times: 2
+	Query: "Nilaus afer nigritemporalis" ; Times: 1
+	Query: "type:specimen specificepithet:excubitor genus:lanius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 3
+	Query: "genus:Psophia mappable:1" ; Times: 1
+	Query: "melanopareia" ; Times: 3
+	Query: "R-66881" ; Times: 1
+	Query: "Daphoenositta miranda" ; Times: 2
+	Query: "Falco amurensis" ; Times: 1
+	Query: "jILOTEPEC" ; Times: 1
+	Query: "Dendroica caerulescens tissue:1" ; Times: 1
+	Query: "type:specimen genus:Lanius stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Lampornis castaneoventris year &gt;= 1965 year &lt;= 2015" ; Times: 1
+	Query: "Dendroica fusca tissue:1" ; Times: 1
+	Query: "family:Furnariidae stateprovince:&#34;Arequipa&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "oreotrochilus adela" ; Times: 1
+	Query: "eurostopodus tissue:1" ; Times: 1
+	Query: "Certhia brachydactyla institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:goodfellowi genus:Rhinomyias mappable:1" ; Times: 1
+	Query: "Lonchura punctulata 1" ; Times: 1
+	Query: "Vireo leucophrys month &gt;= 3 month &lt;= 3" ; Times: 1
+	Query: "phacellodomus rufifrons hastypestatus:1" ; Times: 1
+	Query: "type:specimen specificepithet:americana genus:parula class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "khasiensis" ; Times: 1
+	Query: "clamator coromandus india" ; Times: 2
+	Query: "specificepithet:striaticollIS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Jacana jacana Colombia" ; Times: 1
+	Query: "type:specimen specificepithet:ocai genus:Pipilo country:&#34;Mexico&#34; year &gt;= 1980" ; Times: 1
+	Query: "Leiothrix lutea 1" ; Times: 1
+	Query: "Euplectes afer 1" ; Times: 1
+	Query: "turdoides caudatus india" ; Times: 1
+	Query: "Tachybaptus dominicus country:&#34;Colombia&#34;" ; Times: 2
+	Query: "anas formosa tissue:1" ; Times: 1
+	Query: "Tachybaptus dominicus Cauca country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Diglossa gloriosissima" ; Times: 1
+	Query: "piranga ludoviciana Chihuahua" ; Times: 1
+	Query: "Plocepasser donaldsoni" ; Times: 1
+	Query: "phacellodomus rufifrons tissue:1" ; Times: 3
+	Query: "Elanoides forficatus Peru" ; Times: 1
+	Query: "Galbula leucogastra brazil" ; Times: 1
+	Query: "aramides albiventris" ; Times: 10
+	Query: "189561" ; Times: 3
+	Query: "189562" ; Times: 1
+	Query: "22406" ; Times: 1
+	Query: "Neomorphus radiolosus" ; Times: 1
+	Query: "59664" ; Times: 1
+	Query: "Pipilo erythrophthalmus tissue:1" ; Times: 1
+	Query: "104370" ; Times: 1
+	Query: "specificepithet:furcatus genus:hemitriccus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1916 year &lt;= 1916" ; Times: 2
+	Query: "Ptilinopus purpuratus" ; Times: 6
+	Query: "dryocopus pileatus virginia" ; Times: 2
+	Query: "pyrrhura type:specimen tissue:1" ; Times: 1
+	Query: "type:specimen genus:Vireolanius country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "Dendroica striata tissue:1" ; Times: 1
+	Query: "laniarius poensis" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "struthio" ; Times: 2
+	Query: "type:specimen specificepithet:ultramarina genus:Aphelocoma country:&#34;Mexico&#34; year &gt;= 1980" ; Times: 1
+	Query: "pterocles indicus" ; Times: 5
+	Query: "167613" ; Times: 1
+	Query: "271751" ; Times: 1
+	Query: "Basileuterus melanogenys" ; Times: 2
+	Query: "Piranga olivacea tissue:1" ; Times: 1
+	Query: "melanerpes erythrocephalus virginia" ; Times: 3
+	Query: "Serinus mozambicus 1" ; Times: 1
+	Query: "Quiscalus major tissue:1" ; Times: 1
+	Query: "36294" ; Times: 1
+	Query: "Dendroica castanea tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:parina genus:Xenodacnis" ; Times: 2
+	Query: "Ectopistes migratorius maryland" ; Times: 1
+	Query: "Dendrocitta leucogastra" ; Times: 1
+	Query: "Pheucticus melanocephalus chihuahua" ; Times: 2
+	Query: "257864" ; Times: 1
+	Query: "FMNH 5213" ; Times: 1
+	Query: "carpodacus salimalii" ; Times: 2
+	Query: "type:specimen genus:Cardellina country:&#34;Mexico&#34; year &gt;= 1980" ; Times: 1
+	Query: "type:specimen genus:netta class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:interpres genus:arenaria class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Galbula tombacea brazil" ; Times: 1
+	Query: "cauca la costa" ; Times: 1
+	Query: "perdicula argoondah" ; Times: 5
+	Query: "Glaucidium hardyi" ; Times: 1
+	Query: "type:specimen specificepithet:flammeus genus:asio class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:semipalmatus genus:charadrius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Notharchus macrorhynchos brazil" ; Times: 1
+	Query: "Cyanopsitta spixii" ; Times: 1
+	Query: "type:specimen genus:neochen class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Seiurus motacilla tissue:1" ; Times: 2
+	Query: "type:specimen specificepithet:minor genus:Hemitriccus class:Aves country:&#34;Brazil&#34; institutioncode:FMNH" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:oxyura class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:variegatus genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:nycticorax class:aves stateprovince:&#34;michigan&#34; AND (NOT audio)" ; Times: 1
+	Query: "Plocepasser rufoscapulatus" ; Times: 2
+	Query: "falco sparverius chihuahua" ; Times: 1
+	Query: "Empidonax hammondii chihuahua" ; Times: 1
+	Query: "type:specimen genus:HEMITRICCUS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:flammulatus class:Aves" ; Times: 1
+	Query: "Parula americana tissue:1" ; Times: 1
+	Query: "Vermivora peregrina tissue:1" ; Times: 1
+	Query: "type:specimen genus:Thryothorus country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "Estrilda troglodytes 1" ; Times: 1
+	Query: "24340" ; Times: 1
+	Query: "phaethornis baroni" ; Times: 9
+	Query: "type:specimen specificepithet:diops class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Vidua macroura 1" ; Times: 1
+	Query: "COLUMBINA CRUZIANA" ; Times: 2
+	Query: "type:specimen specificepithet:maculosa genus:Nothura class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Lamprolaima country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "oreotrochilus leucopleurus" ; Times: 10
+	Query: "specificepithet:azarae genus:synallaxis country:&#34;Peru&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:zosterops class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "FMNH 118840" ; Times: 2
+	Query: "Egretta caerulea Colombia" ; Times: 3
+	Query: "urocissa whiteheadi" ; Times: 1
+	Query: "type:specimen specificepithet:caudacutus genus:ammodramus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "phalacrocorax africanus" ; Times: 2
+	Query: "Numida meleagris 1" ; Times: 1
+	Query: "specificepithet:iohannis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:longicauda genus:bartramia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:tigrina genus:Dendroica year &gt;= 1985 year &lt;= 2016" ; Times: 1
+	Query: "oceanodroma macrodactyla" ; Times: 1
+	Query: "Threskiornis aethiopicus 1" ; Times: 1
+	Query: "anthracothorax veraguensis" ; Times: 7
+	Query: "type:specimen specificepithet:belli genus:Basileuterus country:&#34;Mexico&#34; year &gt;= 1980" ; Times: 1
+	Query: "Uraeginthus bengalus 1" ; Times: 1
+	Query: "Poicephalus senegalus 1" ; Times: 1
+	Query: "type:specimen specificepithet:tao genus:Tinamus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:amazonetta class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "melilestes stresemanni" ; Times: 1
+	Query: "atlapetes personatus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:flavescens genus:Empidonax country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "type:specimen specificepithet:hypoleucus genus:Melanotis country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "type:specimen specificepithet:sandwichensis genus:ammodramus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "(asio) institutioncode:FMNH" ; Times: 1
+	Query: "Paroaria coronata 1" ; Times: 1
+	Query: "Meleagris gallopavo type:specimen country:&#34;Mexico&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:castanea genus:Dendroica year &gt;= 1985 year &lt;= 2016" ; Times: 1
+	Query: "Perdicula asiatica" ; Times: 3
+	Query: "Cyanoliseus patagonus 1" ; Times: 1
+	Query: "villosus tissue:1" ; Times: 1
+	Query: "apalis ruwenzorii" ; Times: 1
+	Query: "217877" ; Times: 1
+	Query: "356751 tissue:1" ; Times: 2
+	Query: "type:specimen genus:aburria class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Ploceus galbula 1" ; Times: 1
+	Query: "Andigena hypoglauca" ; Times: 1
+	Query: "nigrolutea country:&#34;India&#34;" ; Times: 1
+	Query: "Hypopyrrhus pyrohypogaster" ; Times: 2
+	Query: "156543" ; Times: 1
+	Query: "erythrogenys tissue:1" ; Times: 1
+	Query: "campephilus imperialis chihuahua" ; Times: 1
+	Query: "type:specimen specificepithet:tridactylus genus:picoides class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "140561" ; Times: 1
+	Query: "Turnix sylvatica bartelsorum year &gt;= 1929 year &lt;= 1929" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "type:specimen specificepithet:cinereus genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:philadelphia genus:geothlypis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen genus:Xenotriccus country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "Quelea quelea 1" ; Times: 1
+	Query: "Crypsirina" ; Times: 1
+	Query: "cyrtonyx ocellatus" ; Times: 1
+	Query: "type:specimen specificepithet:inornata class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:phasianellus genus:tympanuchus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen genus:Melanotis country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "Anas platyrhynchos Chihuahua" ; Times: 1
+	Query: "type:specimen specificepithet:megalopterus genus:Campylorhynchus country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "type:specimen specificepithet:serrator genus:mergus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "hyliota" ; Times: 1
+	Query: "hemitriccus margaritaceiventer" ; Times: 1
+	Query: "Malacoptila striata brazil" ; Times: 1
+	Query: "Sturnella magna tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:margaritaceiventer class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen genus:mergus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Cyanocitta stelleri chihuahua" ; Times: 2
+	Query: "Myiopsitta monachus 1" ; Times: 1
+	Query: "type:specimen specificepithet:unicolor genus:aphelocoma country:&#34;Mexico&#34; year &gt;= 1980" ; Times: 1
+	Query: "Estrilda melpoda 1" ; Times: 1
+	Query: "type:specimen specificepithet:hypochryseus genus:Vireo country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "type:specimen specificepithet:peregrina year &gt;= 1985 year &lt;= 2016 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "Piranga rubra tissue:1" ; Times: 1
+	Query: "pachyramphus aglaiae tissue:1" ; Times: 2
+	Query: "Harpyhaliaetus solitarius" ; Times: 2
+	Query: "152624" ; Times: 1
+	Query: "type:specimen genus:Forpus country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "type:specimen specificepithet:leucophrys class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "sericocaudatus" ; Times: 1
+	Query: "type:specimen specificepithet:graduacauda genus:Icterus country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "type:specimen genus:Cyanolyca country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "type:specimen genus:Nothura class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Macrocephalon maleo" ; Times: 1
+	Query: "specificepithet:oreas genus:Picathartes" ; Times: 1
+	Query: "type:specimen specificepithet:striaticollis genus:Hemitriccus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:grisegena genus:podiceps class:aves stateprovince:&#34;michigan&#34; AND (NOT audio)" ; Times: 1
+	Query: "white rhino" ; Times: 1
+	Query: "type:specimen specificepithet:miniatus genus:Myioborus country:&#34;Mexico&#34; year &gt;= 1980" ; Times: 1
+	Query: "type:specimen genus:Calocitta country:&#34;Mexico&#34; year &gt;= 1980" ; Times: 1
+	Query: "type:specimen genus:Xiphocolaptes country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "family:alcedinidae institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:vilcabambae genus:Schizoeaca institutioncode:FMNH" ; Times: 5
+	Query: "33274" ; Times: 1
+	Query: "type:specimen specificepithet:flammea genus:acanthis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "117822" ; Times: 1
+	Query: "90048 aves" ; Times: 3
+	Query: "type:specimen class:aves county:&#34;alcona&#34; stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen genus:Turdus country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:nidipendulus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "41533" ; Times: 1
+	Query: "Columba guinea 1" ; Times: 1
+	Query: "type:specimen specificepithet:crecca genus:anas class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Conopophaga aurita" ; Times: 2
+	Query: "Malimbus coronatus" ; Times: 8
+	Query: "type:specimen specificepithet:elegans genus:rallus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Empidonax occidentalis country:&#34;Mexico&#34; tissue:1" ; Times: 2
+	Query: "type:specimen specificepithet:macularia genus:actitis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "36f15a36-6b45-442e-9c31-cd633423aee0" ; Times: 1
+	Query: "Gallicolumba keayi" ; Times: 3
+	Query: "hypocryptadius tissue:1" ; Times: 1
+	Query: "Pipile cumanensis 1" ; Times: 1
+	Query: "189484" ; Times: 1
+	Query: "phacellodomus rufifrons" ; Times: 1
+	Query: "pyrrhura type:specimen year &gt;= 2000 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "puffinus pacificus tissue:1" ; Times: 2
+	Query: "type:specimen specificepithet:spinicauda class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Lonchura kelaarti" ; Times: 3
+	Query: "type:specimen genus:cairina class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Piranga flava tissue:1" ; Times: 3
+	Query: "ploceus tissue:1" ; Times: 1
+	Query: "JILOTEPEC" ; Times: 1
+	Query: "Pelecanus crispus institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:zosterops class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "plocepasser rufoscapulatus country:&#34;malawi&#34; institutioncode:FMNH tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:jacquacu genus:penelope class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "big bend national park type:specimen class:aves" ; Times: 1
+	Query: "type:specimen specificepithet:vitiosus genus:Lophotriccus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:flammulatus genus:Hemitriccus class:Aves" ; Times: 1
+	Query: "plocepasser institutioncode:FMNH" ; Times: 2
+	Query: "ibidorhyncha" ; Times: 1
+	Query: "Ploceus melanocephalus" ; Times: 1
+	Query: "glaucidium jardinii tissue:1" ; Times: 1
+	Query: "specificepithet:furcatus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:tataupa genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Junco phaeonotus chihuahua" ; Times: 1
+	Query: "R.65002" ; Times: 1
+	Query: "Turnicidae tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:Occidentalis genus:Catharus country:&#34;Mexico&#34; year &gt;= 1980" ; Times: 1
+	Query: "Turnix sylvatica year &gt;= 1930 year &lt;= 1930" ; Times: 1
+	Query: "Aulacorhynchus prasinus AND Nicaragua" ; Times: 1
+	Query: "type:specimen specificepithet:callizonus genus:Xenotriccus country:&#34;Mexico&#34; year &gt;= 1900 year &lt;= 1955" ; Times: 2
+	Query: "type:specimen genus:dendragapus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "type:specimen class:aves county:&#34;Pecos&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Glaucidium gnoma californicum" ; Times: 1
+	Query: "type:specimen specificepithet:pileata genus:penelope class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "type:specimen specificepithet:melanicterus genus:Cacicus country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "Turnix sylvatica mikado year &gt;= 1930 year &lt;= 1930" ; Times: 1
+	Query: "pipilo ocai year &gt;= 1990 year &lt;= 2016" ; Times: 1
+	Query: "Gymnopithys salvini" ; Times: 1
+	Query: "Conopophaga aurita type:specimen tissue:1" ; Times: 1
+	Query: "Notharchus tectus brazil" ; Times: 1
+	Query: "Myioborus pictus Chihuahua" ; Times: 1
+	Query: "specificepithet:flavicans genus:macrosphenus" ; Times: 1
+	Query: "buteo rufinus india" ; Times: 2
+	Query: "acrocephalus aedon india" ; Times: 1
+	Query: "Notharchus hyperrhynchus brazil" ; Times: 2
+	Query: "type:specimen genus:Campephilus country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "Elanoides forficatus Ecuador" ; Times: 1
+	Query: "Glaucidium brasilianum tissue:1" ; Times: 2
+	Query: "Agapornis fischeri 1" ; Times: 1
+	Query: "Pnoepyga albiventer" ; Times: 1
+	Query: "type:specimen specificepithet:parvirostris genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Melanerpes aurifrons tissue:1" ; Times: 2
+	Query: "hippolais rama india" ; Times: 1
+	Query: "Vireo philadelphicus tissue:1" ; Times: 1
+	Query: "Lonchura malacca country:&#34;India&#34;" ; Times: 1
+	Query: "52755" ; Times: 1
+	Query: "Anacapa AND Birds AND 1929" ; Times: 1
+	Query: "type:specimen specificepithet:pleurostictus genus:Thryothorus country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 2
+	Query: "type:specimen specificepithet:chrysopeplus genus:Pheucticus country:&#34;Mexico&#34; year &gt;= 1980" ; Times: 1
+	Query: "type:specimen specificepithet:affinis genus:Lepidocolaptes country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "aquila nipalensis india" ; Times: 1
+	Query: "type:specimen specificepithet:diops genus:Hemitriccus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Colibri thalassinus year &gt;= 1960 year &lt;= 1990" ; Times: 2
+	Query: "type:specimen class:aves county:&#34;pecos&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Pheucticus ludovicianus tissue:1" ; Times: 2
+	Query: "Conirostrum bicolor tissue:1" ; Times: 2
+	Query: "oenanthe monacha" ; Times: 2
+	Query: "Piranga ludoviciana chihuahua" ; Times: 1
+	Query: "Oreothraupis arremonops" ; Times: 1
+	Query: "Sapheopipo noguchii" ; Times: 5
+	Query: "pterocles indicus india" ; Times: 1
+	Query: "momotus coeruliceps" ; Times: 12
+	Query: "Maforensis" ; Times: 1
+	Query: "Colinus virginianus 1" ; Times: 2
+	Query: "zenaida auriculata" ; Times: 2
+	Query: "Ploceus melanocephalus 1" ; Times: 1
+	Query: "specificepithet:ruficauda genus:Aimophila country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:americana genus:spiza class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "catalognumber:80029" ; Times: 2
+	Query: "hyliota tissue:1" ; Times: 1
+	Query: "catalognumber:200652" ; Times: 3
+	Query: "type:specimen (otus asio) institutioncode:FMNH" ; Times: 1
+	Query: "type:specimen genus:Taoniscus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:viduata genus:dendrocygna class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:orbitatus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Catharus fuscescens tissue:1" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Tragopan satyra" ; Times: 1
+	Query: "cyrtonyx ocellatus guatemala" ; Times: 1
+	Query: "type:specimen specificepithet:pileatus genus:Atlapetes country:&#34;Mexico&#34; year &gt;= 1980" ; Times: 1
+	Query: "type:specimen specificepithet:undulatus genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Selasphorus ardens" ; Times: 5
+	Query: "29865" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Lonchura malacca 1" ; Times: 1
+	Query: "tympanuchus cupido delaware" ; Times: 1
+	Query: "Streptopelia roseogrisea 1" ; Times: 1
+	Query: "type:specimen genus:dendrocygna class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:superciliosus genus:Oriturus country:&#34;Mexico&#34; year &gt;= 1980" ; Times: 1
+	Query: "type:specimen specificepithet:furcata class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "R-69104" ; Times: 1
+	Query: "Cygnus olor 1" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:peregrinus genus:Falco stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "FMNH 1353" ; Times: 1
+	Query: "Estrilda astrild 1" ; Times: 1
+	Query: "threnetes niger" ; Times: 18
+	Query: "Amazona aestiva 1" ; Times: 1
+	Query: "Plocepasser superciliosus" ; Times: 1
+	Query: "locality:Yerly country:&#34;Colombia&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:boraquira genus:Nothura class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Buteo albicaudatus Mexico" ; Times: 1
+	Query: "Amandava subflava 1" ; Times: 1
+	Query: "prunellei" ; Times: 1
+	Query: "acrocephalus agricola india" ; Times: 1
+	Query: "family:Furnariidae class:Aves stateprovince:&#34;Madre de Dios&#34; country:&#34;Peru&#34; tissue:1" ; Times: 2
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1917 year &lt;= 1917 institutioncode:FMNH" ; Times: 1
+	Query: "type:specimen specificepithet:pyrrhonota genus:petrochelidon class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "sirystes subcanescens" ; Times: 7
+	Query: "104370 cygnus" ; Times: 1
+	Query: "Cairina moschata 1" ; Times: 1
+	Query: "type:specimen specificepithet:major genus:Tinamus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "\152624" ; Times: 1
+	Query: "(otus asio) institutioncode:FMNH" ; Times: 1
+	Query: "turdus obscurus india" ; Times: 2
+	Query: "type:specimen specificepithet:taeniatus genus:Peucedramus country:&#34;Mexico&#34; year &gt;= 1980" ; Times: 1
+	Query: "catalognumber:161206" ; Times: 1
+	Query: "Pycnonotus cafer 1" ; Times: 1
+	Query: "Glaucidium jardinii tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:nigra genus:melanitta class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Jilotepec" ; Times: 1
+	Query: "specificepithet:montifringilla class:aves stateprovince:&#34;alaska&#34; year &gt;= 1961 year &lt;= 1963" ; Times: 1
+	Query: "Acridotheres cristatellus 1" ; Times: 1
+	Query: "type:specimen specificepithet:nidipendulus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Vermivora chrysoptera tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:leucophrus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "pyrrhura cruentata" ; Times: 4
+	Query: "type:specimen specificepithet:gallinago genus:gallinago class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter country:&#34;Mexico&#34; month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "144023" ; Times: 2
+	Query: "395742 fmnh" ; Times: 1
+	Query: "genus:Apus continent:Africa" ; Times: 1
+	Query: "type:specimen specificepithet:melodus genus:charadrius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:alcyon genus:ceryle class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Lamprotornis caudatus 1" ; Times: 1
+	Query: "type:specimen specificepithet:ludovicianus genus:Thryothorus country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "Glaucidium gnoma pinicola mexico" ; Times: 1
+	Query: "oceanodroma macrodactyla country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Sclerurus albigularis" ; Times: 1
+	Query: "Sturnus nigricollis 1" ; Times: 1
+	Query: "Asio stygius" ; Times: 2
+	Query: "Aratinga mitrata 1" ; Times: 1
+	Query: "wilsonia pusilla Chihuahua" ; Times: 1
+	Query: "type:specimen specificepithet:obsoletus genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "falco amurensis india" ; Times: 1
+	Query: "type:specimen specificepithet:gouldi genus:Euphonia country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "Coeligena prunellei" ; Times: 1
+	Query: "type:specimen genus:chauna class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:18873" ; Times: 1
+	Query: "Lophornis delattrei" ; Times: 2
+	Query: "1872 Polioptila" ; Times: 1
+	Query: "Limnodromus type:specimen year &gt;= 1924 year &lt;= 1924 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "phacellodomus sibilatrix" ; Times: 1
+	Query: "galloperdix lunulata" ; Times: 1
+	Query: "Limnodromus year &gt;= 1924 year &lt;= 1924" ; Times: 1
+	Query: "type:specimen genus:Tinamus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "26335" ; Times: 1
+	Query: "Panyptila cayennensis" ; Times: 1
+	Query: "type:specimen specificepithet:erythrocephala genus:Piranga country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 2
+	Query: "Phylloscopus poliocephalus" ; Times: 1
+	Query: "calothorax pulcher" ; Times: 1
+	Query: "class:Aves distance(location,geopoint(-6.217012327817175,29.8773193359375))&lt;34513" ; Times: 2
+	Query: "FMNH 331107" ; Times: 2
+	Query: "Quiscalus mexicanus tissue:1" ; Times: 1
+	Query: "semnornis frantzii" ; Times: 2
+	Query: "type:specimen specificepithet:minor genus:hemitriccus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Coturnix japonica 1" ; Times: 1
+	Query: "Sarkidiornis" ; Times: 1
+	Query: "type:specimen specificepithet:furcatus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Aves distance(location,geopoint(-6.217012327817175,29.8773193359375))&lt;100000" ; Times: 1
+	Query: "Vireo griseus stateprovince:&#34;San Luis Potosi&#34;" ; Times: 1
+	Query: "Malacoptila fusca brazil" ; Times: 1
+	Query: "psittacus erithacus fmnh" ; Times: 1
+	Query: "type:specimen specificepithet:furcatus genus:Hemitriccus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "caprimulgus manillensis" ; Times: 4
+	Query: "catalognumber:49041" ; Times: 1
+	Query: "turdus unicolor india" ; Times: 1
+	Query: "chrysuronia alleni" ; Times: 2
+	Query: "78681" ; Times: 1
+	Query: "type:specimen specificepithet:cucullata genus:Cyanolyca country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "type:specimen specificepithet:solitarius genus:Tinamus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pavo cristatus 1" ; Times: 1
+	Query: "Rhinomyias gularis" ; Times: 6
+	Query: "numenius borealis" ; Times: 4
+	Query: "type:specimen specificepithet:superciliaris genus:penelope class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:spurius genus:icterus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "FMNH 23395" ; Times: 1
+	Query: "Nandayus nenday 1" ; Times: 1
+	Query: "type:specimen specificepithet:noctivagus genus:Crypturellus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "ectopistes migratorius maryland" ; Times: 2
+	Query: "18964 aves" ; Times: 1
+	Query: "Calyptophilus frugivorus" ; Times: 1
+	Query: "catalognumber:218579" ; Times: 1
+	Query: "graueria" ; Times: 1
+	Query: "type:specimen specificepithet:familiaris genus:certhia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Ammodramus leconteii tissue:1" ; Times: 1
+	Query: "genus:Lophotriccus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "74206" ; Times: 3
+	Query: "catalognumber:86029" ; Times: 1
+	Query: "type:specimen genus:Lophotriccus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:solitarius genus:vireo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Cygnus atratus 1" ; Times: 1
+	Query: "Amazona albifrons tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:gilvus genus:vireo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen genus:histrionicus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "larus marinus (skel) institutioncode:FMNH" ; Times: 1
+	Query: "appleton vireo" ; Times: 2
+	Query: "Ploceus cucullatus 1" ; Times: 1
+	Query: "Alopochen aegyptiaca 1" ; Times: 1
+	Query: "specificepithet:striaticollis genus:hemitriccus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:bairdii genus:calidris class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "thryothorus zeledoni" ; Times: 21
+	Query: "evelynae bahamas" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonicus genus:parus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:jacucaca genus:penelope class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Aratinga erythrogenys 1" ; Times: 1
+	Query: "Melanopareia torquata type:specimen" ; Times: 1
+	Query: "206575" ; Times: 1
+	Query: "Melopsittacus undulatus 1" ; Times: 1
+	Query: "95894" ; Times: 1
+	Query: "type:specimen genus:Euphonia country:&#34;Mexico&#34; year &gt;= 1980 year &lt;= 2016" ; Times: 1
+	Query: "type:specimen genus:Rhea class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Psittacula krameri 1" ; Times: 1
+	Query: "Penelope ortoni" ; Times: 1
+	Query: "Myioborus melanocephalus" ; Times: 1
+	Query: "type:specimen genus:euscarthmus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 307 (out of 1219 download events in this period)
+Total number of records downloaded: 28208
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Colombia ; Times: 17
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 22
+	Country: Panama ; Times: 4
+	Country: India ; Times: 1
+	Country: United States ; Times: 245
+	Country: Germany ; Times: 6
+	Country: Peru ; Times: 1
+	Country: New Zealand ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 7
+	Date: 2016-07-10 ; Times: 2
+	Date: 2016-07-13 ; Times: 6
+	Date: 2016-07-12 ; Times: 4
+	Date: 2016-07-15 ; Times: 8
+	Date: 2016-07-14 ; Times: 7
+	Date: 2016-07-17 ; Times: 12
+	Date: 2016-07-16 ; Times: 16
+	Date: 2016-07-19 ; Times: 26
+	Date: 2016-07-18 ; Times: 21
+	Date: 2016-07-20 ; Times: 55
+	Date: 2016-07-07 ; Times: 8
+	Date: 2016-07-23 ; Times: 18
+	Date: 2016-07-24 ; Times: 7
+	Date: 2016-07-25 ; Times: 24
+	Date: 2016-07-26 ; Times: 17
+	Date: 2016-07-27 ; Times: 7
+	Date: 2016-07-06 ; Times: 1
+	Date: 2016-07-21 ; Times: 22
+	Date: 2016-07-22 ; Times: 9
+	Date: 2016-07-05 ; Times: 1
+	Date: 2016-07-08 ; Times: 1
+	Date: 2016-07-09 ; Times: 1
+	Date: 2016-07-28 ; Times: 24
+	Date: 2016-07-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "type:specimen specificepithet:enucleator genus:pinicola class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:accipiter class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Molothrus ater tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:delawarensis genus:larus stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:aedon genus:troglodytes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:fusca genus:melanitta class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Piranga ludoviciana tissue:1" ; Times: 1
+	Query: "family:phalacrocoracidae class:Aves stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "Piranga rubra tissue:1" ; Times: 1
+	Query: "Dendroica dominica tissue:1" ; Times: 1
+	Query: "Criniger flaveolus" ; Times: 1
+	Query: "type:specimen specificepithet:gentilis genus:accipiter class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Anas cyanoptera country:&#34;Colombia&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:platensis genus:cistothorus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:atricapillus genus:parus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:podiceps genus:podilymbus stateprovince:&#34;michigan&#34; AND (NOT audio)" ; Times: 1
+	Query: "strix varia" ; Times: 1
+	Query: "Vermivora ruficapilla tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:lentiginosus genus:botaurus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT zoo NOT captive)" ; Times: 1
+	Query: "chlamydera nuchalis" ; Times: 1
+	Query: "type:specimen specificepithet:olivaceus genus:vireo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:exilis genus:ixobrychus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:cerulea genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:riparia genus:riparia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "catharus ustulatus" ; Times: 1
+	Query: "type:specimen specificepithet:virens genus:contopus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "genus:Psophia mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:alpestris genus:eremophila class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Dendroica caerulescens tissue:1" ; Times: 1
+	Query: "Polioptila melanura californica" ; Times: 1
+	Query: "type:specimen genus:Lanius stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Lampornis castaneoventris year &gt;= 1965 year &lt;= 2015" ; Times: 1
+	Query: "Iridosornis reinhardti" ; Times: 1
+	Query: "type:specimen specificepithet:pinus genus:vermivora class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "type:specimen specificepithet:clangula genus:bucephala class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:albicollis genus:zonotrichia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Leptotila verreauxi" ; Times: 1
+	Query: "family:alcedinidae institutioncode:FMNH" ; Times: 1
+	Query: "type:specimen specificepithet:passerina genus:spizella class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:caspia stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Pheucticus ludovicianus tissue:1" ; Times: 1
+	Query: "genus:cochoa" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:dumetella class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Zonotrichia leucophrys tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:argentatus genus:larus stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Colibri thalassinus year &gt;= 1950 year &lt;= 2015" ; Times: 2
+	Query: "type:specimen specificepithet:americana genus:parula class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Buthraupis wetmorei" ; Times: 1
+	Query: "type:specimen specificepithet:kirtlandii genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:rustica genus:hirundo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:olivacea genus:piranga class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Sturnella magna tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:satrapa genus:regulus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "specificepithet:goodfellowi genus:Rhinomyias mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:pyrrhonota genus:petrochelidon class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Vermivora chrysoptera tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:carolinus genus:euphagus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:pinus genus:carduelis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:minutilla genus:calidris class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:pusilla genus:calidris class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:arcticus genus:picoides class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:canadensis genus:branta class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:fusca genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:auratus genus:colaptes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "type:specimen specificepithet:domesticus genus:passer class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:albeola genus:bucephala class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:vulgaris genus:sturnus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:pensylvanica genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:fuscescens genus:catharus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Icterus bullockii tissue:1" ; Times: 1
+	Query: "Tachybaptus dominicus Cauca country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Diglossa gloriosissima" ; Times: 1
+	Query: "Icterus galbula tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:castanea genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Penelope perspicax" ; Times: 1
+	Query: "type:specimen genus:junco class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:ludovicianus genus:pheucticus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:minor genus:chordeiles class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "aulacorhynchus prasinus AND nicaragua" ; Times: 1
+	Query: "type:specimen specificepithet:minimus genus:catharus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:ruficapilla genus:vermivora class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:chrysoptera genus:vermivora class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Passerina versicolor tissue:1" ; Times: 1
+	Query: "Neomorphus radiolosus" ; Times: 1
+	Query: "type:specimen specificepithet:cedrorum genus:bombycilla class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Euphagus cyanocephalus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:villosus genus:picoides class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:sialis genus:sialia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Pipilo erythrophthalmus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:affinis genus:aythya class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Penelope ortoni" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:sitta class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Passerina ciris tissue:1" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "type:specimen specificepithet:melodus genus:charadrius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "buccinator" ; Times: 1
+	Query: "type:specimen family:Furnariidae stateprovince:&#34;Arequipa&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:gramineus genus:pooecetes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:melanotos genus:calidris class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen class:aves county:&#34;reeves&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:magnolia genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Dendroica kirtlandii institutioncode:FMNH" ; Times: 1
+	Query: "Pomatorhinus ferruginosus" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "type:specimen specificepithet:alcyon genus:ceryle class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:griseus genus:limnodromus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:acadicus genus:aegolius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:erythrophthalmus genus:pipilo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:erythropthalmus genus:coccyzus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Dendroica castanea tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:palmarum genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:hirundo genus:sterna stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Tachycineta bicolor tissue:1" ; Times: 1
+	Query: "Alcippe rufogularis" ; Times: 1
+	Query: "Lonchura malacca" ; Times: 1
+	Query: "type:specimen specificepithet:colubris genus:archilochus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Basileuterus melanogenys" ; Times: 1
+	Query: "type:specimen specificepithet:brachyrhynchos genus:corvus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:phoeniceus genus:agelaius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:limicola genus:rallus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:crecca genus:anas class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:aurocapillus genus:seiurus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:herodias class:aves stateprovince:&#34;MICHIGAN&#34; AND (NOT audio NOT zoo NOT captive)" ; Times: 1
+	Query: "type:specimen specificepithet:elegans genus:rallus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:varia genus:strix class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "catharus guttatus" ; Times: 1
+	Query: "Agelaius tricolor" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Quiscalus major tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:varia genus:mniotilta class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:alba genus:calidris class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:pinus genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:phoebe genus:sayornis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:vespertinus genus:coccothraustes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Passerina cyanea tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:arborea class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:semipalmatus genus:charadrius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:familiaris genus:certhia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen genus:Dendroica country:&#34;Canada&#34; month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "Dendroica pinus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:rufum genus:toxostoma class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "cyanoramphus" ; Times: 3
+	Query: "type:specimen specificepithet:cyanea genus:passerina class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:interpres genus:arenaria class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Dendroica palmarum tissue:1" ; Times: 1
+	Query: "Sialia sialis tissue:1" ; Times: 1
+	Query: "Piranga olivacea tissue:1" ; Times: 1
+	Query: "Jilotepec" ; Times: 1
+	Query: "type:specimen specificepithet:umbellus genus:bonasa class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:coronata genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:tyrannus genus:tyrannus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:pubescens genus:picoides class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonicus genus:parus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Pellorneum albiventre" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:oxyura class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:palustris genus:cistothorus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen (carpodacus OR haemorhous AND Mexicanus) tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:trichas genus:geothlypis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:purpureus genus:carpodacus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "genus:nycticorax class:aves stateprovince:&#34;michigan&#34; AND (NOT audio)" ; Times: 1
+	Query: "type:specimen specificepithet:alpina genus:calidris class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Piranga flava tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:minor genus:scolopax class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:sandwichensis genus:ammodramus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen class:aves county:&#34;El paso&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "isle royale" ; Times: 1
+	Query: "NICARAGUA" ; Times: 2
+	Query: "type:specimen specificepithet:asio genus:otus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Icterus spurius tissue:1" ; Times: 1
+	Query: "Dendroica coronata tissue:1" ; Times: 1
+	Query: "Petrochelidon fulva tissue:1" ; Times: 1
+	Query: "Dendroica petechia tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:crinitus genus:myiarchus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Quiscalus mexicanus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:canadensis genus:perisoreus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:pusilla genus:spizella class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Vermivora peregrina tissue:1" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;presidio&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Andigena hypoglauca" ; Times: 1
+	Query: "type:specimen class:aves county:&#34;Pecos&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:bicolor genus:tachycineta class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "&#34;Anser albifrons&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:buteo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:oryzivorus genus:dolichonyx class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:macularia genus:actitis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:leucophrys genus:zonotrichia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "(Ploceidae) tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:merganser genus:mergus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:hyemalis genus:clangula class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Ammodramus caudacutus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:phasianellus genus:tympanuchus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Polioptila californica" ; Times: 1
+	Query: "Picoides pubescens tissue:1" ; Times: 1
+	Query: "Seiurus noveboracensis tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:ater genus:molothrus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "pachyramphus aglaiae tissue:1" ; Times: 2
+	Query: "Hypopyrrhus pyrohypogaster" ; Times: 1
+	Query: "type:specimen genus:Setophaga country:&#34;Canada&#34; month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "Chlorochrysa nitidissima" ; Times: 1
+	Query: "type:specimen specificepithet:galbula genus:icterus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:pileatus genus:dryocopus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Hudspeth&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Hirundo rustica tissue:1" ; Times: 1
+	Query: "Geothlypis philadelphia tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:spurius genus:icterus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:columbianus genus:cygnus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:cristata genus:cyanocitta class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:virginianus genus:bubo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:mustelina genus:HYLOCICHLA class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Dendroica striata tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:exilis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT zoo NOT captive)" ; Times: 2
+	Query: "Ara militaris" ; Times: 2
+	Query: "Picoides villosus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:longicauda genus:bartramia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:platyrhynchos genus:anas class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Ammodramus nelsoni tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:platypterus genus:buteo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Pnoepyga albiventer" ; Times: 1
+	Query: "Casuarius" ; Times: 1
+	Query: "type:specimen specificepithet:peregrina genus:vermivora class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Harpyhaliaetus solitarius" ; Times: 1
+	Query: "type:specimen specificepithet:vociferus genus:charadrius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Vireo philadelphicus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:minimus genus:empidonax class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:migratorius genus:turdus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:virginianus genus:colinus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:leucoptera genus:loxia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:canutus genus:calidris class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 2
+	Query: "type:specimen class:Aves county:&#34;brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:peregrinus genus:Falco stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Sturnella neglecta tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:serrator genus:mergus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Pheucticus melanocephalus tissue:1" ; Times: 1
+	Query: "Ammodramus leconteii tissue:1" ; Times: 1
+	Query: "locality:ocozocoautla" ; Times: 1
+	Query: "genus:Aphelocoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:flammeus genus:asio class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:erythrocephalus genus:melanerpes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:americanus genus:coccyzus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "abroscopus superciliaris" ; Times: 1
+	Query: "type:specimen (otus asio) institutioncode:FMNH tissue:1" ; Times: 2
+	Query: "oceanodroma tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:podiceps genus:podilymbus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Catharus ustulatus tissue:1" ; Times: 1
+	Query: "genus:Casuarius" ; Times: 1
+	Query: "Cardinalis cardinalis tissue:1" ; Times: 1
+	Query: "Vireo gilvus tissue:1" ; Times: 1
+	Query: "Conirostrum bicolor tissue:1" ; Times: 1
+	Query: "Euphagus carolinus tissue:1" ; Times: 1
+	Query: "COLUMBINA CRUZIANA" ; Times: 1
+	Query: "karnataka" ; Times: 1
+	Query: "type:specimen specificepithet:gilvus genus:vireo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:carolinus genus:melanerpes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Oreothraupis arremonops" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:chlidonias stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen genus:butorides class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT zoo NOT captive)" ; Times: 1
+	Query: "type:specimen specificepithet:subis genus:progne class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:canadensis genus:wilsonia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Seiurus motacilla tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:calendula genus:regulus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:grisegena genus:podiceps class:aves stateprovince:&#34;michigan&#34; AND (NOT audio)" ; Times: 1
+	Query: "Parula americana tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:tristis genus:carduelis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:sparverius genus:falco class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:caerulescens genus:thamnophilus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:nivalis genus:plectrophenax class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:guttatus genus:catharus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:ruticilla genus:setophaga class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "motacilla" ; Times: 1
+	Query: "type:specimen specificepithet:philadelphicus genus:vireo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Dendroica fusca tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:rubripes genus:anas class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:caerulea genus:polioptila class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:americana genus:spiza class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Geothlypis tolmiei tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:excubitor genus:lanius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen genus:phalacrocorax class:aves stateprovince:&#34;michigan&#34; AND (NOT audio)" ; Times: 1
+	Query: "type:specimen specificepithet:serripennis genus:stelgidopteryx class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen genus:dendragapus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Melanopareia type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:petechia genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:motacilla genus:seiurus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:canadensis genus:sitta class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:solitarius genus:vireo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:curvirostra genus:loxia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Catharus fuscescens tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:cupido genus:tympanuchus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:virens genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:lapponicus genus:calcarius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:melanoleuca genus:tringa class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+
+
+End of report.
