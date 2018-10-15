@@ -1,0 +1,321 @@
+Report for Institution Code FMNH, Resource fm_birds
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 307
+Number of records retrieved in searches: 3127
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 8
+	Country: Australia ; Times: 7
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 7
+	Country: United States ; Times: 255
+	Country: United Kingdom ; Times: 8
+	Country: India ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 22
+	Date: 2017-11-29 ; Times: 40
+	Date: 2017-11-26 ; Times: 21
+	Date: 2017-11-27 ; Times: 108
+	Date: 2017-11-24 ; Times: 12
+	Date: 2017-11-25 ; Times: 50
+	Date: 2017-11-30 ; Times: 54
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:nigripes genus:Dacnis hastissue:1" ; Times: 1
+	Query: "specificepithet:flaviventer genus:Dacnis hastissue:0" ; Times: 1
+	Query: "specificepithet:flaviventer genus:Dacnis hastissue:1" ; Times: 1
+	Query: "&#34;cyaneus violaceus&#34; vntype:specimen specificepithet:cyaneus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "Haliaeetus albicilla greenland" ; Times: 2
+	Query: "specificepithet:lewis class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:rustica class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1893" ; Times: 1
+	Query: "&#34;nitidus&#34; vntype:specimen specificepithet:nitidus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "108105" ; Times: 3
+	Query: "genus:Turdus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1914" ; Times: 1
+	Query: "specificepithet:nigricans genus:Sayornis class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1908" ; Times: 1
+	Query: "FMNH 258528" ; Times: 2
+	Query: "FMNH 258529" ; Times: 2
+	Query: "&#34;cayana cayana&#34; vntype:specimen specificepithet:cayana genus:Dacnis hastissue:1" ; Times: 1
+	Query: "specificepithet:sasin genus:Selasphorus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1940" ; Times: 1
+	Query: "genus:Geococcyx class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1892" ; Times: 1
+	Query: "63090" ; Times: 2
+	Query: "92095" ; Times: 1
+	Query: "specificepithet:psittacea genus:erythrura class:aves" ; Times: 1
+	Query: "specificepithet:arborea genus:spizella institutioncode:FMNH" ; Times: 1
+	Query: "&#34;cyaneus dispar&#34; vntype:specimen specificepithet:cyaneus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "Chondestes grammacus minnesota" ; Times: 1
+	Query: "vntype:specimen genus:Corythaeola continent:Africa year &gt;= 1960 year &lt;= 2017 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dacnis nigripes" ; Times: 1
+	Query: "FMNH 258525" ; Times: 2
+	Query: "specificepithet:melanocorys class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "specificepithet:atrogularis class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1893" ; Times: 1
+	Query: "gallinago hardwickii" ; Times: 1
+	Query: "genus:Melanopareia" ; Times: 1
+	Query: "trogon collaris institutioncode:FMNH" ; Times: 2
+	Query: "genus:Colaptes class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1892" ; Times: 1
+	Query: "Falco sparverius tropicalis" ; Times: 1
+	Query: "specificepithet:cayana callaina genus:Dacnis hastissue:0" ; Times: 1
+	Query: "&#34;cyaneus eximius&#34; vntype:specimen specificepithet:cyaneus genus:Cyanerpes hastissue:1" ; Times: 1
+	Query: "&#34;cyaneus eximius&#34; vntype:specimen specificepithet:cyaneus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "Diglossa (Chimanta)" ; Times: 1
+	Query: "Buthraupis wetmorei" ; Times: 1
+	Query: "&#34;lucidus lucidus&#34; vntype:specimen specificepithet:lucidus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "specificepithet:caerulea genus:Polioptila class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1908" ; Times: 1
+	Query: "coelestis order:Passeriformes" ; Times: 3
+	Query: "(Grand Cayman) institutioncode:FMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Terenura" ; Times: 1
+	Query: "genus:Phainopepla class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1915" ; Times: 1
+	Query: "Dacnis venusta fuliginata" ; Times: 1
+	Query: "institutioncode:FMNH" ; Times: 1
+	Query: "Swamp Prinia" ; Times: 3
+	Query: "specificepithet:galbula genus:Icterus class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769" ; Times: 2
+	Query: "Dacnis albiventris" ; Times: 1
+	Query: "piculus coloratus" ; Times: 1
+	Query: "&#34;cyaneus cyaneus&#34; vntype:specimen specificepithet:cyaneus genus:Cyanerpes hastissue:1" ; Times: 1
+	Query: "gbifdatasetid:36f15a36-6b45-442e-9c31-cd633423aee0" ; Times: 3
+	Query: "veniliornis diversus" ; Times: 1
+	Query: "specificepithet:hirundo genus:Sterna class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1919" ; Times: 1
+	Query: "genus:Myadestes class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "Batis poensis" ; Times: 1
+	Query: "tersina viridis" ; Times: 1
+	Query: "genus:Archilochus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1895" ; Times: 1
+	Query: "FMNH 393877" ; Times: 2
+	Query: "vntype:specimen specificepithet:viridis genus:Tersina hastissue:1" ; Times: 1
+	Query: "celeus deltanus" ; Times: 1
+	Query: "specificepithet:carbonaria genus:Diglossa country:&#34;Colombia&#34;" ; Times: 2
+	Query: "bengal tiger" ; Times: 2
+	Query: "&#34;cyaneus pacificus&#34; vntype:specimen specificepithet:cyaneus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "genus:Diglossa class:Aves locality:Chimanta" ; Times: 1
+	Query: "specificepithet:ruber genus:Sphyrapicus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1904" ; Times: 1
+	Query: "genus:Euphagus class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1883" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "FMNH 433914" ; Times: 1
+	Query: "genus:Diglossa (gloriosissima)" ; Times: 1
+	Query: "&#34;cyaneus tobagensis&#34; vntype:specimen specificepithet:cyaneus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "FMNH 292425" ; Times: 2
+	Query: "genus:Phalaenoptilus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1891" ; Times: 1
+	Query: "Cygnus buccinator minnesota" ; Times: 5
+	Query: "Diglossa Turumiquire" ; Times: 1
+	Query: "catalognumber:88314" ; Times: 2
+	Query: "genus:Otus class:Aves stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:cinctus genus:parus class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:Corvus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:cyaneovirens genus:erythrura class:aves" ; Times: 3
+	Query: "genus:Cerorhinca class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1896" ; Times: 1
+	Query: "haliaeetus greenland eggs" ; Times: 1
+	Query: "class:AVES county:&#34;Monroe&#34; stateprovince:&#34;Florida&#34; year &gt;= 1870 year &lt;= 1900" ; Times: 4
+	Query: "catalognumber:49144 institutioncode:FMNH" ; Times: 1
+	Query: "Platysteira albifrons" ; Times: 1
+	Query: "FMNH 294885" ; Times: 2
+	Query: "(gloriosissima)" ; Times: 1
+	Query: "&#34;caeruleus chocoanus&#34; vntype:specimen specificepithet:caeruleus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "catalognumber:260731 institutioncode:FMNH" ; Times: 1
+	Query: "ortalis canicollis" ; Times: 1
+	Query: "specificepithet:viridis viridis genus:Tersina hastissue:1" ; Times: 2
+	Query: "collectioncode:Birds institutioncode:FMNH" ; Times: 1
+	Query: "&#34;cyaneus brevipes&#34; vntype:specimen specificepithet:cyaneus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "specificepithet:elegans genus:Thalasseus class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1926" ; Times: 1
+	Query: "dicaeum intermedium" ; Times: 3
+	Query: "grisescens specificepithet:viridis genus:Tersina" ; Times: 1
+	Query: "specificepithet:arborea genus:spizella catalognumber:154682 institutioncode:FMNH" ; Times: 1
+	Query: "Tersina viridis" ; Times: 7
+	Query: "albatrus" ; Times: 2
+	Query: "Coereba (Peru) institutioncode:FMNH" ; Times: 1
+	Query: "Podiceps grisegena minnesota" ; Times: 1
+	Query: "specificepithet:passerina class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1916" ; Times: 1
+	Query: "specificepithet:tolmiei class:Aves county:&#34;San Diego&#34; year &gt;= 1769" ; Times: 1
+	Query: "Coereba flaveola sharpei collectioncode:Birds (Grand Cayman) year &gt;= 1850 year &lt;= 1886 institutioncode:FMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:albolarvatus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "&#34;cayana paraguayensis&#34; vntype:specimen specificepithet:cayana genus:Dacnis hastissue:0" ; Times: 1
+	Query: "class:Aves locality:Chimanta" ; Times: 2
+	Query: "specificepithet:trichas class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1894" ; Times: 1
+	Query: "&#34;cayana glaucogularis&#34; vntype:specimen specificepithet:cayana genus:Dacnis hastissue:1" ; Times: 1
+	Query: "specificepithet:carbonaria genus:Diglossa hastissue:1" ; Times: 1
+	Query: "Diglossa gloriosissima" ; Times: 1
+	Query: "FMNH 226833" ; Times: 2
+	Query: "specificepithet:lineata genus:Dacnis hastissue:1" ; Times: 1
+	Query: "35377" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1919" ; Times: 1
+	Query: "45176" ; Times: 1
+	Query: "circus Minnesota" ; Times: 1
+	Query: "catalognumber:154682 institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:albiventris genus:Dacnis hastissue:0" ; Times: 1
+	Query: "FMNH 92348" ; Times: 2
+	Query: "specificepithet:mexicanus genus:Catharus institutioncode:FMNH hastissue:1" ; Times: 1
+	Query: "specificepithet:solitarius genus:Vireo class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "genus:Apteryx institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 92646" ; Times: 2
+	Query: "genus:Coccyzus class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1915" ; Times: 1
+	Query: "genus:Hirundo class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1914" ; Times: 1
+	Query: "genus:Cyanocitta class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1915" ; Times: 1
+	Query: "specificepithet:viridis occidentalis genus:Tersina hastissue:1" ; Times: 2
+	Query: "FMNH 92648" ; Times: 3
+	Query: "Dacnis flaviventer" ; Times: 1
+	Query: "FMNH 292723" ; Times: 2
+	Query: "specificepithet:fasciata genus:Columba class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1920" ; Times: 1
+	Query: "surnia ulula minnesota" ; Times: 1
+	Query: "genus:Megascops OR Otus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Tersina viridis occidentalis" ; Times: 2
+	Query: "specificepithet:borealis genus:numenius" ; Times: 4
+	Query: "genus:Campylorhynchus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1895" ; Times: 1
+	Query: "Cinclodes excelsior" ; Times: 1
+	Query: "&#34;cyaneus gigas&#34; vntype:specimen specificepithet:cyaneus genus:Cyanerpes hastissue:0" ; Times: 2
+	Query: "trogon mexicanus institutioncode:FMNH" ; Times: 1
+	Query: "genus:Opisthocomus collectioncode:Birds" ; Times: 1
+	Query: "specificepithet:macroura class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1916" ; Times: 1
+	Query: "specificepithet:tristis class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1904" ; Times: 1
+	Query: "FMNH 433931" ; Times: 3
+	Query: "genus:Oreoscoptes class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1918" ; Times: 1
+	Query: "FMNH 261749" ; Times: 3
+	Query: "specificepithet:costae genus:Calypte class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1893" ; Times: 1
+	Query: "catalognumber:378297 institutioncode:FMNH" ; Times: 1
+	Query: "196376" ; Times: 1
+	Query: "genus:Oxyruncus" ; Times: 1
+	Query: "veniliornis pectoralis" ; Times: 1
+	Query: "Xiphorhynchus obsoletus" ; Times: 2
+	Query: "genus:Euphagus class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1896" ; Times: 1
+	Query: "Urothraupis stolzmanni" ; Times: 1
+	Query: "FMNH 187945" ; Times: 2
+	Query: "specificepithet:mexicanus genus:Catharus institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:virens class:Aves county:&#34;San Diego&#34; year &gt;= 1769" ; Times: 1
+	Query: "specificepithet:bairdii class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "genus:Cotinga preparations:skel" ; Times: 2
+	Query: "specificepithet:arborea genus:spizella stateprovince:&#34;Manitoba&#34; country:&#34;Canada&#34; institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:duidae genus:Diglossa" ; Times: 2
+	Query: "specificepithet:melanura genus:Polioptila class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1891" ; Times: 1
+	Query: "specificepithet:flavicollis genus:Hemithraupis institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 261760" ; Times: 2
+	Query: "FMNH 38503" ; Times: 1
+	Query: "hemispingus melanotis" ; Times: 3
+	Query: "specificepithet:chlorurus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1918" ; Times: 1
+	Query: "specificepithet:cyaneovirens genus:erythrura class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1918" ; Times: 1
+	Query: "hemispingus atropileus hastissue:1" ; Times: 1
+	Query: "Bucephala clangula minnesota" ; Times: 1
+	Query: "47996" ; Times: 1
+	Query: "specificepithet:vociferans genus:Tyrannus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1890" ; Times: 1
+	Query: "FMNH 398518" ; Times: 1
+	Query: "FMNH 398516" ; Times: 2
+	Query: "FMNH 398517" ; Times: 1
+	Query: "catalognumber:378299 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:belli genus:Amphispiza class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1889" ; Times: 1
+	Query: "specificepithet:redivivum genus:Toxostoma class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1895" ; Times: 1
+	Query: "&#34;cyaneus holti&#34; vntype:specimen specificepithet:cyaneus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "Mergus merganser minnesota" ; Times: 1
+	Query: "baritula (Sucre)" ; Times: 1
+	Query: "genus:Micropygia" ; Times: 2
+	Query: "genus:Corythaeola hastissue:1" ; Times: 1
+	Query: "specificepithet:forsteri genus:Sterna class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1913" ; Times: 1
+	Query: "vntype:specimen genus:Corythaeola continent:Africa basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Dacnis egregia egregia" ; Times: 1
+	Query: "Tersina viridis grisescens" ; Times: 3
+	Query: "Pipilo 1859" ; Times: 1
+	Query: "Skin-246489" ; Times: 1
+	Query: "vntype:specimen genus:Corythaeola country:&#34;Ivory Coast&#34; continent:Africa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:anna genus:Calypte class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1886" ; Times: 1
+	Query: "Iridosornis rufivertex" ; Times: 1
+	Query: "Coereba (Vincent)" ; Times: 2
+	Query: "genus:Salpinctes class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1913" ; Times: 1
+	Query: "&#34;cayana paraguayensis&#34; vntype:specimen specificepithet:cayana genus:Dacnis hastissue:1" ; Times: 1
+	Query: "142160" ; Times: 1
+	Query: "FMNH 433915" ; Times: 1
+	Query: "FMNH 433916" ; Times: 1
+	Query: "FMNH 433917" ; Times: 2
+	Query: "FMNH 430120" ; Times: 1
+	Query: "FMNH 433913" ; Times: 2
+	Query: "specificepithet:venusta fuliginata genus:Dacnis hastissue:0" ; Times: 1
+	Query: "collectioncode:Birds (Grand Cayman) institutioncode:FMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aechmophorus minnesota" ; Times: 2
+	Query: "FMNH 92553" ; Times: 1
+	Query: "specificepithet:cassinii class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "genus:Anthus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1912" ; Times: 1
+	Query: "obscura class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "&#34;caeruleus longirostris&#34; vntype:specimen specificepithet:caeruleus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "&#34;lucidus isthmicus&#34; vntype:specimen specificepithet:lucidus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "buccinator minnesota" ; Times: 1
+	Query: "&#34;nitidus&#34; vntype:specimen specificepithet:nitidus genus:Cyanerpes hastissue:1" ; Times: 1
+	Query: "specificepithet:fuscater genus:Catharus institutioncode:FMNH" ; Times: 1
+	Query: "&#34;cayana glaucogularis&#34; vntype:specimen specificepithet:cayana genus:Dacnis hastissue:0" ; Times: 1
+	Query: "locality:Chimanta" ; Times: 1
+	Query: "specificepithet:lineata genus:Dacnis hastissue:0" ; Times: 1
+	Query: "&#34;cayana callaina:&#34; vntype:specimen specificepithet:cayana genus:Dacnis hastissue:0" ; Times: 1
+	Query: "specificepithet:rustica class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1914" ; Times: 1
+	Query: "Tersina viridis viridis" ; Times: 1
+	Query: "&#34;caeruleus caeruleus&#34; vntype:specimen specificepithet:caeruleus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "&#34;caeruleus caeruleus&#34; vntype:specimen specificepithet:caeruleus genus:Cyanerpes hastissue:1" ; Times: 1
+	Query: "specificepithet:nanus genus:vireo institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 430119" ; Times: 1
+	Query: "FMNH 430118" ; Times: 1
+	Query: "wolves" ; Times: 3
+	Query: "egretta dimorpha" ; Times: 2
+	Query: "&#34;caeruleus hellmayri&#34; vntype:specimen specificepithet:caeruleus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "Scelorchilus albicollis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1101 download events in this period)
+Total number of records downloaded: 1908
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Brazil ; Times: 15
+	Country: Israel ; Times: 2
+	Country: United Kingdom ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 5
+	Date: 2017-11-29 ; Times: 4
+	Date: 2017-11-26 ; Times: 14
+	Date: 2017-11-27 ; Times: 15
+	Date: 2017-11-24 ; Times: 1
+	Date: 2017-11-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "zosterops japonicus" ; Times: 4
+	Query: "Cinclodes excelsior" ; Times: 1
+	Query: "greenland aves" ; Times: 1
+	Query: "specificepithet:carbonaria genus:Diglossa country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Conirostrum cinereum" ; Times: 1
+	Query: "Batis poensis" ; Times: 1
+	Query: "halcyon smyrnensis" ; Times: 2
+	Query: "genus:Lophorina" ; Times: 1
+	Query: "genus:Micropygia" ; Times: 1
+	Query: "Cinnycerthia unirufa" ; Times: 2
+	Query: "Urothraupis stolzmanni" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Iridosornis rufivertex" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 1
+	Query: "genus:Cinclus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "genus:Oxyruncus" ; Times: 1
+	Query: "surnia ulula minnesota" ; Times: 1
+	Query: "genus:Piprites" ; Times: 1
+	Query: "genus:Neopelma" ; Times: 1
+	Query: "specificepithet:cinctus genus:parus class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Platysteira albifrons" ; Times: 1
+	Query: "genus:Melanopareia" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 1
+	Query: "Xiphorhynchus obsoletus" ; Times: 1
+	Query: "Grallaria quitensis" ; Times: 1
+	Query: "Buthraupis wetmorei" ; Times: 2
+	Query: "genus:Myrmornis" ; Times: 2
+	Query: "Falco sparverius tropicalis" ; Times: 1
+	Query: "Falco sparverius paulus vntype:specimen" ; Times: 1
+	Query: "specificepithet:fuscater genus:Catharus institutioncode:FMNH" ; Times: 1
+	Query: "genus:Terenura" ; Times: 1
+	Query: "Falco sparverius peninsularis" ; Times: 1
+	Query: "Myioborus melanocephalus" ; Times: 1
+	Query: "Atlapetes pallidinucha" ; Times: 1
+
+
+End of report.
