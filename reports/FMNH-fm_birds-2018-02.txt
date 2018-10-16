@@ -1,0 +1,1450 @@
+Report for Institution Code FMNH, Resource fm_birds
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1958
+Number of records retrieved in searches: 31581
+Number of different countries where searches have been originated: 31
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 74
+	Country: Canada ; Times: 27
+	Country: Madagascar ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 204
+	Country: France ; Times: 91
+	Country: Peru ; Times: 6
+	Country: Argentina ; Times: 30
+	Country: Ecuador ; Times: 2
+	Country: Israel ; Times: 6
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Czechia ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: China ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: Germany ; Times: 19
+	Country: Spain ; Times: 1
+	Country: Finland ; Times: 2
+	Country: United States ; Times: 823
+	Country: Sweden ; Times: 7
+	Country: Switzerland ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Portugal ; Times: 410
+	Country: Mexico ; Times: 26
+	Country: South Africa ; Times: 5
+	Country: India ; Times: 11
+	Country: United Kingdom ; Times: 76
+	Country: Colombia ; Times: 43
+	Country: Japan ; Times: 78
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 69
+	Date: 2018-02-08 ; Times: 85
+	Date: 2018-02-03 ; Times: 26
+	Date: 2018-02-02 ; Times: 50
+	Date: 2018-02-01 ; Times: 58
+	Date: 2018-02-07 ; Times: 68
+	Date: 2018-02-06 ; Times: 127
+	Date: 2018-02-05 ; Times: 158
+	Date: 2018-02-04 ; Times: 25
+	Date: 2018-02-21 ; Times: 47
+	Date: 2018-02-20 ; Times: 290
+	Date: 2018-02-23 ; Times: 71
+	Date: 2018-02-22 ; Times: 46
+	Date: 2018-02-25 ; Times: 53
+	Date: 2018-02-24 ; Times: 25
+	Date: 2018-02-27 ; Times: 251
+	Date: 2018-02-26 ; Times: 40
+	Date: 2018-02-28 ; Times: 13
+	Date: 2018-02-14 ; Times: 54
+	Date: 2018-02-15 ; Times: 50
+	Date: 2018-02-16 ; Times: 88
+	Date: 2018-02-17 ; Times: 37
+	Date: 2018-02-10 ; Times: 2
+	Date: 2018-02-11 ; Times: 24
+	Date: 2018-02-12 ; Times: 66
+	Date: 2018-02-13 ; Times: 77
+	Date: 2018-02-18 ; Times: 21
+	Date: 2018-02-19 ; Times: 37
+
+List of queries that retrieved data from the resource: 
+	Query: "Aix sponsa mappable:1" ; Times: 1
+	Query: "specificepithet:prasina genus:Hylia country:&#34;ivory coast&#34;" ; Times: 1
+	Query: "Vidua paradisaea mappable:1" ; Times: 5
+	Query: "specificepithet:anselli" ; Times: 1
+	Query: "specificepithet:leucopyga genus:tachycineta" ; Times: 1
+	Query: "vntype:specimen genus:Aepyornis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "fmnh psalidoprocne albiceps" ; Times: 1
+	Query: "specificepithet:grisegena genus:Podiceps hastissue:1" ; Times: 1
+	Query: "Melanitta americana basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:chloris genus:nicator country:&#34;ivory coast&#34;" ; Times: 2
+	Query: "columba flavirostris chiapas" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga year &gt;= 1909 year &lt;= 1909 institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:haematina genus:spermophaga basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pharomachrus mocinno Guatemala" ; Times: 1
+	Query: "Picoides villosus alberta" ; Times: 1
+	Query: "specificepithet:calurus genus:Criniger institutioncode:FMNH hastissue:1" ; Times: 1
+	Query: "catalognumber:75661 institutioncode:FMNH" ; Times: 3
+	Query: "catalognumber:94359 institutioncode:FMNH" ; Times: 1
+	Query: "Timaliidae Cameroon" ; Times: 2
+	Query: "Marmaronetta angustirostris basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:nitens genus:malimbus country:&#34;guinea&#34;" ; Times: 2
+	Query: "ficedula calayensis" ; Times: 1
+	Query: "specificepithet:ornatus genus:Myioborus" ; Times: 2
+	Query: "specificepithet:orix genus:Euplectes institutioncode:FMNH" ; Times: 4
+	Query: "specificepithet:pyrrhophrys genus:Chlorophonia hastissue:0" ; Times: 1
+	Query: "specificepithet:alchata genus:Pterocles" ; Times: 1
+	Query: "catalognumber:132822 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:monachus genus:Myiopsitta" ; Times: 1
+	Query: "Ara macao" ; Times: 4
+	Query: "fmnh japan" ; Times: 1
+	Query: "Platalea ajaja mappable:1" ; Times: 4
+	Query: "catalognumber:447310 institutioncode:FMNH" ; Times: 1
+	Query: "Agapornis pullaria mappable:1" ; Times: 3
+	Query: "Amandava subflava mappable:1" ; Times: 5
+	Query: "catalognumber:506000 collectioncode:birds institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 231227" ; Times: 1
+	Query: "catalognumber:443664 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 231222" ; Times: 1
+	Query: "Dendrocolaptes picumnus" ; Times: 1
+	Query: "Amandava amandava mappable:1" ; Times: 9
+	Query: "biatas nigropectus" ; Times: 1
+	Query: "catalognumber:11010 institutioncode:FMNH" ; Times: 1
+	Query: "euphonia dilutior" ; Times: 1
+	Query: "Brachypteryx montana" ; Times: 3
+	Query: "Lonchura malacca mappable:1" ; Times: 4
+	Query: "catalognumber:131864 institutioncode:FMNH" ; Times: 1
+	Query: "Piranga leucoptera mappable:1" ; Times: 4
+	Query: "catalognumber:172462 institutioncode:FMNH" ; Times: 1
+	Query: "tolmomyias subsimilis" ; Times: 1
+	Query: "Halcyon chloris mappable:1" ; Times: 5
+	Query: "catalognumber:500000 collectioncode:birds institutioncode:FMNH" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;South Carolina&#34; year &gt;= 2000 year &lt;= 2017 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dendrocygna arcuata basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:cajanea genus:Aramides continent:North America" ; Times: 1
+	Query: "Accipitridae+Cameroon" ; Times: 4
+	Query: "catalognumber:13717 institutioncode:FMNH" ; Times: 1
+	Query: "Euplectes progne mappable:1" ; Times: 4
+	Query: "specificepithet:icterinus genus:phyllastrephus country:&#34;nigeria&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:orientalis genus:Pterocles" ; Times: 1
+	Query: "catalognumber:172459 institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen institutioncode:FMNH basisofrecord" ; Times: 1
+	Query: "Aythya ferina basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(Brazil Amapa pipra) institutioncode:FMNH" ; Times: 1
+	Query: "class:Aves (Gilgit)" ; Times: 1
+	Query: "catalognumber:94363 institutioncode:FMNH" ; Times: 1
+	Query: "Serinus atrogularis mappable:1" ; Times: 3
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "preparations:skull institutioncode:FMNH" ; Times: 1
+	Query: "224721" ; Times: 2
+	Query: "family:pelecanidae hastissue:1" ; Times: 1
+	Query: "catalognumber:132821 institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone country:&#34;nigeria&#34;" ; Times: 5
+	Query: "catalognumber:53564 institutioncode:FMNH" ; Times: 1
+	Query: "Threskiornithidae+Cameroon" ; Times: 1
+	Query: "Aythya baeri basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Falco femoralis mappable:1" ; Times: 4
+	Query: "pyrrhura rhodogaster vntype:specimen" ; Times: 1
+	Query: "475077" ; Times: 1
+	Query: "specificepithet:humiae genus:Syrmaticus" ; Times: 1
+	Query: "Anas rubripes basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "FMNH 113530" ; Times: 1
+	Query: "genus:Pogoniulus country:&#34;Nigeria&#34;" ; Times: 2
+	Query: "Phaethornis bourcieri" ; Times: 1
+	Query: "alopochelidon fucata" ; Times: 1
+	Query: "acanthidops" ; Times: 2
+	Query: "catalognumber:46066 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:poensis genus:neocossyphus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lamprotornis chalybaeus mappable:1" ; Times: 5
+	Query: "Mergus merganser basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Melanitta perspicillata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "Sicalis flaveola mappable:1" ; Times: 4
+	Query: "specificepithet:congensis genus:afropavo" ; Times: 1
+	Query: "vntype:specimen specificepithet:albogularis genus:Tyrannus country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Brotogeris chiriri mappable:1" ; Times: 3
+	Query: "specificepithet:ruber genus:Phoenicopterus hastissue:1" ; Times: 2
+	Query: "Cuculidae+Cameroon" ; Times: 8
+	Query: "Guira guira mappable:1" ; Times: 4
+	Query: "Aratinga leucophthalmus mappable:1" ; Times: 3
+	Query: "Passeridae+Cameroon" ; Times: 1
+	Query: "Fringillidae+Cameroon" ; Times: 2
+	Query: "megapodius macgillivrayi" ; Times: 3
+	Query: "Scopidae+Cameroon" ; Times: 1
+	Query: "pyrrhura vntype:specimen (perlata OR lepida OR rhodogaster) AND (NOT Para)" ; Times: 2
+	Query: "vntype:specimen (elephant) institutioncode:FMNH" ; Times: 2
+	Query: "Dicruridae+Cameroon" ; Times: 2
+	Query: "order:anseriformes institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:belli genus:basileuterus country:&#34;mexico&#34; hastissue:1" ; Times: 2
+	Query: "catalognumber:188491 institutioncode:FMNH" ; Times: 1
+	Query: "locality:hyde stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "Ploceus nigerrimus mappable:1" ; Times: 4
+	Query: "Batis mixta" ; Times: 1
+	Query: "catalognumber:14911" ; Times: 1
+	Query: "rhagologus novus" ; Times: 3
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "preparations:alc collectioncode:birds institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:84776 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:352778 collectioncode:birds institutioncode:FMNH" ; Times: 1
+	Query: "Batis fratrum" ; Times: 1
+	Query: "catalognumber:157724 institutioncode:FMNH" ; Times: 1
+	Query: "progne elegans" ; Times: 1
+	Query: "vntype:specimen (Brazil Caixuana) institutioncode:FMNH" ; Times: 1
+	Query: "aegithalos niveogularis" ; Times: 9
+	Query: "Laguna San Rafael" ; Times: 1
+	Query: "Anas sibilatrix basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "174405" ; Times: 1
+	Query: "family:Hirundinidae institutioncode:FMNH hastissue:1" ; Times: 1
+	Query: "catalognumber:243156" ; Times: 2
+	Query: "64210" ; Times: 1
+	Query: "Tinamus tao tao" ; Times: 1
+	Query: "Anhingidae+Cameroon" ; Times: 1
+	Query: "catalognumber:22850 institutioncode:FMNH" ; Times: 1
+	Query: "Platysteira concreta" ; Times: 1
+	Query: "catalognumber:131855 institutioncode:FMNH" ; Times: 1
+	Query: "Anas versicolor basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "FMNH 81028" ; Times: 2
+	Query: "FMNH 81029" ; Times: 2
+	Query: "vntype:specimen institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 148939" ; Times: 1
+	Query: "hirundo rustica transitiva" ; Times: 1
+	Query: "FMNH 81022" ; Times: 2
+	Query: "Platysteira jamesoni" ; Times: 2
+	Query: "FMNH 81021" ; Times: 3
+	Query: "FMNH 81026" ; Times: 2
+	Query: "FMNH 86978" ; Times: 2
+	Query: "FMNH 81024" ; Times: 3
+	Query: "FMNH 81025" ; Times: 2
+	Query: "Falconidae+Cameroon" ; Times: 1
+	Query: "specificepithet:similis genus:Myiozetetes country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Coragyps atratus mappable:1" ; Times: 2
+	Query: "Acrocephalus orientalis" ; Times: 1
+	Query: "Anas luzonica basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ploceus velatus mappable:1" ; Times: 4
+	Query: "50129" ; Times: 1
+	Query: "FMNH 213965" ; Times: 1
+	Query: "Caprimulgidae+Cameroon" ; Times: 1
+	Query: "Zosteropidae Cameroon" ; Times: 1
+	Query: "specificepithet:atrocaerulea genus:Hirundo hastissue:1" ; Times: 1
+	Query: "Chenonetta jubata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:171488 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:sacra genus:egretta hastissue:1" ; Times: 1
+	Query: "zosterops pallidus" ; Times: 1
+	Query: "albitarsus" ; Times: 1
+	Query: "specificepithet:calurus genus:Criniger hastissue:1" ; Times: 1
+	Query: "Batis minor" ; Times: 1
+	Query: "catalognumber:224835" ; Times: 1
+	Query: "Anas gibberifrons basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Sarkidiornis melanotos basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Eutoxeres condamini" ; Times: 1
+	Query: "myrmotherula sordida" ; Times: 1
+	Query: "Tricholaema hirsutum" ; Times: 1
+	Query: "manacus longibarbatus" ; Times: 1
+	Query: "genus:Agapornis hastissue:1" ; Times: 1
+	Query: "Falco columbarius minnesota" ; Times: 2
+	Query: "class:Aves locality:Sierra del Carmen stateprovince:&#34;Coahuila&#34; year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:pelzelniI genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "specificepithet:chrysopasta genus:euphonia hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:savana genus:Tyrannus country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Hylophilus ochraceiceps rubrifrons" ; Times: 2
+	Query: "Dendrocygna javanica basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "riparia paludicola" ; Times: 1
+	Query: "Oxyura maccoa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:chloris genus:nicator country:&#34;central african republic&#34; institutioncode:FMNH basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Columba preparations:Skel" ; Times: 2
+	Query: "catalognumber:167607 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 4209" ; Times: 1
+	Query: "catalognumber:124297 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:hyperboreus genus:Larus institutioncode:FMNH mappable:1" ; Times: 1
+	Query: "thamnomanes intermedius" ; Times: 2
+	Query: "FMNH 175283" ; Times: 4
+	Query: "specificepithet:flavivertex genus:Myioborus" ; Times: 1
+	Query: "cinclocerthia gutturalis" ; Times: 1
+	Query: "catalognumber:447329 institutioncode:FMNH" ; Times: 1
+	Query: "Columbina talpacoti mappable:1" ; Times: 4
+	Query: "pyrrhura perlata vntype:specimen" ; Times: 1
+	Query: "specificepithet:erythropleurus genus:Zosterops" ; Times: 1
+	Query: "specificepithet:pusillus genus:Pogoniulus country:&#34;Kenya&#34;" ; Times: 1
+	Query: "specificepithet:chloris genus:nicator country:&#34;guinea&#34;" ; Times: 1
+	Query: "Scolopacidae+Cameroon" ; Times: 2
+	Query: "catalognumber:53565 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:21611 institutioncode:FMNH" ; Times: 1
+	Query: "Anas laysanensis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:53569 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:nitens genus:malimbus country:&#34;ghana&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "123022" ; Times: 1
+	Query: "tachyphonus huarandosae" ; Times: 1
+	Query: "Erythrura prasina mappable:1" ; Times: 4
+	Query: "cettia oblita" ; Times: 1
+	Query: "glareola erlangeri" ; Times: 1
+	Query: "Corvidae+Cameroon" ; Times: 1
+	Query: "catalognumber:74868" ; Times: 1
+	Query: "Lamprotornis caudatus mappable:1" ; Times: 4
+	Query: "Batis minulla" ; Times: 1
+	Query: "riparia congica" ; Times: 2
+	Query: "Chamaeza nobilis" ; Times: 1
+	Query: "Bias musicus" ; Times: 1
+	Query: "Ara nobilis mappable:1" ; Times: 3
+	Query: "Amazonetta brasiliensis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "FMNH 218403" ; Times: 1
+	Query: "ramphastos brevis" ; Times: 6
+	Query: "FMNH 218400" ; Times: 1
+	Query: "carduelis carduelis brevirostris" ; Times: 2
+	Query: "FMNH 167721" ; Times: 1
+	Query: "Rallidae+Cameroon" ; Times: 3
+	Query: "specificepithet:nitens genus:malimbus country:&#34;cameroon&#34; institutioncode:FMNH" ; Times: 2
+	Query: "ptyonoprogne concolor" ; Times: 2
+	Query: "haplospiza arcana" ; Times: 1
+	Query: "pomatorhinus melanurus" ; Times: 1
+	Query: "catalognumber:338717 institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:icterinus genus:phyllastrephus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Charadrius+Cameroon" ; Times: 1
+	Query: "country:&#34;New Zealand&#34; year &gt;= 1855 year &lt;= 1866" ; Times: 1
+	Query: "nasica" ; Times: 1
+	Query: "specificepithet:novaeseelandiae genus:Hemiphaga" ; Times: 1
+	Query: "FMNH 100093" ; Times: 1
+	Query: "catalognumber:19239 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:286138 institutioncode:FMNH" ; Times: 1
+	Query: "Bubo africanus mappable:1" ; Times: 3
+	Query: "catalognumber:129324 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:94361 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:chloris genus:nicator country:&#34;cameroon&#34; institutioncode:FMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Oceanodroma leucorhoa chapmani basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Picathartidae Cameroon" ; Times: 1
+	Query: "genus:Myioborus year &gt;= 2000 year &lt;= 2017" ; Times: 1
+	Query: "Bucephala clangula basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "catalognumber:333658 collectioncode:birds institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 38885" ; Times: 1
+	Query: "specificepithet:prasina genus:Hylia country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "Cranioleuca muelleri" ; Times: 1
+	Query: "specificepithet:haematina genus:spermophaga country:&#34;nigeria&#34;" ; Times: 1
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "galbula phainopepla" ; Times: 1
+	Query: "FMNH 218109" ; Times: 1
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "Diomedea nigripes" ; Times: 13
+	Query: "specificepithet:coryphaeus genus:Pogoniulus institutioncode:FMNH" ; Times: 1
+	Query: "genus:Icterus stateprovince:&#34;Coahuila&#34;" ; Times: 5
+	Query: "(genus:strix OR genus:ciccaba) (infraspecificepithet:lucida OR infraspecificepithet:huachucae OR infraspecificepithet:juanaphillipsae)" ; Times: 1
+	Query: "Thalassornis leuconotus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Anas formosa basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "Lonchura bicolor mappable:1" ; Times: 3
+	Query: "Vanellus armatus mappable:1" ; Times: 4
+	Query: "country:&#34;New Zealand&#34; institutioncode:FMNH" ; Times: 1
+	Query: "Columbidae+Cameroon" ; Times: 5
+	Query: "class:Aves country:&#34;Gabon&#34;" ; Times: 1
+	Query: "Indicatoridae+Cameroon" ; Times: 1
+	Query: "catalognumber:172456 institutioncode:FMNH" ; Times: 1
+	Query: "aphelocoma coerulescens hastissue:1" ; Times: 1
+	Query: "catalognumber:195547 institutioncode:FMNH" ; Times: 2
+	Query: "bucco capensis institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone country:&#34;ivory coast&#34;" ; Times: 1
+	Query: "Branta hutchinsii basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "181675 genus:Catharus institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:rufiventer genus:terpsiphone country:&#34;nigeria&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "transitiva vntype:specimen specificepithet:rustica genus:hirundo" ; Times: 1
+	Query: "nonnula ruficapilla institutioncode:FMNH" ; Times: 1
+	Query: "Anser albifrons basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Alectoris chukar mappable:1" ; Times: 4
+	Query: "Sicalis luteocephala" ; Times: 1
+	Query: "Anas penelope basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone country:&#34;cameroon&#34;" ; Times: 2
+	Query: "catalognumber:9274 institutioncode:FMNH" ; Times: 1
+	Query: "genus:carduelis country:&#34;iran&#34; basisofrecord:PreservedSpecimen" ; Times: 7
+	Query: "Paroaria coronata mappable:1" ; Times: 4
+	Query: "specificepithet:nitens genus:malimbus country:&#34;ivory coast&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "156047" ; Times: 1
+	Query: "catalognumber:94360 institutioncode:FMNH" ; Times: 1
+	Query: "Sarkidiornis melanotos mappable:1" ; Times: 4
+	Query: "35931" ; Times: 1
+	Query: "Anser serrirostris basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:funereus genus:Aegolius stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "specificepithet:orix franciscanus genus:Euplectes catalognumber:396783 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:leucopyga genus:tachycineta country:&#34;chile&#34;" ; Times: 1
+	Query: "Oxyura leucocephala basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "riparia diluta" ; Times: 2
+	Query: "catalognumber:171749 institutioncode:FMNH" ; Times: 1
+	Query: "pyrrhura lepida" ; Times: 1
+	Query: "114041" ; Times: 1
+	Query: "genus:AIX institutioncode:FMNH mappable:1" ; Times: 1
+	Query: "specificepithet:calurus genus:criniger country:&#34;liberia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:84774 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 67721" ; Times: 1
+	Query: "Herpetotheres cachinnans mappable:1" ; Times: 4
+	Query: "specificepithet:podiceps genus:Podilymbus hastissue:1" ; Times: 2
+	Query: "Phoeniculidae+Cameroon" ; Times: 1
+	Query: "catalognumber:29771" ; Times: 1
+	Query: "specificepithet:microptera genus:Rollandia" ; Times: 2
+	Query: "Grallaria varia" ; Times: 1
+	Query: "specificepithet:verticalis genus:Tyrannus stateprovince:&#34;Kansas&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "Mergus serrator basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:352855" ; Times: 1
+	Query: "Sturnidae+Cameroon" ; Times: 4
+	Query: "peucedramus jaliscensis" ; Times: 1
+	Query: "hemispingus rufosuperciliaris" ; Times: 5
+	Query: "FMNH 190259" ; Times: 1
+	Query: "rhipidura granti" ; Times: 1
+	Query: "FMNH 35144" ; Times: 3
+	Query: "Aburria cumanensis mappable:1" ; Times: 3
+	Query: "specificepithet:poliocephalus genus:phylloscopus" ; Times: 1
+	Query: "Quelea quelea mappable:1" ; Times: 4
+	Query: "genus:Surnia class:Aves hastissue:1" ; Times: 1
+	Query: "holsti" ; Times: 1
+	Query: "catalognumber:53568 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:fuliginosa genus:petrochelidon" ; Times: 2
+	Query: "catalognumber:268138 institutioncode:FMNH" ; Times: 2
+	Query: "Netta rufina basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Grallaria carrikeri" ; Times: 1
+	Query: "brazzae" ; Times: 1
+	Query: "Campephagidae+Cameroon" ; Times: 1
+	Query: "catalognumber:338747 institutioncode:FMNH" ; Times: 1
+	Query: "anderson 1896" ; Times: 1
+	Query: "Bucephala albeola basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "108688" ; Times: 1
+	Query: "Tinamus tao" ; Times: 1
+	Query: "Oriolidae+Cameroon" ; Times: 2
+	Query: "Toscana" ; Times: 3
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "fmnh isodactyla" ; Times: 1
+	Query: "riparia chinensis" ; Times: 2
+	Query: "Aratinga acuticaudata mappable:1" ; Times: 3
+	Query: "catalognumber:74382 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:calurus genus:Criniger country:&#34;cameroon&#34;" ; Times: 1
+	Query: "Lonchura nigriceps mappable:1" ; Times: 4
+	Query: "196013" ; Times: 1
+	Query: "catalognumber:195450 institutioncode:FMNH" ; Times: 1
+	Query: "Anser fabalis basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:modesta genus:progne country:&#34;ecuador&#34;" ; Times: 1
+	Query: "Prionops rufiventris" ; Times: 1
+	Query: "Parabuteo unicinctus mappable:1" ; Times: 3
+	Query: "specificepithet:cyanocampter genus:cossypha country:&#34;liberia&#34;" ; Times: 1
+	Query: "specificepithet:albiceps genus:psalidoprocne institutioncode:FMNH hastissue:1" ; Times: 1
+	Query: "Zenaida auriculata mappable:1" ; Times: 4
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Euplectes hordeaceus mappable:1" ; Times: 4
+	Query: "catalognumber:188850 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:haematina genus:spermophaga country:&#34;ghana&#34; hastissue:1" ; Times: 1
+	Query: "toscana" ; Times: 4
+	Query: "Quelea erythrops mappable:1" ; Times: 4
+	Query: "specificepithet:helianthea genus:Coeligena country:&#34;Colombia&#34;" ; Times: 2
+	Query: "monster" ; Times: 3
+	Query: "catalognumber:172461 institutioncode:FMNH" ; Times: 1
+	Query: "Platysteira albifrons" ; Times: 1
+	Query: "Batis" ; Times: 1
+	Query: "Amazonetta brasiliensis mappable:1" ; Times: 4
+	Query: "Platysteira cyanea" ; Times: 1
+	Query: "nonnula amaurocephala" ; Times: 1
+	Query: "Euplectes ardens mappable:1" ; Times: 3
+	Query: "Anas bahamensis mappable:1" ; Times: 3
+	Query: "Somateria mollissima basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Anhima cornuta basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Turdus rufitorques" ; Times: 2
+	Query: "Paroaria dominicana mappable:1" ; Times: 4
+	Query: "specificepithet:haematina genus:spermophaga country:&#34;central african republic&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:42188 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:calurus genus:Criniger country:&#34;cameroon&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chauna chavaria basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "colluricincla madaraszi" ; Times: 1
+	Query: "Locustella fluviatilis" ; Times: 2
+	Query: "catalognumber:46181 institutioncode:FMNH" ; Times: 1
+	Query: "Musophagidae+Cameroon" ; Times: 3
+	Query: "Lanioturdus torquatus" ; Times: 1
+	Query: "Ara macao Guatemala" ; Times: 1
+	Query: "prinia kasokae" ; Times: 1
+	Query: "specificepithet:poensis genus:neocossyphus country:&#34;central african republic&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "AMPELICEPS CORONATUS" ; Times: 1
+	Query: "Sitta magna" ; Times: 1
+	Query: "genus:Diomedea preparations:Skel" ; Times: 7
+	Query: "zosterops feae" ; Times: 2
+	Query: "catalognumber:449595" ; Times: 1
+	Query: "galapagos specificepithet:modesta genus:progne" ; Times: 2
+	Query: "Ploceus melanocephalus mappable:1" ; Times: 4
+	Query: "catalognumber:449170 institutioncode:FMNH" ; Times: 1
+	Query: "zosterops meeki" ; Times: 4
+	Query: "gypaetus" ; Times: 1
+	Query: "catalognumber:443668 institutioncode:FMNH" ; Times: 1
+	Query: "Heliornithidae+Cameroon" ; Times: 1
+	Query: "Dakota turtle pubescens" ; Times: 1
+	Query: "Sporophila ruficollis" ; Times: 25
+	Query: "327715" ; Times: 3
+	Query: "Prionops retzii" ; Times: 1
+	Query: "genus:cecropis hastissue:1" ; Times: 2
+	Query: "Eurylaimidae+Cameroon" ; Times: 2
+	Query: "Emberizidae+Cameroon" ; Times: 1
+	Query: "dicrurus hottentottus brevirostris thailand" ; Times: 1
+	Query: "Estrilda rhodopyga mappable:1" ; Times: 4
+	Query: "Geopelia striata mappable:1" ; Times: 2
+	Query: "country:&#34;uganda&#34; preparations:skin year &gt;= 2000 year &lt;= 2017" ; Times: 1
+	Query: "vntype:specimen specificepithet:melancholicus genus:Tyrannus country:&#34;Brazil&#34;" ; Times: 5
+	Query: "80294" ; Times: 1
+	Query: "delichon nipalensis" ; Times: 1
+	Query: "specificepithet:congensis genus:Afropavo" ; Times: 1
+	Query: "79588" ; Times: 1
+	Query: "capito aurovirens" ; Times: 1
+	Query: "catalognumber:11132 institutioncode:FMNH" ; Times: 1
+	Query: "Emberizidae Cameroon" ; Times: 1
+	Query: "zosterops flavus" ; Times: 1
+	Query: "Numida meleagris mappable:1" ; Times: 4
+	Query: "Oxyura australis basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Thamnophilus nigrocinereus" ; Times: 1
+	Query: "specificepithet:nitens genus:malimbus country:&#34;central african republic&#34; hastissue:1" ; Times: 1
+	Query: "Sporophila ruficollis tiss" ; Times: 2
+	Query: "Dendrocygna autumnalis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:nitens genus:malimbus country:&#34;ivory coast&#34;" ; Times: 1
+	Query: "catalognumber:443667 institutioncode:FMNH" ; Times: 1
+	Query: "class:Aves catalognumber:74868" ; Times: 1
+	Query: "Melanitta nigra basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:nitens genus:malimbus country:&#34;central african republic&#34;" ; Times: 1
+	Query: "Netta peposaca mappable:1" ; Times: 4
+	Query: "Platysteira hormophora" ; Times: 1
+	Query: "Platysteiridae+Cameroon" ; Times: 6
+	Query: "specificepithet:auritus genus:Podiceps hastissue:1" ; Times: 1
+	Query: "Glareolidae+Cameroon" ; Times: 1
+	Query: "vntype:specimen specificepithet:melancholicus genus:TYrannus country:&#34;Brazil&#34;" ; Times: 4
+	Query: "Oceanites gracilis gracilis" ; Times: 3
+	Query: "catalognumber:442174 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:columbarius genus:falco class:aves stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "specificepithet:icterinus genus:phyllastrephus country:&#34;central african republic&#34; hastissue:1" ; Times: 1
+	Query: "FMNH 81031" ; Times: 2
+	Query: "Mimus gundlachii" ; Times: 2
+	Query: "FMNH 81033" ; Times: 3
+	Query: "FMNH 81032" ; Times: 2
+	Query: "FMNH 81035" ; Times: 2
+	Query: "FMNH 81034" ; Times: 2
+	Query: "FMNH 81037" ; Times: 2
+	Query: "specificepithet:virginianus genus:Bubo institutioncode:FMNH hastissue:1" ; Times: 1
+	Query: "Remizidae Cameroon" ; Times: 1
+	Query: "Erithacus tanensis" ; Times: 1
+	Query: "Actophilornis africana mappable:1" ; Times: 3
+	Query: "Pyrrhura perlata" ; Times: 1
+	Query: "Oceanodroma macrodactyla" ; Times: 2
+	Query: "specificepithet:poensis genus:neocossyphus country:&#34;ivory coast&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ardeidae+Cameroon" ; Times: 2
+	Query: "Aix galericulata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:angolensis genus:hirundo hastissue:1" ; Times: 1
+	Query: "catalognumber:61737 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:chrysoconus genus:Pogoniulus country:&#34;Ghana&#34;" ; Times: 1
+	Query: "Clangula hyemalis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "class:Aves country:&#34;Togo&#34;" ; Times: 1
+	Query: "genus:delichon institutioncode:FMNH" ; Times: 1
+	Query: "Lamprotornis chloropterus mappable:1" ; Times: 4
+	Query: "Aythya collaris basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "Grallaria gigantea" ; Times: 1
+	Query: "Sylviidae+Cameroon" ; Times: 9
+	Query: "catalognumber:169763 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:203974 institutioncode:FMNH" ; Times: 1
+	Query: "Aythya marila basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "catalognumber:296138 institutioncode:FMNH" ; Times: 1
+	Query: "Estrilda perreini mappable:1" ; Times: 4
+	Query: "class:aves county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:FMNH basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "specificepithet:chloris genus:nicator country:&#34;nigeria&#34;" ; Times: 1
+	Query: "Pteroclididae+Cameroon" ; Times: 1
+	Query: "Lonchura cucullata mappable:1" ; Times: 3
+	Query: "Buteo augur" ; Times: 4
+	Query: "FMNH 123875" ; Times: 1
+	Query: "ptilogonys otofuscus" ; Times: 1
+	Query: "FMNH 81637" ; Times: 2
+	Query: "FMNH 81636" ; Times: 2
+	Query: "FMNH 81635" ; Times: 3
+	Query: "FMNH 11078" ; Times: 1
+	Query: "catalognumber:11162 institutioncode:FMNH" ; Times: 2
+	Query: "FMNH 81639" ; Times: 1
+	Query: "FMNH 81638" ; Times: 2
+	Query: "catalognumber:396139 institutioncode:FMNH" ; Times: 1
+	Query: "Oceanites gracilis galapagoensis" ; Times: 2
+	Query: "catalognumber:147671 institutioncode:FMNH" ; Times: 1
+	Query: "pyrrhura stateprovince:&#34;Para&#34;" ; Times: 1
+	Query: "leucopeza semperi" ; Times: 2
+	Query: "146501" ; Times: 1
+	Query: "catalognumber:93587 institutioncode:FMNH" ; Times: 1
+	Query: "pyrrhura lepida vntype:specimen" ; Times: 1
+	Query: "catalognumber:138664 institutioncode:FMNH" ; Times: 1
+	Query: "Chloephaga picta mappable:1" ; Times: 4
+	Query: "46181" ; Times: 1
+	Query: "FMNH 167706" ; Times: 1
+	Query: "catalognumber:188495 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:505000 collectioncode:birds institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:chloris genus:nicator country:&#34;gabon&#34; institutioncode:FMNH basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:172457 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:188498 institutioncode:FMNH" ; Times: 1
+	Query: "tachycineta bicolor vntype:specimen institutioncode:FMNH" ; Times: 1
+	Query: "Batis minima" ; Times: 1
+	Query: "Bucerotidae+Cameroon" ; Times: 4
+	Query: "Apodidae+Cameroon" ; Times: 2
+	Query: "298646" ; Times: 3
+	Query: "catalognumber: 482581 collectioncode:birds institutioncode:FMNH" ; Times: 1
+	Query: "class:aves (19137)" ; Times: 1
+	Query: "Phasianidae+Cameroon" ; Times: 3
+	Query: "San Bernardino pubescens" ; Times: 1
+	Query: "B-1357" ; Times: 1
+	Query: "specificepithet:chloris genus:nicator basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Todus continent:North America" ; Times: 1
+	Query: "Anas acuta basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:93589 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:347729 institutioncode:FMNH" ; Times: 2
+	Query: "pachycephala pavuvu" ; Times: 2
+	Query: "specificepithet:melpoda genus:Estrilda" ; Times: 1
+	Query: "specificepithet:ruficollis genus:Sporophila collectioncode:birds institutioncode:FMNH hastissue:1" ; Times: 1
+	Query: "FMNH 173345" ; Times: 1
+	Query: "catalognumber:23926" ; Times: 1
+	Query: "catalognumber: 378832 collectioncode:birds institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:nigrocinnamomea genus:rhipidura class:aves year &gt;= 1990 year &lt;= 2017 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:icterinus genus:phyllastrephus country:&#34;cameroon&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:125 institutioncode:FMNH" ; Times: 2
+	Query: "Vultur gryphus" ; Times: 30
+	Query: "Pittidae+Cameroon" ; Times: 1
+	Query: "specificepithet:calurus genus:Criniger basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone country:&#34;ghana&#34;" ; Times: 1
+	Query: "Accipiter badius mappable:1" ; Times: 4
+	Query: "FMNH 219669" ; Times: 1
+	Query: "catalognumber:183789 institutioncode:FMNH" ; Times: 1
+	Query: "293492" ; Times: 1
+	Query: "Anas querquedula basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Celaenops" ; Times: 1
+	Query: "Batis orientalis" ; Times: 1
+	Query: "Batis poensis" ; Times: 1
+	Query: "Myiopsitta monachus mappable:1" ; Times: 3
+	Query: "Phoeniculus purpureus mappable:1" ; Times: 4
+	Query: "catalognumber:93588 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:lucida genus:hirundo" ; Times: 2
+	Query: "Dendragapus obscurus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "catalognumber:346803 institutioncode:FMNH" ; Times: 1
+	Query: "Ramphastos sulfuratus mappable:1" ; Times: 4
+	Query: "catalognumber:67276 institutioncode:FMNH" ; Times: 1
+	Query: "Pionites melanocephala mappable:1" ; Times: 3
+	Query: "chondrohierax uncinatus chiapas" ; Times: 1
+	Query: "specificepithet:prasina genus:Hylia country:&#34;nigeria&#34;" ; Times: 4
+	Query: "genus:Anser preparations:Skel" ; Times: 1
+	Query: "hemithraupis huambina" ; Times: 1
+	Query: "specificepithet:haematina genus:spermophaga country:&#34;nigeria&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "bird eggs nebraska" ; Times: 20
+	Query: "FMNH 81036" ; Times: 2
+	Query: "Prionops caniceps" ; Times: 1
+	Query: "Euplectes axillaris mappable:1" ; Times: 4
+	Query: "Motacillidae+Cameroon" ; Times: 3
+	Query: "Lonchura punctulata mappable:1" ; Times: 4
+	Query: "specificepithet:melanocephalus genus:Myioborus hastissue:1" ; Times: 2
+	Query: "hypnelus institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:129640" ; Times: 1
+	Query: "genus:hydrobates preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "myiagra cinerea" ; Times: 1
+	Query: "Crinifer piscator mappable:1" ; Times: 4
+	Query: "catalognumber:55874 institutioncode:FMNH" ; Times: 1
+	Query: "Monarchidae+Cameroon" ; Times: 5
+	Query: "Cygnus columbianus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:138663 institutioncode:FMNH" ; Times: 1
+	Query: "75244" ; Times: 1
+	Query: "Pytilia melba mappable:1" ; Times: 4
+	Query: "Oena capensis mappable:1" ; Times: 4
+	Query: "Batis perkeo" ; Times: 2
+	Query: "Sicalis luteola mappable:1" ; Times: 4
+	Query: "catalognumber:315116 collectioncode:birds" ; Times: 1
+	Query: "lalage pallescens" ; Times: 1
+	Query: "specificepithet:cupido genus:Tympanuchus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Anas cyanoptera mappable:1" ; Times: 1
+	Query: "catalognumber:105500 institutioncode:FMNH" ; Times: 1
+	Query: "catharus fuscescens month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "family:Hirundinidae collectioncode:Birds institutioncode:FMNH hastissue:1" ; Times: 3
+	Query: "class:aves (459945)" ; Times: 1
+	Query: "Monarchidae Cameroon" ; Times: 1
+	Query: "fmnh 357942" ; Times: 1
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "catalognumber:183790 institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:77146" ; Times: 1
+	Query: "Acrocephalus arundinaceus" ; Times: 2
+	Query: "Amazona amazonica mappable:1" ; Times: 3
+	Query: "FMNH 81030" ; Times: 2
+	Query: "Psittacidae+Cameroon" ; Times: 3
+	Query: "Turdidae+Cameroon" ; Times: 6
+	Query: "222778" ; Times: 1
+	Query: "Laridae+Cameroon" ; Times: 1
+	Query: "catalognumber:188497 institutioncode:FMNH" ; Times: 1
+	Query: "class:Aves country:&#34;Mauritania&#34;" ; Times: 1
+	Query: "Serinus mozambicus mappable:1" ; Times: 3
+	Query: "Pogoniulus chrysoconus xanthostictus" ; Times: 1
+	Query: "butorides frazari" ; Times: 1
+	Query: "Platysteira chalybea" ; Times: 1
+	Query: "phedina brazzae" ; Times: 1
+	Query: "Numenius madagascariensis" ; Times: 1
+	Query: "vntype:specimen genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "notharchus ordii" ; Times: 2
+	Query: "pyrrhura rhodogaster" ; Times: 2
+	Query: "Coracopsis vasa mappable:1" ; Times: 3
+	Query: "FMNH 274954" ; Times: 1
+	Query: "Dendrocolaptes medius" ; Times: 1
+	Query: "specificepithet:prasina genus:Hylia country:&#34;cameroon&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Columba livia wisconsin" ; Times: 1
+	Query: "pyrrhura melanura ecuador" ; Times: 1
+	Query: "pyrrhura stateprovince:&#34;Para&#34; (perlata OR lepida OR rhodogaster)" ; Times: 1
+	Query: "FMNH 10843" ; Times: 1
+	Query: "biatas" ; Times: 1
+	Query: "Burhinidae+Cameroon" ; Times: 1
+	Query: "specificepithet:caerulea genus:Passerina year &gt;= 1912 year &lt;= 1912" ; Times: 1
+	Query: "Ara maracana mappable:1" ; Times: 3
+	Query: "cecropis senegalensis" ; Times: 1
+	Query: "ochraceiceps rubrifrons" ; Times: 1
+	Query: "Sphyrapicus ruber placer county" ; Times: 1
+	Query: "toxostoma dumosum" ; Times: 2
+	Query: "Heteronetta atricapilla mappable:1" ; Times: 4
+	Query: "catalognumber:94362 institutioncode:FMNH" ; Times: 1
+	Query: "Meropidae+Cameroon" ; Times: 3
+	Query: "Campephilus principalis bairdii" ; Times: 1
+	Query: "specificepithet:haematina genus:spermophaga country:&#34;guinea&#34;" ; Times: 1
+	Query: "specificepithet:calurus genus:criniger country:&#34;guinea&#34;" ; Times: 1
+	Query: "196029" ; Times: 2
+	Query: "Cypseloides major" ; Times: 1
+	Query: "catalognumber:207650 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber: 288468 collectioncode:birds institutioncode:FMNH" ; Times: 1
+	Query: "Certhiidae Cameroon" ; Times: 1
+	Query: "Anas flavirostris basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "rollandia" ; Times: 1
+	Query: "Merganetta armata basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Anas aucklandica basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:psalidoprocne hastissue:1" ; Times: 7
+	Query: "progne cryptoleuca" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone country:&#34;guinea&#34;" ; Times: 1
+	Query: "FMNH 113522" ; Times: 1
+	Query: "Tephrodornis pondicerianus" ; Times: 1
+	Query: "specificepithet:luteiventris genus:Myiozetetes country:&#34;Brazil&#34;" ; Times: 1
+	Query: "183292" ; Times: 1
+	Query: "Anas erythrorhyncha mappable:1" ; Times: 4
+	Query: "Sulidae+Cameroon" ; Times: 1
+	Query: "specificepithet:belli genus:basileuterus hastissue:1" ; Times: 1
+	Query: "tinamus major chiapas" ; Times: 1
+	Query: "genus:Heliornis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:11677 institutioncode:FMNH" ; Times: 1
+	Query: "Aratinga cactorum mappable:1" ; Times: 3
+	Query: "hypsipetes ambiens" ; Times: 2
+	Query: "Cyanocorax chrysops mappable:1" ; Times: 4
+	Query: "FMNH 20615" ; Times: 2
+	Query: "catalognumber:343729 institutioncode:FMNH" ; Times: 1
+	Query: "220969" ; Times: 1
+	Query: "Tauraco Cameroon" ; Times: 2
+	Query: "Aythya innotata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:ellioti genus:Syrmaticus" ; Times: 1
+	Query: "specificepithet:leucopyga genus:tachycineta stateprovince:&#34;magallanes&#34; country:&#34;chile&#34;" ; Times: 1
+	Query: "catalognumber:172458 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:troglodytes genus:Estrilda" ; Times: 1
+	Query: "family:Phoenicopteridae hastissue:1" ; Times: 1
+	Query: "Amazona aestiva mappable:1" ; Times: 3
+	Query: "Chondrohierax wilsonii" ; Times: 8
+	Query: "Jacana jacana mappable:1" ; Times: 2
+	Query: "specificepithet:daurica genus:cecropis OR hirundo hastissue:1" ; Times: 1
+	Query: "Caixuana" ; Times: 1
+	Query: "catalognumber:68902 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:superciliosus genus:oriturus hastissue:1" ; Times: 1
+	Query: "rhopophilus albosuperciliaris" ; Times: 1
+	Query: "Anas puna basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Crax globulosa" ; Times: 1
+	Query: "Laniidae+Cameroon" ; Times: 7
+	Query: "columba plumbea" ; Times: 1
+	Query: "tiaris johnstonei" ; Times: 1
+	Query: "specificepithet:alaudipes genus:Alaemon" ; Times: 1
+	Query: "pyrrhura cruentata vntype:specimen" ; Times: 3
+	Query: "Batis senegalensis" ; Times: 1
+	Query: "catalognumber:142133 institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone country:&#34;nigeria&#34; institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:poensis genus:neocossyphus country:&#34;cameroon&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aythya americana basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "FMNH 168652" ; Times: 1
+	Query: "catalognumber:6020" ; Times: 1
+	Query: "hirundo lucida" ; Times: 1
+	Query: "specificepithet:luteocephala genus:Sicalis" ; Times: 1
+	Query: "catalognumber:7902" ; Times: 1
+	Query: "catalognumber:396138 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:352824 institutioncode:FMNH" ; Times: 1
+	Query: "Sporophila ruficollis FMNH" ; Times: 2
+	Query: "139594" ; Times: 1
+	Query: "petrochelidon fluvicola" ; Times: 1
+	Query: "catalognumber:172267" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone country:&#34;senegal&#34;" ; Times: 1
+	Query: "catalognumber:142459 institutioncode:FMNH" ; Times: 1
+	Query: "Batis capensis" ; Times: 1
+	Query: "85180" ; Times: 1
+	Query: "megalurus mayri" ; Times: 1
+	Query: "specificepithet:calurus genus:criniger basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "prinia inglisi" ; Times: 1
+	Query: "Crandon Park Zoo" ; Times: 1
+	Query: "Anas versicolor mappable:1" ; Times: 3
+	Query: "Pyrrhura rhodogaster" ; Times: 1
+	Query: "onychorhynchus hastissue:1" ; Times: 3
+	Query: "Melanitta fusca basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "pseudochelidon" ; Times: 3
+	Query: "FMNH 234943" ; Times: 1
+	Query: "Estrilda caerulescens mappable:1" ; Times: 4
+	Query: "Pelagodroma marina eadesi" ; Times: 1
+	Query: "petrochelidon rufigula" ; Times: 2
+	Query: "calocitta colliei" ; Times: 1
+	Query: "Oxyruncus cristatus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "FMNH 205242" ; Times: 1
+	Query: "Platysteira castanea" ; Times: 1
+	Query: "vntype:specimen specificepithet:nitens genus:malimbus country:&#34;nigeria&#34; institutioncode:FMNH" ; Times: 1
+	Query: "Myrmotherula klagesi" ; Times: 1
+	Query: "266723" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga institutioncode:FMNH" ; Times: 2
+	Query: "Anas chlorotis basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:101839 institutioncode:FMNH" ; Times: 1
+	Query: "Anas bahamensis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Tephrodornis sylvicola" ; Times: 1
+	Query: "catalognumber:390793 collectioncode:birds" ; Times: 2
+	Query: "Otididae+Cameroon" ; Times: 1
+	Query: "genus:nucifraga caryocatactes institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:nitens genus:malimbus country:&#34;ghana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "hornemanni hornemanni minnesota" ; Times: 1
+	Query: "Plectropterus gambensis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(Gilgit India)" ; Times: 1
+	Query: "catalognumber:35240" ; Times: 1
+	Query: "Nettapus pulchellus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Anas flavirostris mappable:1" ; Times: 4
+	Query: "catalognumber:188496 institutioncode:FMNH" ; Times: 1
+	Query: "genus:nucifraga caryocatactes rothschildi" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus county:&#34;Orange&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:467948 institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:grossus genus:Pitylus" ; Times: 2
+	Query: "Anas hottentota basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "atlantisia rogersi" ; Times: 1
+	Query: "Elanoides forficatus mappable:1" ; Times: 4
+	Query: "Pytilia phoenicoptera mappable:1" ; Times: 4
+	Query: "Podicipedidae+Cameroon" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "Tephrodornis affinis" ; Times: 1
+	Query: "specificepithet:nigrocinnamomea genus:rhipidura class:aves year &gt;= 1990 year &lt;= 2017" ; Times: 3
+	Query: "FMNH 81640" ; Times: 2
+	Query: "FMNH 81641" ; Times: 4
+	Query: "catalognumber:199873 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 70691" ; Times: 1
+	Query: "specificepithet:columbarius genus:Falco stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Anas andium basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:15017 institutioncode:FMNH" ; Times: 1
+	Query: "Vidua macroura mappable:1" ; Times: 4
+	Query: "Cypseloides cherriei" ; Times: 2
+	Query: "carrikeri" ; Times: 2
+	Query: "indicator riggenbachi" ; Times: 1
+	Query: "specificepithet:poensis genus:neocossyphus country:&#34;central african republic&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "92661" ; Times: 1
+	Query: "Santa Clara County colaptes" ; Times: 1
+	Query: "258270" ; Times: 1
+	Query: "specificepithet:nitens genus:malimbus country:&#34;liberia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "Pteronetta hartlaubii basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:15946 institutioncode:FMNH" ; Times: 1
+	Query: "Batis pririt" ; Times: 1
+	Query: "Muscicapidae+Cameroon" ; Times: 2
+	Query: "ortygospiza ugandae" ; Times: 1
+	Query: "Corvus albus mappable:1" ; Times: 4
+	Query: "specificepithet:nitens genus:malimbus country:&#34;nigeria&#34;" ; Times: 1
+	Query: "Raphus cucullatus" ; Times: 4
+	Query: "specificepithet:poensis genus:neocossyphus country:&#34;ghana&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Acridotheres cristatellus mappable:1" ; Times: 4
+	Query: "Cacicus cela mappable:1" ; Times: 4
+	Query: "genus:Rallus institutioncode:FMNH mappable:1" ; Times: 1
+	Query: "Estrilda astrild mappable:1" ; Times: 4
+	Query: "indicator diadematus" ; Times: 1
+	Query: "pyrrhura perlata" ; Times: 1
+	Query: "notharchus hastissue:1" ; Times: 1
+	Query: "specificepithet:pusillus genus:Pogoniulus country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "Aglaeactis hastissue:1" ; Times: 12
+	Query: "percnostola intensa" ; Times: 1
+	Query: "class:Aves country:&#34;Mali&#34;" ; Times: 1
+	Query: "Nettapus coromandelianus basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "Dendrocygna guttata basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 2
+	Query: "catalognumber:203973 institutioncode:FMNH" ; Times: 1
+	Query: "Lagonosticta senegala mappable:1" ; Times: 4
+	Query: "Polyborus plancus mappable:1" ; Times: 3
+	Query: "293092" ; Times: 1
+	Query: "junco pontilis" ; Times: 2
+	Query: "R-194073" ; Times: 1
+	Query: "Platysteira peltata" ; Times: 2
+	Query: "thamnophilus doliatus chiapas" ; Times: 1
+	Query: "Prionops gabela" ; Times: 1
+	Query: "Cairina moschata mappable:1" ; Times: 4
+	Query: "catalognumber:384692 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:clarkii genus:Aechmophorus hastissue:1" ; Times: 1
+	Query: "Aythya affinis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "54553" ; Times: 1
+	Query: "281688" ; Times: 1
+	Query: "Batis molitor" ; Times: 1
+	Query: "thamnistes saturatus" ; Times: 1
+	Query: "Picumnus varzeae" ; Times: 1
+	Query: "Batis margaritae" ; Times: 1
+	Query: "megalurus wahgiensis" ; Times: 1
+	Query: "ficedula malindangensis" ; Times: 1
+	Query: "chinensis specificepithet:paludicola genus:Riparia" ; Times: 2
+	Query: "myrmotherula dissita" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo preparations:skin institutioncode:FMNH hastissue:1" ; Times: 1
+	Query: "institutioncode:FMNH" ; Times: 4
+	Query: "stoliczkae" ; Times: 1
+	Query: "genus:Fringilla preparations:Skel" ; Times: 7
+	Query: "specificepithet:prasina genus:Hylia country:&#34;ghana&#34;" ; Times: 1
+	Query: "Diomedea epomophora basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:ANAS institutioncode:FMNH mappable:1 hastissue:1" ; Times: 1
+	Query: "Ploceus cucullatus mappable:1" ; Times: 2
+	Query: "63298" ; Times: 1
+	Query: "gbifdatasetid:36f15a36-6b45-442e-9c31-cd633423aee0" ; Times: 62
+	Query: "Phoenicopterus ruber mappable:1" ; Times: 4
+	Query: "Batis soror" ; Times: 1
+	Query: "catalognumber:131858 institutioncode:FMNH" ; Times: 1
+	Query: "Megalaima FMNH" ; Times: 5
+	Query: "Alcedinidae+Cameroon" ; Times: 5
+	Query: "specificepithet:chrysoconus genus:Pogoniulus country:&#34;Malawi&#34;" ; Times: 1
+	Query: "catalognumber:74383 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:158669 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 177682" ; Times: 1
+	Query: "specificepithet:marina genus:pelagodroma preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:icterinus genus:phyllastrephus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:henslowii genus:Ammodramus year &gt;= 1910 year &lt;= 1910" ; Times: 1
+	Query: "Anatidae+Cameroon" ; Times: 1
+	Query: "Anas fulvigula basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Aepyornis" ; Times: 1
+	Query: "specificepithet:graduacauda genus:Icterus stateprovince:&#34;Coahuila&#34;" ; Times: 1
+	Query: "specificepithet:nitens genus:malimbus country:&#34;cameroon&#34;" ; Times: 5
+	Query: "FMNH 81023" ; Times: 2
+	Query: "specificepithet:peregrinus genus:falco hastissue:1" ; Times: 1
+	Query: "Branta ruficollis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:393691 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:calurus genus:Criniger country:&#34;cameroon&#34; institutioncode:FMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:paludicola genus:riparia hastissue:1" ; Times: 2
+	Query: "pyrrhura vntype:specimen (perlata OR lepida OR rhodogaster) AND (Para)" ; Times: 1
+	Query: "Pycnonotus leucogenys mappable:1" ; Times: 3
+	Query: "Prionops institutioncode:FMNH" ; Times: 1
+	Query: "Chauna torquata basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:157725 institutioncode:FMNH" ; Times: 1
+	Query: "Euplectes orix mappable:1" ; Times: 4
+	Query: "recordnumber:11162 institutioncode:FMNH" ; Times: 2
+	Query: "Bycanistes brevis mappable:1" ; Times: 5
+	Query: "Ploceidae Cameroon" ; Times: 6
+	Query: "Strigidae+Cameroon" ; Times: 2
+	Query: "Tyrannus savana mappable:1" ; Times: 4
+	Query: "Mergus octosetaceus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "142457" ; Times: 1
+	Query: "geobates" ; Times: 1
+	Query: "specificepithet:guatemalae genus:otus hastissue:1" ; Times: 1
+	Query: "114020" ; Times: 1
+	Query: "catalognumber:128265 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:331063" ; Times: 1
+	Query: "catalognumber:105499 institutioncode:FMNH" ; Times: 1
+	Query: "genus:Euplectes institutioncode:FMNH" ; Times: 1
+	Query: "Hirundinidae+Cameroon" ; Times: 4
+	Query: "vntype:specimen specificepithet:prasina genus:hylia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "spelaeornis longicaudatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:nitens genus:malimbus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Platysteira tonsa" ; Times: 1
+	Query: "galbalcyrhynchus" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 6
+	Query: "catalognumber:443663 institutioncode:FMNH" ; Times: 1
+	Query: "Ciconiidae+Cameroon" ; Times: 1
+	Query: "tyto alba-ecuador" ; Times: 2
+	Query: "specificepithet:melodia genus:Zonotrichia year &gt;= 1884 year &lt;= 1885" ; Times: 1
+	Query: "specificepithet:melodia genus:Zonotrichia year &gt;= 1884 year &lt;= 1884" ; Times: 1
+	Query: "catalognumber:166 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:rufiventer genus:terpsiphone country:&#34;nigeria&#34;" ; Times: 1
+	Query: "catalognumber:188560 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:105498 institutioncode:FMNH" ; Times: 1
+	Query: "Coliidae+Cameroon" ; Times: 2
+	Query: "Anas poecilorhyncha basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Upupidae+Cameroon" ; Times: 1
+	Query: "Lophotis ruficrista" ; Times: 3
+	Query: "specificepithet:chloris genus:nicator country:&#34;cameroon&#34;" ; Times: 2
+	Query: "hirundo leucosoma" ; Times: 2
+	Query: "Oxyruncus cristatus" ; Times: 2
+	Query: "catalognumber:31071" ; Times: 1
+	Query: "Ardea cinerea" ; Times: 2
+	Query: "Trogonidae+Cameroon" ; Times: 1
+	Query: "specificepithet:fucata genus:alopochelidon" ; Times: 2
+	Query: "buthraupis aureodorsalis" ; Times: 1
+	Query: "catalognumber:213395 institutioncode:FMNH" ; Times: 1
+	Query: "strix lucida" ; Times: 1
+	Query: "birds Angola" ; Times: 3
+	Query: "catalognumber:61626 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:chloris genus:nicator country:&#34;cameroon&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:superciliosus genus:oriturus country:&#34;mexico&#34; hastissue:1" ; Times: 1
+	Query: "Pionus maximiliani mappable:1" ; Times: 3
+	Query: "progne modesta" ; Times: 1
+	Query: "specificepithet:variegata genus:Tadorna" ; Times: 1
+	Query: "specificepithet:atrocaerulea genus:hirundo hastissue:1" ; Times: 1
+	Query: "tachycineta bicolor vntype:specimen institutioncode:FMNH hastissue:1" ; Times: 1
+	Query: "catalognumber:434442 institutioncode:FMNH" ; Times: 3
+	Query: "country:&#34;Madagascar&#34; institutioncode:FMNH mappable:1" ; Times: 1
+	Query: "genus:Bubo institutioncode:FMNH hastissue:1" ; Times: 1
+	Query: "cecropis rufula fmnh" ; Times: 1
+	Query: "Vidua chalybeata mappable:1" ; Times: 3
+	Query: "claravis mondetoura" ; Times: 74
+	Query: "Jacanidae+Cameroon" ; Times: 1
+	Query: "Tockus nasutus mappable:1" ; Times: 3
+	Query: "catalognumber:169762 institutioncode:FMNH" ; Times: 1
+	Query: "Agapornis cana mappable:1" ; Times: 3
+	Query: "Neomorphus geoffroyi" ; Times: 9
+	Query: "vntype:specimen specificepithet:granadensis genus:Myiozetetes country:&#34;Brazil&#34;" ; Times: 1
+	Query: "FMNH 158299" ; Times: 1
+	Query: "catalognumber:188494 institutioncode:FMNH" ; Times: 1
+	Query: "zosterops vaughani" ; Times: 2
+	Query: "stateprovince:&#34;Para&#34; (perlata OR lepida OR rhodogaster)" ; Times: 1
+	Query: "285753" ; Times: 1
+	Query: "vancouver pubescens" ; Times: 2
+	Query: "Melanerpes carolinus vntype:specimen (Melanerpes carolinus) institutioncode:FMNH basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "Aythya valisineria basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Anas georgica niceforoi" ; Times: 1
+	Query: "specificepithet:verticalis genus:Tyrannus county:&#34;Douglas&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:Fulmarus institutioncode:FMNH mappable:1" ; Times: 2
+	Query: "wilsonia citrina chiapas" ; Times: 1
+	Query: "catalognumber:74381 institutioncode:FMNH" ; Times: 1
+	Query: "Philetairus socius" ; Times: 1
+	Query: "Anas melleri basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "prinia tenella" ; Times: 1
+	Query: "specificepithet:unicolor genus:aphelocoma institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "Sitta canadensis Mexico" ; Times: 1
+	Query: "FMNH 149973" ; Times: 1
+	Query: "FMNH 173347" ; Times: 2
+	Query: "Anas sibilatrix mappable:1" ; Times: 3
+	Query: "catalognumber:53566 institutioncode:FMNH" ; Times: 1
+	Query: "genus:Jacana institutioncode:FMNH mappable:1" ; Times: 1
+	Query: "Cinclocerthia gutturalis" ; Times: 1
+	Query: "batis poensis" ; Times: 1
+	Query: "Dendrocygna autumnalis mappable:1" ; Times: 3
+	Query: "pyrrhura vntype:specimen stateprovince:&#34;Para&#34; (perlata OR lepida OR rhodogaster)" ; Times: 1
+	Query: "specificepithet:albogularis genus:Tyrannus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Nandayus nenday mappable:1" ; Times: 3
+	Query: "class:Aves country:&#34;Upper Volta&#34;" ; Times: 1
+	Query: "Lophura edwardsi" ; Times: 1
+	Query: "FMNH 88247" ; Times: 2
+	Query: "hornemanni exilipes minnesota" ; Times: 2
+	Query: "class:Aves locality:Chyulu country:&#34;Kenya&#34;" ; Times: 2
+	Query: "specificepithet:marina genus:pelagodroma institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:39639 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 81027" ; Times: 2
+	Query: "notharchus ordii vntype:specimen" ; Times: 1
+	Query: "myrmeciza incanescens" ; Times: 2
+	Query: "Estrilda melpoda mappable:1" ; Times: 4
+	Query: "crypturellus cinnamomeus chiapas" ; Times: 1
+	Query: "Cypsiurus Tanzania" ; Times: 2
+	Query: "specificepithet:borbonica genus:phedina hastissue:1" ; Times: 1
+	Query: "Anas crecca basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "specificepithet:prasina genus:Hylia country:&#34;nigeria&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "FMNH 269133" ; Times: 1
+	Query: "FMNH 195224" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 2
+	Query: "Charadriidae+Cameroon" ; Times: 2
+	Query: "Oceanodroma leucorhoa socorroensis" ; Times: 2
+	Query: "Scopus umbretta mappable:1" ; Times: 4
+	Query: "Diomedea epomophora" ; Times: 1
+	Query: "Pteronetta hartlaubii basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:84775 institutioncode:FMNH" ; Times: 1
+	Query: "Coraciidae+Cameroon" ; Times: 1
+	Query: "catalognumber:172455 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:cyaniceps genus:rhipidura class:aves year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "dicrurus hottentottus thailand" ; Times: 1
+	Query: "Phoebetria palpebrata basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "vntype:specimen specificepithet:luteiventris genus:Myiozetetes country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Francolinus francolinus mappable:1" ; Times: 4
+	Query: "specificepithet:vanikorensis genus:Collocalia" ; Times: 1
+	Query: "sitta lilacea" ; Times: 1
+	Query: "vntype:specimen genus:otus AND (asio) hastissue:1" ; Times: 1
+	Query: "Columba guinea mappable:1" ; Times: 4
+	Query: "Alaudidae+Cameroon" ; Times: 1
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "specificepithet:icterinus genus:phyllastrephus country:&#34;cameroon&#34;" ; Times: 1
+	Query: "ptyonoprogne obsoleta" ; Times: 4
+	Query: "Picidae+Cameroon" ; Times: 4
+	Query: "Onychorhynchus mappable:1" ; Times: 1
+	Query: "Callonetta leucophrys mappable:1" ; Times: 4
+	Query: "pipra fasciicauda" ; Times: 2
+	Query: "Euplectes franciscanus mappable:1" ; Times: 4
+	Query: "dicrurus samarensis" ; Times: 6
+	Query: "Columba livia minnesota" ; Times: 1
+	Query: "catalognumber:398714 collectioncode:birds institutioncode:FMNH" ; Times: 1
+	Query: "Stigmatura napensis" ; Times: 1
+	Query: "spelaeornis kinneari" ; Times: 1
+	Query: "Melanerpes carolinus vntype:specimen (Melanerpes carolinus) institutioncode:FMNH" ; Times: 1
+	Query: "rallus semiplumbeus" ; Times: 1
+	Query: "183644" ; Times: 1
+	Query: "catalognumber:11133 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:188915 institutioncode:FMNH" ; Times: 1
+	Query: "Branta ruficollis basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Phalacrocoracidae+Cameroon" ; Times: 1
+	Query: "vntype:specimen (Brazil Caixuana pipra) institutioncode:FMNH" ; Times: 1
+	Query: "genus:cecropis OR hirundo (cucullata OR abyssinica OR semirufa OR senegalensis OR daurica OR striolata OR badia) hastissue:1" ; Times: 2
+	Query: "specificepithet:rumicivorus genus:Thinocorus" ; Times: 1
+	Query: "specificepithet:haematina genus:spermophaga country:&#34;ivory coast&#34;" ; Times: 1
+	Query: "Bradypterus major" ; Times: 1
+	Query: "Pipile cumanensis mappable:1" ; Times: 6
+	Query: "Batis diops" ; Times: 1
+	Query: "specificepithet:haematina genus:spermophaga country:&#34;cameroon&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "myadestes calophonus" ; Times: 1
+	Query: "specificepithet:musica genus:Euphonia country:&#34;Peru&#34; institutioncode:FMNH" ; Times: 2
+	Query: "Paridae Cameroon" ; Times: 1
+	Query: "Cercomacra carbonaria" ; Times: 1
+	Query: "Lophorina superba" ; Times: 1
+	Query: "accipiter poliogaster" ; Times: 2
+	Query: "vntype:specimen specificepithet:similis genus:Myiozetetes country:&#34;Brazil&#34;" ; Times: 4
+	Query: "specificepithet:hova institutioncode:FMNH" ; Times: 1
+	Query: "rhynchocyclus sordidus" ; Times: 1
+	Query: "Uraeginthus bengalus mappable:1" ; Times: 4
+	Query: "catalognumber:53567 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:orix franciscanus genus:Euplectes institutioncode:FMNH" ; Times: 1
+	Query: "Musophaga violacea mappable:1" ; Times: 4
+	Query: "Aythya australis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cereopsis novaehollandiae basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Zosterops senegalensis mappable:1" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 332 (out of 1892 download events in this period)
+Total number of records downloaded: 119500
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 174
+	Country: Madagascar ; Times: 1
+	Country: Unknown ; Times: 74
+	Country: India ; Times: 12
+	Country: Israel ; Times: 1
+	Country: France ; Times: 19
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 13
+	Country: Japan ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 28
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 9
+	Date: 2018-02-08 ; Times: 10
+	Date: 2018-02-02 ; Times: 26
+	Date: 2018-02-01 ; Times: 7
+	Date: 2018-02-07 ; Times: 13
+	Date: 2018-02-06 ; Times: 55
+	Date: 2018-02-05 ; Times: 83
+	Date: 2018-02-04 ; Times: 6
+	Date: 2018-02-21 ; Times: 4
+	Date: 2018-02-20 ; Times: 3
+	Date: 2018-02-23 ; Times: 44
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-25 ; Times: 3
+	Date: 2018-02-24 ; Times: 3
+	Date: 2018-02-27 ; Times: 14
+	Date: 2018-02-26 ; Times: 7
+	Date: 2018-02-28 ; Times: 3
+	Date: 2018-02-14 ; Times: 4
+	Date: 2018-02-15 ; Times: 5
+	Date: 2018-02-16 ; Times: 4
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-11 ; Times: 20
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-13 ; Times: 3
+	Date: 2018-02-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mexicanus genus:Carpodacus continent:North America" ; Times: 1
+	Query: "Pycnonotidae+Cameroon" ; Times: 1
+	Query: "Pittidae+Cameroon" ; Times: 1
+	Query: "specificepithet:calurus genus:Criniger basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Alaudidae+Cameroon" ; Times: 1
+	Query: "class:Aves country:&#34;Gabon&#34;" ; Times: 1
+	Query: "Indicatoridae+Cameroon" ; Times: 1
+	Query: "Ammodramus henslowii" ; Times: 1
+	Query: "Muscicapidae Cameroon" ; Times: 1
+	Query: "class:Aves country:&#34;Liberia&#34;" ; Times: 1
+	Query: "Strigidae+Cameroon" ; Times: 1
+	Query: "Phoeniculidae+Cameroon" ; Times: 1
+	Query: "genus:Agapornis hastissue:1" ; Times: 1
+	Query: "Batis orientalis" ; Times: 1
+	Query: "Batis poensis" ; Times: 2
+	Query: "Estrildidae Cameroon" ; Times: 1
+	Query: "Mimus gundlachii" ; Times: 1
+	Query: "specificepithet:luteocephala genus:Sicalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:haematina genus:spermophaga basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Empidonax alnorum" ; Times: 1
+	Query: "Momotus momota" ; Times: 3
+	Query: "Timaliidae Cameroon" ; Times: 1
+	Query: "pyrrhura cruentata vntype:specimen" ; Times: 2
+	Query: "Certhiidae Cameroon" ; Times: 1
+	Query: "specificepithet:belli genus:Amphispiza" ; Times: 2
+	Query: "Charadrius+Cameroon" ; Times: 1
+	Query: "specificepithet:alchata genus:Pterocles" ; Times: 1
+	Query: "specificepithet:troglodytes genus:Estrilda" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "batis poensis" ; Times: 1
+	Query: "specificepithet:superciliosus genus:oriturus hastissue:1" ; Times: 1
+	Query: "specificepithet:monachus genus:Myiopsitta" ; Times: 1
+	Query: "Prionops caniceps" ; Times: 1
+	Query: "specificepithet:stelleri genus:Cyanocitta continent:North America" ; Times: 1
+	Query: "Platysteira cyanea" ; Times: 1
+	Query: "Motacillidae+Cameroon" ; Times: 1
+	Query: "Platysteira peltata" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 1
+	Query: "Prionops gabela" ; Times: 1
+	Query: "Bias musicus" ; Times: 1
+	Query: "Otididae+Cameroon" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Remizidae Cameroon" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "Picathartidae Cameroon" ; Times: 1
+	Query: "Larus fuscus" ; Times: 1
+	Query: "Batis molitor" ; Times: 1
+	Query: "Picumnus varzeae" ; Times: 1
+	Query: "Scopidae+Cameroon" ; Times: 1
+	Query: "Turdidae+Cameroon" ; Times: 1
+	Query: "specificepithet:purpureus genus:Carpodacus" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 2
+	Query: "Grallaria varia" ; Times: 1
+	Query: "Meropidae+Cameroon" ; Times: 1
+	Query: "Trogonidae+Cameroon" ; Times: 1
+	Query: "Brachypteryx montana" ; Times: 1
+	Query: "specificepithet:rutila genus:Emberiza" ; Times: 1
+	Query: "specificepithet:rumicivorus genus:Thinocorus" ; Times: 1
+	Query: "Sturnidae+Cameroon" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "specificepithet:cupido genus:Tympanuchus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Sri Lanka&#34;" ; Times: 1
+	Query: "specificepithet:cajanea genus:Aramides continent:North America" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "class:Aves country:&#34;Sierra Leone&#34;" ; Times: 1
+	Query: "Nectariniidae Cameroon" ; Times: 1
+	Query: "Batis soror" ; Times: 1
+	Query: "pyrrhura lepida vntype:specimen" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma" ; Times: 1
+	Query: "Hemipus picatus" ; Times: 1
+	Query: "specificepithet:orientalis genus:Pterocles" ; Times: 1
+	Query: "specificepithet:galbula genus:Icterus" ; Times: 1
+	Query: "Alcedinidae+Cameroon" ; Times: 1
+	Query: "specificepithet:erythropleurus genus:Zosterops" ; Times: 1
+	Query: "class:Aves country:&#34;Ivory Coast&#34;" ; Times: 1
+	Query: "class:Aves (Gilgit)" ; Times: 1
+	Query: "Anatidae+Cameroon" ; Times: 1
+	Query: "Psittacidae+Cameroon" ; Times: 1
+	Query: "class:Aves country:&#34;Upper Volta&#34;" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "class:Aves country:&#34;Congo&#34;" ; Times: 2
+	Query: "Campephagidae+Cameroon" ; Times: 1
+	Query: "Laridae+Cameroon" ; Times: 1
+	Query: "specificepithet:peregrinus genus:falco hastissue:1" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "class:Aves country:&#34;Mauritania&#34;" ; Times: 1
+	Query: "specificepithet:esculenta genus:Collocalia" ; Times: 1
+	Query: "Oriolidae+Cameroon" ; Times: 1
+	Query: "specificepithet:melodia genus:zonotrichia" ; Times: 4
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "specificepithet:acadicus genus:Aegolius" ; Times: 1
+	Query: "specificepithet:ellioti genus:Syrmaticus" ; Times: 1
+	Query: "geospiza" ; Times: 1
+	Query: "Prionops institutioncode:FMNH" ; Times: 1
+	Query: "Hemipus hirundinaceus" ; Times: 1
+	Query: "Cercomacra carbonaria" ; Times: 1
+	Query: "vntype:specimen genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "class:Aves country:&#34;Pakistan&#34;" ; Times: 1
+	Query: "Ploceidae Cameroon" ; Times: 1
+	Query: "specificepithet:coerulescens genus:Aphelocoma continent:North America" ; Times: 2
+	Query: "Phaethornis bourcieri" ; Times: 1
+	Query: "Monarchidae+Cameroon" ; Times: 1
+	Query: "specificepithet:poensis genus:neocossyphus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "geobates" ; Times: 1
+	Query: "Prionops rufiventris" ; Times: 1
+	Query: "Platysteira blissetti" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventer genus:terpsiphone basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:livia genus:Columba continent:North America" ; Times: 1
+	Query: "class:Aves country:&#34;Nigeria&#34;" ; Times: 2
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "Platysteira albifrons" ; Times: 1
+	Query: "Dendrocolaptes medius" ; Times: 1
+	Query: "Cuculidae+Cameroon" ; Times: 2
+	Query: "vntype:specimen specificepithet:nitens genus:malimbus basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Platysteira tonsa" ; Times: 1
+	Query: "Passeridae+Cameroon" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Coliidae+Cameroon" ; Times: 1
+	Query: "Ciconiidae+Cameroon" ; Times: 1
+	Query: "Dicruridae+Cameroon" ; Times: 1
+	Query: "specificepithet:melodia class:aves" ; Times: 1
+	Query: "Hirundinidae+Cameroon" ; Times: 1
+	Query: "galbalcyrhynchus" ; Times: 1
+	Query: "class:Aves country:&#34;Guinea&#34; AND (NOT Papua New Guinea)" ; Times: 1
+	Query: "coereba" ; Times: 1
+	Query: "specificepithet:cristatus genus:Aegotheles" ; Times: 1
+	Query: "Cypseloides major" ; Times: 1
+	Query: "Laniidae+Cameroon" ; Times: 1
+	Query: "specificepithet:novaeseelandiae genus:Hemiphaga" ; Times: 1
+	Query: "Upupidae+Cameroon" ; Times: 1
+	Query: "class:Aves country:&#34;Burma&#34;" ; Times: 1
+	Query: "pyrrhura vntype:specimen (perlata OR lepida OR rhodogaster) AND (NOT Para)" ; Times: 1
+	Query: "Chondrohierax wilsonii" ; Times: 2
+	Query: "specificepithet:zoeae genus:Ducula" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "Musophagidae+Cameroon" ; Times: 1
+	Query: "class:Aves country:&#34;Central African Republic&#34;" ; Times: 1
+	Query: "specificepithet:fuscans genus:Lonchura" ; Times: 1
+	Query: "Lanioturdus torquatus" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Todus continent:North America" ; Times: 1
+	Query: "rollandia" ; Times: 3
+	Query: "Sitta magna" ; Times: 1
+	Query: "vntype:specimen genus:otus AND (asio) hastissue:1" ; Times: 1
+	Query: "Tephrodornis affinis" ; Times: 1
+	Query: "specificepithet:cyaneus genus:Malurus" ; Times: 1
+	Query: "genus:psalidoprocne hastissue:1" ; Times: 1
+	Query: "specificepithet:cassinii genus:Carpodacus" ; Times: 1
+	Query: "Prionops" ; Times: 1
+	Query: "Batis margaritae" ; Times: 1
+	Query: "Podicipedidae+Cameroon" ; Times: 1
+	Query: "class:Aves country:&#34;Niger&#34;" ; Times: 1
+	Query: "Tephrodornis pondicerianus" ; Times: 1
+	Query: "specificepithet:fuscata genus:Sterna" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "Platysteira concreta" ; Times: 1
+	Query: "Heliornithidae+Cameroon" ; Times: 1
+	Query: "Jacanidae+Cameroon" ; Times: 1
+	Query: "specificepithet:fasciata genus:Amadina" ; Times: 1
+	Query: "Sulidae+Cameroon" ; Times: 1
+	Query: "specificepithet:variegata genus:Tadorna" ; Times: 1
+	Query: "specificepithet:atra genus:Fulica" ; Times: 1
+	Query: "Prionops retzii" ; Times: 1
+	Query: "specificepithet:ocellata genus:Leipoa" ; Times: 1
+	Query: "genus:cecropis hastissue:1" ; Times: 1
+	Query: "Eurylaimidae+Cameroon" ; Times: 1
+	Query: "Emberizidae+Cameroon" ; Times: 1
+	Query: "Bucerotidae+Cameroon" ; Times: 1
+	Query: "specificepithet:lateralis genus:Zosterops" ; Times: 1
+	Query: "pyrrhura vntype:specimen stateprovince:&#34;Para&#34; (perlata OR lepida OR rhodogaster)" ; Times: 1
+	Query: "vntype:specimen specificepithet:prasina genus:hylia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hylophilus ochraceiceps" ; Times: 1
+	Query: "claravis mondetoura" ; Times: 1
+	Query: "Streptoprocne semicollaris" ; Times: 1
+	Query: "Scolopacidae+Cameroon" ; Times: 1
+	Query: "Neomorphus geoffroyi" ; Times: 5
+	Query: "capito aurovirens" ; Times: 1
+	Query: "Fringillidae+Cameroon" ; Times: 1
+	Query: "Zosteropidae Cameroon" ; Times: 1
+	Query: "class:Aves country:&#34;Bangladesh&#34;" ; Times: 1
+	Query: "Batis minima" ; Times: 1
+	Query: "family:Phoenicopteridae hastissue:1" ; Times: 1
+	Query: "specificepithet:bullockii genus:Icterus" ; Times: 1
+	Query: "specificepithet:spodocephala genus:Emberiza" ; Times: 1
+	Query: "Thamnophilus nigrocinereus" ; Times: 1
+	Query: "specificepithet:pusilla genus:Emberiza" ; Times: 1
+	Query: "Ardeidae+Cameroon" ; Times: 1
+	Query: "class:Aves country:&#34;Mali&#34;" ; Times: 1
+	Query: "Batis minor" ; Times: 1
+	Query: "specificepithet:coturnix genus:Coturnix" ; Times: 1
+	Query: "pygoscelis papua" ; Times: 1
+	Query: "Pteroclididae+Cameroon" ; Times: 1
+	Query: "Batis diops" ; Times: 1
+	Query: "Platysteiridae+Cameroon" ; Times: 1
+	Query: "specificepithet:undulatus genus:Melopsittacus" ; Times: 1
+	Query: "Apodidae+Cameroon" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "Crax globulosa" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "specificepithet:vociferus genus:Caprimulgus" ; Times: 1
+	Query: "specificepithet:lincolnii genus:zonotrichia" ; Times: 2
+	Query: "nonnula amaurocephala" ; Times: 1
+	Query: "specificepithet:alaudipes genus:Alaemon" ; Times: 1
+	Query: "Cinclocerthia gutturalis" ; Times: 1
+	Query: "specificepithet:georgiana genus:zonotrichia" ; Times: 1
+	Query: "Batis senegalensis" ; Times: 1
+	Query: "Batis mixta" ; Times: 1
+	Query: "Hylophilus ochraceiceps rubrifrons" ; Times: 1
+	Query: "Eudyptula minor" ; Times: 1
+	Query: "Charadriidae+Cameroon" ; Times: 1
+	Query: "class:Aves country:&#34;Senegal&#34;" ; Times: 1
+	Query: "Arremonops conirostris" ; Times: 2
+	Query: "specificepithet:montifringilla genus:Fringilla" ; Times: 1
+	Query: "specificepithet:vanikorensis genus:Collocalia" ; Times: 1
+	Query: "specificepithet:excubitor genus:Lanius" ; Times: 1
+	Query: "Platysteira hormophora" ; Times: 1
+	Query: "specificepithet:occidentalis genus:strix" ; Times: 1
+	Query: "vntype:specimen genus:otus hastissue:1 NOT (asio)" ; Times: 1
+	Query: "specificepithet:chukar genus:Alectoris" ; Times: 1
+	Query: "catalognumber:346803 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:calurus genus:Criniger hastissue:1" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Batis fratrum" ; Times: 1
+	Query: "Podilymbus podiceps basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Hirundinidae institutioncode:FMNH hastissue:1" ; Times: 1
+	Query: "Batis capensis" ; Times: 1
+	Query: "pyrrhura perlata vntype:specimen" ; Times: 1
+	Query: "preparations:alc collectioncode:birds institutioncode:FMNH" ; Times: 1
+	Query: "Platysteira jamesoni" ; Times: 1
+	Query: "specificepithet:calurus genus:criniger basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "Falconidae+Cameroon" ; Times: 1
+	Query: "Sylviidae+Cameroon" ; Times: 1
+	Query: "Caprimulgidae+Cameroon" ; Times: 1
+	Query: "Columbidae+Cameroon" ; Times: 1
+	Query: "class:Aves country:&#34;Togo&#34;" ; Times: 1
+	Query: "cinclocerthia gutturalis" ; Times: 1
+	Query: "Pyrrhura rhodogaster" ; Times: 1
+	Query: "Glareolidae+Cameroon" ; Times: 1
+	Query: "Prionops scopifrons" ; Times: 1
+	Query: "specificepithet:melpoda genus:Estrilda" ; Times: 1
+	Query: "Onychorhynchus vntype:specimen mappable:1" ; Times: 1
+	Query: "Anhingidae+Cameroon" ; Times: 1
+	Query: "specificepithet:pica genus:Pica continent:North America" ; Times: 1
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 1
+	Query: "specificepithet:cupido genus:Tympanuchus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Oceanites gracilis gracilis" ; Times: 1
+	Query: "Corvidae+Cameroon" ; Times: 1
+	Query: "Threskiornithidae+Cameroon" ; Times: 1
+	Query: "class:Aves (Ladakh)" ; Times: 1
+	Query: "Tinamus tao" ; Times: 1
+	Query: "Batis minulla" ; Times: 1
+	Query: "Batis pririt" ; Times: 1
+	Query: "Batis perkeo" ; Times: 1
+	Query: "family:pelecanidae hastissue:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Myrmotherula klagesi" ; Times: 1
+	Query: "class:Aves country:&#34;Chad&#34;" ; Times: 1
+	Query: "Picidae+Cameroon" ; Times: 1
+	Query: "family:Gaviidae hastissue:1" ; Times: 1
+	Query: "Chamaeza nobilis" ; Times: 1
+	Query: "country:&#34;Madagascar&#34; institutioncode:FMNH mappable:1" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "class:Aves (Kashmir)" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "Tephrodornis sylvicola" ; Times: 1
+	Query: "Burhinidae+Cameroon" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Pica continent:North America" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "Coraciidae+Cameroon" ; Times: 1
+	Query: "class:Aves country:&#34;Nepal&#34;" ; Times: 1
+	Query: "genus:nucifraga caryocatactes institutioncode:FMNH" ; Times: 1
+	Query: "locality:Santa Rosa county:&#34;Sonoma&#34; stateprovince:&#34;California&#34; year &lt;= 1950" ; Times: 1
+	Query: "ramphastos brevis" ; Times: 2
+	Query: "Stigmatura napensis" ; Times: 1
+	Query: "Platysteira chalybea" ; Times: 1
+	Query: "specificepithet:flaveola genus:Coereba continent:North America" ; Times: 2
+	Query: "Rallidae+Cameroon" ; Times: 1
+	Query: "class:Aves country:&#34;Afghanistan&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:icterinus genus:phyllastrephus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Phalacrocoracidae+Cameroon" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus county:&#34;Orange&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Sudan&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Myanmar&#34;" ; Times: 1
+	Query: "ramphastos toco" ; Times: 4
+	Query: "Phasianidae+Cameroon" ; Times: 1
+	Query: "Dendrocolaptes picumnus" ; Times: 1
+	Query: "specificepithet:alle genus:Alle" ; Times: 1
+	Query: "Tauraco Cameroon" ; Times: 1
+	Query: "specificepithet:japonica genus:Coturnix" ; Times: 1
+	Query: "specificepithet:chloris genus:nicator basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:whitneyi genus:Micrathene" ; Times: 1
+	Query: "specificepithet:columbarius genus:Falco stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "turdus plumbeus" ; Times: 2
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Cranioleuca muelleri" ; Times: 1
+	Query: "Accipitridae+Cameroon" ; Times: 1
+	Query: "class:Aves country:&#34;Bhutan&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Strix" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:humiae genus:Syrmaticus" ; Times: 1
+	Query: "(genus:strix OR genus:ciccaba) (infraspecificepithet:lucida OR infraspecificepithet:huachucae OR infraspecificepithet:juanaphillipsae)" ; Times: 1
+	Query: "Paridae Cameroon" ; Times: 1
+	Query: "Platysteira castanea" ; Times: 1
+
+
+End of report.
