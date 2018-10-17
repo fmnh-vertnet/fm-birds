@@ -1,0 +1,1027 @@
+Report for Institution Code FMNH, Resource fm_birds
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1418
+Number of records retrieved in searches: 18823
+Number of different countries where searches have been originated: 28
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 58
+	Country: Canada ; Times: 31
+	Country: Italy ; Times: 2
+	Country: Unknown ; Times: 36
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 47
+	Country: Peru ; Times: 6
+	Country: Argentina ; Times: 9
+	Country: Venezuela ; Times: 14
+	Country: Ecuador ; Times: 51
+	Country: Australia ; Times: 116
+	Country: Germany ; Times: 9
+	Country: China ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 903
+	Country: Sweden ; Times: 1
+	Country: Thailand ; Times: 3
+	Country: Switzerland ; Times: 1
+	Country: New Zealand ; Times: 13
+	Country: Russia ; Times: 6
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 50
+	Country: India ; Times: 10
+	Country: United Kingdom ; Times: 37
+	Country: Colombia ; Times: 5
+	Country: Japan ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 50
+	Date: 2018-06-06 ; Times: 90
+	Date: 2018-06-05 ; Times: 84
+	Date: 2018-06-04 ; Times: 31
+	Date: 2018-06-29 ; Times: 58
+	Date: 2018-06-02 ; Times: 5
+	Date: 2018-06-01 ; Times: 18
+	Date: 2018-06-25 ; Times: 134
+	Date: 2018-06-24 ; Times: 59
+	Date: 2018-06-27 ; Times: 24
+	Date: 2018-06-26 ; Times: 59
+	Date: 2018-06-21 ; Times: 54
+	Date: 2018-06-20 ; Times: 48
+	Date: 2018-06-23 ; Times: 24
+	Date: 2018-06-22 ; Times: 40
+	Date: 2018-06-09 ; Times: 7
+	Date: 2018-06-08 ; Times: 70
+	Date: 2018-06-10 ; Times: 5
+	Date: 2018-06-11 ; Times: 53
+	Date: 2018-06-12 ; Times: 27
+	Date: 2018-06-13 ; Times: 48
+	Date: 2018-06-14 ; Times: 25
+	Date: 2018-06-15 ; Times: 71
+	Date: 2018-06-16 ; Times: 48
+	Date: 2018-06-17 ; Times: 5
+	Date: 2018-06-18 ; Times: 48
+	Date: 2018-06-19 ; Times: 126
+	Date: 2018-06-30 ; Times: 41
+	Date: 2018-06-03 ; Times: 17
+	Date: 2018-06-28 ; Times: 49
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:squammata stateprovince:&#34;Minas Gerais&#34; institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:Falco basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "class:Aves catalognumber:158162" ; Times: 2
+	Query: "Tinamus major latifrons preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "aramides axillaris vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:skin (gallirallus ) institutioncode:FMNH" ; Times: 1
+	Query: "Turdus migratorius vntype:specimen institutioncode:FMNH" ; Times: 1
+	Query: "tyrannus albogularis" ; Times: 1
+	Query: "himantopus novaezelandiae vntype:specimen year &lt;= 1950" ; Times: 3
+	Query: "muscicapa tessmanni" ; Times: 2
+	Query: "fulica cornuta vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "genus:Bias preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "class:Aves catalognumber:31381" ; Times: 3
+	Query: "Atlapetes seebohmi" ; Times: 1
+	Query: "ficedula calayensis" ; Times: 2
+	Query: "FMNH 185804" ; Times: 2
+	Query: "penelope barbata" ; Times: 2
+	Query: "zosterops heinrichi" ; Times: 1
+	Query: "specificepithet:saucerrottei genus:Amazilia hastissue:1" ; Times: 1
+	Query: "FMNH 185801" ; Times: 4
+	Query: "turdoides subrufus" ; Times: 1
+	Query: "Nasicus illinois" ; Times: 2
+	Query: "catalognumber:246455 institutioncode:FMNH" ; Times: 1
+	Query: "priotelus vescus" ; Times: 1
+	Query: "preparations:skin institutioncode:FMNH genus:calicalicus" ; Times: 1
+	Query: "catalognumber:9392 institutioncode:FMNH" ; Times: 1
+	Query: "genus:Mystacornis preparations:skin institutioncode:FMNH" ; Times: 2
+	Query: "Empidonax traillii extimus" ; Times: 1
+	Query: "Chlorophonia occipitalis" ; Times: 1
+	Query: "vntype:specimen preparations:skin (laterallus exilis) institutioncode:FMNH" ; Times: 1
+	Query: "andigena cucullata" ; Times: 1
+	Query: "dicrurus striatus" ; Times: 2
+	Query: "Passer domesticus country:&#34;Cyprus&#34;" ; Times: 1
+	Query: "Phapitreron cinereiceps mindanao" ; Times: 1
+	Query: "macronyx sharpei" ; Times: 1
+	Query: "Struthio molybdophanes" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "catalognumber:1226 institutioncode:FMNH" ; Times: 1
+	Query: "institutioncode:FMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "tangara fastuosa" ; Times: 1
+	Query: "grus canadensis minnesota" ; Times: 1
+	Query: "turdus kessleri" ; Times: 2
+	Query: "755569" ; Times: 2
+	Query: "755567" ; Times: 1
+	Query: "catalognumber:246459 institutioncode:FMNH" ; Times: 1
+	Query: "Thlypopsis pectoralis" ; Times: 1
+	Query: "catalognumber:246441 institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:skin (porphyrio) institutioncode:FMNH" ; Times: 1
+	Query: "Tachyeres patachonicus" ; Times: 1
+	Query: "macronyx flavicollis" ; Times: 2
+	Query: "vntype:specimen preparations:skin (Aptenodytes patagonicus) institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:aucklandica genus:Anas" ; Times: 3
+	Query: "vntype:specimen preparations:skin (Strigops habroptilus) institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:caudata genus:Chiroxiphia hastissue:1" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "catalognumber:106958 institutioncode:FMNH" ; Times: 2
+	Query: "fulica atra vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 221862" ; Times: 2
+	Query: "genus:Rallus hastissue:1" ; Times: 1
+	Query: "wolfs" ; Times: 1
+	Query: "catalognumber:167062 institutioncode:FMNH" ; Times: 1
+	Query: "Diomedea vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "172670" ; Times: 1
+	Query: "penelope ortoni" ; Times: 1
+	Query: "ficedula speculigera" ; Times: 6
+	Query: "aramides mangle vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:melanura genus:Polioptila year &gt;= 1911 year &lt;= 1911" ; Times: 1
+	Query: "myioborus albifrons" ; Times: 2
+	Query: "Phalacrocorax auritus vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "65362" ; Times: 1
+	Query: "107927" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Phalacrocorax harrisi) institutioncode:FMNH" ; Times: 1
+	Query: "tyto glaucops" ; Times: 1
+	Query: "70092" ; Times: 1
+	Query: "245362" ; Times: 1
+	Query: "specificepithet:albiceps genus:psalidoprocne" ; Times: 2
+	Query: "acridotheres cinereus" ; Times: 1
+	Query: "Turdus plumbeus hastissue:1" ; Times: 2
+	Query: "vntype:specimen preparations:skin (Pygoscelis adeliae) institutioncode:FMNH" ; Times: 2
+	Query: "413023" ; Times: 1
+	Query: "Tinamus osgoodi preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 175826" ; Times: 1
+	Query: "specificepithet:taeniata country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "thalasseus maximus albididorsalis" ; Times: 3
+	Query: "Pipilo consobrinus" ; Times: 2
+	Query: "myrmecocichla melaena" ; Times: 2
+	Query: "474589" ; Times: 2
+	Query: "306352" ; Times: 1
+	Query: "genus:Plegadis family:Threskiornithidae class:Aves continent:Africa" ; Times: 1
+	Query: "turdus feae" ; Times: 1
+	Query: "progne elegans" ; Times: 9
+	Query: "21294" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Spheniscus humboldti) institutioncode:FMNH" ; Times: 1
+	Query: "ficedula bonthaina" ; Times: 6
+	Query: "vntype:specimen preparations:Skin (Struthio molybdophanes) institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:246446 institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:atrocaerulea genus:hirundo" ; Times: 1
+	Query: "himantopus novaezelandiae year &lt;= 1950" ; Times: 2
+	Query: "locality:Paw Paw stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "melanerpes pauper" ; Times: 2
+	Query: "vntype:specimen preparations:skin (Megacrex inepta)" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Fulica gigantea)" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "Galbula pastazae" ; Times: 5
+	Query: "catalognumber:246450 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:albiceps genus:psalidoprocne institutioncode:FMNH" ; Times: 1
+	Query: "calocitta colliei" ; Times: 4
+	Query: "(Rallus) institutioncode:FMNH" ; Times: 1
+	Query: "Opisthocomus hoazin country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Oceanites gracilis vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:Skin (Dromaius novaehollandiae ) institutioncode:FMNH" ; Times: 2
+	Query: "ammodramus rostratus" ; Times: 2
+	Query: "catalognumber:33420 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 213845" ; Times: 1
+	Query: "Falco fasciinucha" ; Times: 2
+	Query: "dicrurus atripennis" ; Times: 1
+	Query: "FMNH 433855" ; Times: 2
+	Query: "Mt Turumiquire genus:Diglossa" ; Times: 1
+	Query: "toxostoma arenicola" ; Times: 1
+	Query: "Tinamus major fuscipennis preparations:skin institutioncode:FMNH" ; Times: 2
+	Query: "98464" ; Times: 1
+	Query: "vntype:specimen (Struthio camelus) institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:246448 institutioncode:FMNH" ; Times: 1
+	Query: "preparations:skin institutioncode:FMNH genus:Lanius" ; Times: 1
+	Query: "Orthonyx institutioncode:FMNH" ; Times: 2
+	Query: "vntype:specimen preparations:skin (Eudyptes pachyrhynchus ) institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen class:Aves catalognumber:154762" ; Times: 1
+	Query: "Atlapetes canigenis" ; Times: 2
+	Query: "specificepithet:pusilla genus:Spizella collectioncode:eggs year &gt;= 1894 year &lt;= 1894" ; Times: 1
+	Query: "class:Aves locality:Ootacamund basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "FMNH 129208" ; Times: 1
+	Query: "chlorochrysa nitidissima" ; Times: 1
+	Query: "minnesota Tyrannus tyrannus" ; Times: 1
+	Query: "preparations:skin (Tinamus tao larensis) institutioncode:FMNH" ; Times: 1
+	Query: "genus:sarothrura collectioncode:birds institutioncode:FMNH hastissue:1" ; Times: 1
+	Query: "catalognumber:15789 institutioncode:FMNH" ; Times: 1
+	Query: "Atlapetes melanocephalus" ; Times: 1
+	Query: "Phoebetria vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "187212" ; Times: 1
+	Query: "Coereba vntype:specimen (Los Roques) institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:pipra genus:Pipra" ; Times: 1
+	Query: "preparations:skin (dryolimnas) institutioncode:FMNH" ; Times: 1
+	Query: "genus:Euryceros family:Vangidae preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "Rollandia rolland rolland" ; Times: 3
+	Query: "lamprotornis bailundensis" ; Times: 1
+	Query: "specificepithet:pipra genus:Pipra country:&#34;Peru&#34;" ; Times: 4
+	Query: "191915" ; Times: 2
+	Query: "streptocitta albicollis" ; Times: 1
+	Query: "vntype:specimen preparations:skin (amaurornis moluccana) institutioncode:FMNH" ; Times: 1
+	Query: "Chlorophonia flavirostris" ; Times: 2
+	Query: "vntype:specimen preparations:skin (Dromaius novaehollandiae) institutioncode:FMNH" ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "FMNH 48080" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Struthio camelus) institutioncode:FMNH" ; Times: 3
+	Query: "specificepithet:miniatus genus:myioborus hastissue:1" ; Times: 3
+	Query: "Eriocnemis nigrivestis" ; Times: 3
+	Query: "catalognumber:246452 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:120750 institutioncode:FMNH" ; Times: 1
+	Query: "hemispingus auricularis" ; Times: 4
+	Query: "Aramides wolfi" ; Times: 5
+	Query: "thalasseus maximus albididorsalis angola" ; Times: 1
+	Query: "ploceus neumanni" ; Times: 2
+	Query: "64465" ; Times: 1
+	Query: "FMNH 58358" ; Times: 1
+	Query: "catalognumber:200905 institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:brevirostris genus:Rhynchocyclus family:Tyrannidae basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen preparations:skin (rallina eurizonoides) institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:200899 institutioncode:FMNH" ; Times: 1
+	Query: "himantopus himantopus leucocephalus year &lt;= 1950" ; Times: 4
+	Query: "catalognumber:155300" ; Times: 1
+	Query: "Geotrygon purpurata" ; Times: 5
+	Query: "catalognumber:246458 institutioncode:FMNH" ; Times: 1
+	Query: "eupetomena macroura country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "Pelagodroma marina vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "preparations:skin (Tinamus tao septentrionalis) institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 250855" ; Times: 2
+	Query: "vntype:specimen specificepithet:tricolor genus:Alectrurus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "neomorphus geoffroyi" ; Times: 3
+	Query: "preparations:skin (Tinamus tao tao) institutioncode:FMNH" ; Times: 1
+	Query: "94944" ; Times: 2
+	Query: "cyclarhis dorsalis" ; Times: 2
+	Query: "class:Aves (33324)" ; Times: 1
+	Query: "cyanoptila cumatilis" ; Times: 2
+	Query: "FMNH 71508" ; Times: 1
+	Query: "FMNH Birds 495304" ; Times: 2
+	Query: "Turdus institutioncode:FMNH hastissue:1" ; Times: 5
+	Query: "preparations:skin institutioncode:FMNH genus:Oriolia" ; Times: 2
+	Query: "Pelecanoides garnotii vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "Atlapetes gutturalis" ; Times: 1
+	Query: "picus sordidior" ; Times: 1
+	Query: "FMNH 205528" ; Times: 1
+	Query: "porzana fluminea vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "terpsiphone schubotzi" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Pygoscelis antarctica) institutioncode:FMNH" ; Times: 2
+	Query: "phyllastrephus graueri" ; Times: 1
+	Query: "calocitta formosa FMNH 343605" ; Times: 1
+	Query: "caprimulgus parvulus" ; Times: 1
+	Query: "(Usambara metopias)" ; Times: 1
+	Query: "genus:Hemipus preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "133939" ; Times: 3
+	Query: "specificepithet:swainsoni genus:Buteo county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "catalognumber:124483 institutioncode:FMNH" ; Times: 1
+	Query: "Tyto alba year &gt;= 2014 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 49097" ; Times: 2
+	Query: "picumnus purusianus" ; Times: 3
+	Query: "fulica americana vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:6398 institutioncode:FMNH" ; Times: 2
+	Query: "vntype:specimen preparations:skin (Apteryx owenii) institutioncode:FMNH" ; Times: 2
+	Query: "Entomodestes" ; Times: 2
+	Query: "class:Aves locality:Tocantins country:&#34;Brazil&#34; institutioncode:FMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Calicalicus preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "zoothera horsfieldi" ; Times: 2
+	Query: "vntype:specimen preparations:skin (laterallus jamaicensis) institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 216627" ; Times: 2
+	Query: "FMNH 216629" ; Times: 4
+	Query: "catalognumber:246473 institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Atlantisia rogersi) institutioncode:FMNH" ; Times: 1
+	Query: "elaenia parvirostris" ; Times: 1
+	Query: "rhynchocyclus" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Diomedea) institutioncode:FMNH" ; Times: 2
+	Query: "FMNH 52903" ; Times: 1
+	Query: "specificepithet:erythrophthalmus genus:pipilo month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 3
+	Query: "99460" ; Times: 2
+	Query: "saltator similis" ; Times: 1
+	Query: "specificepithet:nitens genus:Phainopepla year &gt;= 1897 year &lt;= 1897" ; Times: 1
+	Query: "Pipra coronata venezuela" ; Times: 2
+	Query: "175101" ; Times: 3
+	Query: "&#34;Paw Paw&#34; vntype:specimen stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "virenticeps michoacan" ; Times: 6
+	Query: "Alca torda vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "preparations:skin (rallus indicus) institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:harpyja genus:Harpia" ; Times: 3
+	Query: "catalognumber:201277 institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Casuarius casuarius) institutioncode:FMNH" ; Times: 2
+	Query: "fulica leucoptera vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:squammata institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:americana genus:Parula collectioncode:eggs year &gt;= 1904 year &lt;= 1904" ; Times: 1
+	Query: "celeus deltanus" ; Times: 1
+	Query: "Scytalopus femoralis hastissue:1" ; Times: 2
+	Query: "family:Ploceidae preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:246442 institutioncode:FMNH" ; Times: 1
+	Query: "institutioncode:FMNH rallus" ; Times: 1
+	Query: "353622" ; Times: 2
+	Query: "genus:prionops preparations:skin" ; Times: 1
+	Query: "Neomorphus radiolosus" ; Times: 5
+	Query: "vntype:specimen preparations:skin (Struthio molybdophanes) institutioncode:FMNH" ; Times: 2
+	Query: "vntype:specimen preparations:skin (coturnicops noveboracensis) institutioncode:FMNH" ; Times: 1
+	Query: "fulica armillata vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "country:&#34;Montserrat&#34; hastissue:1" ; Times: 1
+	Query: "Salpinctes country:&#34;Costa rica&#34;" ; Times: 1
+	Query: "catalognumber:311034 institutioncode:FMNH" ; Times: 1
+	Query: "380147" ; Times: 1
+	Query: "Atlapetes fuscoolivaceus" ; Times: 2
+	Query: "380145" ; Times: 2
+	Query: "755574" ; Times: 1
+	Query: "380148" ; Times: 1
+	Query: "755576" ; Times: 1
+	Query: "muscicapa boehmi" ; Times: 3
+	Query: "anas chlorotis" ; Times: 2
+	Query: "Campylorhynchus turdinus" ; Times: 1
+	Query: "catalognumber:130666" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Eudyptes pachyrhynchus) institutioncode:FMNH" ; Times: 1
+	Query: "laniarius poensis" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Tachyeres pteneres ) institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Nesoclopeus woodfordi) institutioncode:FMNH" ; Times: 2
+	Query: "FMNH 81209" ; Times: 1
+	Query: "catalognumber:246443 institutioncode:FMNH" ; Times: 3
+	Query: "Tinamus solitarius preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "488383" ; Times: 1
+	Query: "488382" ; Times: 1
+	Query: "dicrurus striatus fmnh" ; Times: 1
+	Query: "atlantisia rogersi" ; Times: 1
+	Query: "FMNH 221952" ; Times: 2
+	Query: "specificepithet:peregrina genus:Vermivora year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "veniliornis orenocensis" ; Times: 2
+	Query: "specificepithet:barbatus genus:Pycnonotus hastissue:1" ; Times: 3
+	Query: "vntype:specimen preparations:skin (Megacrex inepta) institutioncode:FMNH" ; Times: 2
+	Query: "196696" ; Times: 1
+	Query: "preparations:skin institutioncode:FMNH genus:Xenopirostris" ; Times: 1
+	Query: "68899" ; Times: 1
+	Query: "genus:Ciccaba class:Aves basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "monticola explorator" ; Times: 1
+	Query: "FMNH 250854" ; Times: 2
+	Query: "753702" ; Times: 2
+	Query: "catalognumber:201167 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 3714" ; Times: 1
+	Query: "carpodacus salimalii" ; Times: 1
+	Query: "vntype:specimen preparations:skin (gallicrex) institutioncode:FMNH" ; Times: 1
+	Query: "Tachyeres patachonicus vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "95780" ; Times: 5
+	Query: "753704" ; Times: 2
+	Query: "genus:Oriolia family:Vangidae preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:15925 institutioncode:FMNH" ; Times: 2
+	Query: "piaya circe" ; Times: 1
+	Query: "Tinamus major olivascens preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "arachnothera randi" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Diomedea exulans) institutioncode:FMNH" ; Times: 1
+	Query: "Schistochlamys ruficapillus" ; Times: 1
+	Query: "catalognumber:119073" ; Times: 1
+	Query: "catalognumber:246457 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:mirabilis genus:Cyanolyca" ; Times: 1
+	Query: "catalognumber:246465 institutioncode:FMNH" ; Times: 1
+	Query: "fmnh birds 2014" ; Times: 1
+	Query: "Camaroptera vntype:specimen (tincta )" ; Times: 4
+	Query: "specificepithet:virginianus genus:Bubo family:Strigidae order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Aptenodytes forsteri) institutioncode:FMNH" ; Times: 4
+	Query: "preparations:skin (Gallirallus ) institutioncode:FMNH" ; Times: 2
+	Query: "(Tinamus guttatus) institutioncode:FMNH" ; Times: 1
+	Query: "preparations:skin (rallus) institutioncode:FMNH" ; Times: 2
+	Query: "753705" ; Times: 1
+	Query: "preparations:skin (Gallinula) institutioncode:FMNH" ; Times: 2
+	Query: "Campylorhynchus turdinus unicolor" ; Times: 1
+	Query: "preparations:skin (amaurornis) institutioncode:FMNH" ; Times: 1
+	Query: "64939" ; Times: 1
+	Query: "gallinula tenebrosa vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:191592 institutioncode:FMNH" ; Times: 1
+	Query: "Fulica armillata" ; Times: 1
+	Query: "Pelecanoides georgicus vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 2
+	Query: "FMNH 217976" ; Times: 1
+	Query: "fmnh 256443" ; Times: 2
+	Query: "aplonis pelzelni" ; Times: 2
+	Query: "79409" ; Times: 1
+	Query: "Aratinga pertinax Venezuela vntype:specimen" ; Times: 2
+	Query: "specificepithet:harpyja genus:Harpia preparations:skin" ; Times: 1
+	Query: "specificepithet:rufa genus:sarothrura collectioncode:birds" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Nesoclopeus woodfordi)" ; Times: 1
+	Query: "751204" ; Times: 1
+	Query: "melaenornis brunneus" ; Times: 2
+	Query: "751201" ; Times: 1
+	Query: "751169" ; Times: 1
+	Query: "gracula ptilogenys" ; Times: 1
+	Query: "59215" ; Times: 1
+	Query: "stateprovince:&#34;ID&#34;" ; Times: 1
+	Query: "Atlapetes albiceps" ; Times: 1
+	Query: "Atlapetes rufigenis" ; Times: 2
+	Query: "298785" ; Times: 1
+	Query: "catalognumber:122055 institutioncode:FMNH" ; Times: 2
+	Query: "fmnh 2014 chicago" ; Times: 1
+	Query: "Garrulax cachinnans" ; Times: 1
+	Query: "odontophorus melanonotus" ; Times: 1
+	Query: "42139-1" ; Times: 1
+	Query: "specificepithet:americana genus:Parula collectioncode:eggs institutioncode:FMNH" ; Times: 1
+	Query: "137077" ; Times: 1
+	Query: "caprimulgus longirostris" ; Times: 1
+	Query: "genus:Calicalicus preparations:skin" ; Times: 2
+	Query: "family:Vangidae preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "298+785" ; Times: 1
+	Query: "FMNH 250884" ; Times: 2
+	Query: "FMNH 250883" ; Times: 1
+	Query: "FMNH 250882" ; Times: 1
+	Query: "FMNH 185798" ; Times: 1
+	Query: "FMNH 15061" ; Times: 1
+	Query: "Tinamus major major preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "python komodo" ; Times: 1
+	Query: "preparations:skin (Phalacrocorax harrisi) institutioncode:FMNH" ; Times: 2
+	Query: "preparations:skin (rallus caerulescens) institutioncode:FMNH" ; Times: 1
+	Query: "confinis hastissue:1" ; Times: 1
+	Query: "catalognumber:246461 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:51659 institutioncode:FMNH" ; Times: 2
+	Query: "leucopeza semperi" ; Times: 1
+	Query: "vntype:specimen preparations:skin (porzana parva) institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Fulica gigantea) institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 2081" ; Times: 1
+	Query: "39043" ; Times: 3
+	Query: "Myiagra azureocapilla" ; Times: 1
+	Query: "chlorophonia flavirostris" ; Times: 3
+	Query: "39047" ; Times: 1
+	Query: "50623" ; Times: 4
+	Query: "preparations:skin (rallus aquaticus) institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:skin (porzana tabuensis) institutioncode:FMNH" ; Times: 1
+	Query: "genus:accipiter country:&#34;Haiti&#34;" ; Times: 2
+	Query: "porzana vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:54136 institutioncode:FMNH" ; Times: 1
+	Query: "pelecanoides dacunhae" ; Times: 1
+	Query: "catalognumber:246451 institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:skin ( Apteryx australis) institutioncode:FMNH" ; Times: 1
+	Query: "hemispingus reyi" ; Times: 1
+	Query: "dicrurus madagascar" ; Times: 2
+	Query: "catalognumber:7562 institutioncode:FMNH" ; Times: 1
+	Query: "preparations:skin (Gallinula galeata) institutioncode:FMNH" ; Times: 1
+	Query: "institutioncode:FMNH Diomedea" ; Times: 2
+	Query: "FMNH 24611" ; Times: 1
+	Query: "Momotus lessonii" ; Times: 2
+	Query: "FMNH 242526" ; Times: 3
+	Query: "apalis (nigrodorsalis)" ; Times: 3
+	Query: "catalognumber:200875 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:50355" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Gallirallus australis)" ; Times: 1
+	Query: "FMNH 69951" ; Times: 1
+	Query: "catalognumber:299930 institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen genus:CNEMOTRICCUS country:&#34;bRAZIL&#34;" ; Times: 9
+	Query: "157240" ; Times: 1
+	Query: "tinamus osgoodi" ; Times: 2
+	Query: "95500" ; Times: 1
+	Query: "catalognumber:66171" ; Times: 1
+	Query: "Accipiter gentilis institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:246464 institutioncode:FMNH" ; Times: 1
+	Query: "(Jacutinga)" ; Times: 2
+	Query: "catalognumber:246468 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:fanovanae institutioncode:FMNH" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 3
+	Query: "catalognumber:246470 institutioncode:FMNH" ; Times: 1
+	Query: "terpsiphone burmae" ; Times: 2
+	Query: "Phalacrocorax gaimardi preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "Agapornis lilianae " ; Times: 16
+	Query: "vntype:specimen specificepithet:harpyja genus:Harpia" ; Times: 1
+	Query: "363840" ; Times: 1
+	Query: "363841" ; Times: 2
+	Query: "vntype:specimen preparations:skin (porzana pusilla) institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:skin (laterallus viridis) institutioncode:FMNH" ; Times: 1
+	Query: "preparations:skin (anas castanea) institutioncode:FMNH" ; Times: 1
+	Query: "751202" ; Times: 1
+	Query: "aramides cajanea vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "Turdus plumbeus institutioncode:FMNH hastissue:1" ; Times: 1
+	Query: "specificepithet:americana genus:Parula institutioncode:FMNH" ; Times: 1
+	Query: "bird eggs nebraska" ; Times: 2
+	Query: "vntype:specimen preparations:skin (Casuarius unappendiculatus) institutioncode:FMNH" ; Times: 1
+	Query: "chloropsis jerdoni" ; Times: 1
+	Query: "751200" ; Times: 4
+	Query: "vntype:specimen class:Aves catalognumber:35343" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1960 year &lt;= 1963" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1960 year &lt;= 1962" ; Times: 2
+	Query: "vntype:specimen preparations:skin ( Spheniscus humboldti) institutioncode:FMNH" ; Times: 1
+	Query: "59971" ; Times: 1
+	Query: "vntype:specimen preparations:skin (rallina fasciata) institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:skin (porzana albicollis) institutioncode:FMNH" ; Times: 1
+	Query: "oenanthe lugubris" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Casuarius bennetti) institutioncode:FMNH" ; Times: 1
+	Query: "genus:newtonia preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "52549" ; Times: 1
+	Query: "zoothera tanganjicae" ; Times: 3
+	Query: "fmnh 92646" ; Times: 1
+	Query: "vntype:specimen preparations:skin (amaurornis akool) institutioncode:FMNH" ; Times: 1
+	Query: "Heteralocha acutirostris" ; Times: 2
+	Query: "gaur" ; Times: 1
+	Query: "fmnh 92649" ; Times: 2
+	Query: "picoides quadrifasciatus" ; Times: 1
+	Query: "catalognumber:246447 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:18446 institutioncode:FMNH" ; Times: 1
+	Query: "dicrurus macrocercus pakistan" ; Times: 2
+	Query: "vntype:specimen preparations:skin (Rollandia microptera) institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:alpestris genus:eremophila county:&#34;Sonoma&#34;" ; Times: 3
+	Query: "Momotus lessonii vntype:specimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Spheniscus magellanicus) institutioncode:FMNH" ; Times: 2
+	Query: "Heliangelus regalis" ; Times: 2
+	Query: "specificepithet:pusillus genus:Pogoniulus country:&#34;Ethiopia&#34;" ; Times: 1
+	Query: "Rhynchopsitta terrisi" ; Times: 1
+	Query: "catalognumber:7571 institutioncode:FMNH" ; Times: 2
+	Query: "genus:CNEMOTRICCUS country:&#34;bRAZIL&#34; institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:cucullata genus:cyanolyca" ; Times: 6
+	Query: "Micropygia schomburgkii" ; Times: 12
+	Query: "FMNH 211641" ; Times: 1
+	Query: "Pyrrhura" ; Times: 1
+	Query: "Atlapetes rufinucha" ; Times: 3
+	Query: "family:Vangidae institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:192108 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 223190" ; Times: 2
+	Query: "myioborus flavivertex" ; Times: 1
+	Query: "Tinamus major saturatus preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "gallinula chloropus vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:skin (porzana fusca) institutioncode:FMNH" ; Times: 1
+	Query: "cercomela dubia" ; Times: 1
+	Query: "tyrannus albogularis brazil" ; Times: 1
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "Thryomanes brevicauda" ; Times: 1
+	Query: "genus:CNEMOTRICCUS country:&#34;bRAZIL&#34;" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Apteryx australis) institutioncode:FMNH" ; Times: 1
+	Query: "genus:Schetba family:Vangidae preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "gallinula vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "759219" ; Times: 1
+	Query: "vntype:specimen specificepithet:poliocerca genus:Eupherusa country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Crax rubra" ; Times: 8
+	Query: "Trochocercus vivax" ; Times: 1
+	Query: "ortalis canicollis" ; Times: 2
+	Query: "FMNH 258004" ; Times: 1
+	Query: "Atlapetes fulviceps" ; Times: 2
+	Query: "specificepithet:swainsoni county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "fulica ardesiaca vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 262232" ; Times: 2
+	Query: "Tinamus major percautus preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "eupetomena" ; Times: 1
+	Query: "preparations:skin (rallus elegans) institutioncode:FMNH" ; Times: 1
+	Query: "copsychus stricklandii" ; Times: 6
+	Query: "Tinamus major castaneiceps preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "Saltator orenocensis" ; Times: 2
+	Query: "catalognumber:246462 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:246463 institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Crex crex) institutioncode:FMNH" ; Times: 1
+	Query: "preparations:skin (Tinamus tao) institutioncode:FMNH" ; Times: 1
+	Query: "genus:Philentoma preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "aramides ypecaha vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "numenius borealis vntype:specimen" ; Times: 6
+	Query: "360051" ; Times: 2
+	Query: "Tinamus major robustus preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Amaurornis phoenicurus phoenicurus) institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 69946" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "Rollandia rolland chilensis" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Strigops habroptilus)" ; Times: 1
+	Query: "basileuterus griseiceps" ; Times: 1
+	Query: "16088 vntype:specimen collectioncode:birds" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Eudyptes chrysocome) institutioncode:FMNH" ; Times: 1
+	Query: "hoeschi" ; Times: 1
+	Query: "360352" ; Times: 1
+	Query: "catalognumber:129311 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 255530" ; Times: 2
+	Query: "vntype:specimen preparations:skin (Casuarius bennetti ) institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Eudyptes sclateri ) institutioncode:FMNH" ; Times: 2
+	Query: "FMNH 57789" ; Times: 2
+	Query: "myioborus cardonai" ; Times: 2
+	Query: "FMNH 72773" ; Times: 2
+	Query: "vntype:specimen preparations:skin (Rhea americana) institutioncode:FMNH" ; Times: 3
+	Query: "Phlogophilus hemileucurus" ; Times: 2
+	Query: "474596" ; Times: 1
+	Query: "preparations:skin (porphyrio) institutioncode:FMNH" ; Times: 1
+	Query: "Mt Turumiquire" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Casuarius bennetti )" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Atlantisia rogersi)" ; Times: 1
+	Query: "gallinula angulata vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 250860" ; Times: 2
+	Query: "recordnumber:18447 institutioncode:FMNH" ; Times: 1
+	Query: "rhabdornis rabori" ; Times: 1
+	Query: "catalognumber:246449 institutioncode:FMNH" ; Times: 1
+	Query: "Euphonia finschi" ; Times: 1
+	Query: "245341" ; Times: 1
+	Query: "catalognumber:246456 institutioncode:FMNH" ; Times: 1
+	Query: "nestor vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:deliciosus genus:Machaeropterus" ; Times: 2
+	Query: "vntype:specimen preparations:skin (Pinguinus impennis) institutioncode:FMNH" ; Times: 1
+	Query: "acridotheres albocinctus" ; Times: 1
+	Query: "Phapitreron cinereiceps" ; Times: 1
+	Query: "(Rallus) institutioncode:FMNH hastypestatus:1" ; Times: 1
+	Query: "catalognumber:203688 institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:skin (porzana paykullii) institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:246472 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 221830" ; Times: 3
+	Query: "specificepithet:andicola genus:Leptasthenura" ; Times: 1
+	Query: "Coereba vntype:specimen (peru) institutioncode:FMNH" ; Times: 2
+	Query: "Heteralocha" ; Times: 2
+	Query: "FMNH 154816" ; Times: 2
+	Query: "catalognumber:91078 institutioncode:FMNH" ; Times: 1
+	Query: "dicrurus macrocercus" ; Times: 3
+	Query: "Torreornis inexpectata" ; Times: 2
+	Query: "sterna dougallii vntype:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "class:Aves locality:Kotagiri basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "751198" ; Times: 3
+	Query: "catalognumber:246460 institutioncode:FMNH" ; Times: 1
+	Query: "Aegolius harrisii harrisii" ; Times: 1
+	Query: "Pitta sordida" ; Times: 2
+	Query: "751196" ; Times: 1
+	Query: "FMNH 62111" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Diomedea epomophora) institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:153173 institutioncode:FMNH" ; Times: 1
+	Query: "class:Aves locality:Coonoor basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "diglossa venezuelensis" ; Times: 1
+	Query: "Ortalis erythroptera" ; Times: 1
+	Query: "Coereba vntype:specimen (Croix)" ; Times: 1
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Gallirallus) institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Megadyptes antipodes) institutioncode:FMNH" ; Times: 2
+	Query: "tangara johannae" ; Times: 1
+	Query: "minnesota Falco peregrinus" ; Times: 1
+	Query: "Rollandia rolland" ; Times: 1
+	Query: "preparations:skin (Fulica ) institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen genus:Cnemotriccus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Atlapetes leucopis" ; Times: 2
+	Query: "Tinamus tao tao preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "Himantornis haematopus vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Spheniscus mendiculus) institutioncode:FMNH" ; Times: 2
+	Query: "474085" ; Times: 1
+	Query: "Tinamus major serratus preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:18031 institutioncode:FMNH" ; Times: 1
+	Query: "28940" ; Times: 1
+	Query: "hemispingus goeringi" ; Times: 1
+	Query: "Phylloscopus vntype:specimen (trochiloides OR reguloides OR pulcher OR occipitalis OR maculipennis) institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:skin (laterallus melanophaius) institutioncode:FMNH" ; Times: 1
+	Query: "Atlapetes semirufus" ; Times: 1
+	Query: "catalognumber:418771 collectioncode:birds institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 221846" ; Times: 1
+	Query: "FMNH 57774" ; Times: 1
+	Query: "Numenius tenuirostris" ; Times: 2
+	Query: "copsychus superciliaris" ; Times: 3
+	Query: "vntype:specimen preparations:skin (Himantornis haematopus) institutioncode:FMNH" ; Times: 1
+	Query: "88765" ; Times: 1
+	Query: "preparations:skin (rallus striatus) institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:18445 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:246444 institutioncode:FMNH" ; Times: 2
+	Query: "Euphonia cayennensis" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "catalognumber:199873 institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Podilymbus gigas)" ; Times: 1
+	Query: "FMNH 187257" ; Times: 2
+	Query: "vntype:specimen preparations:skin (rallina tricolor) institutioncode:FMNH" ; Times: 1
+	Query: "Rollandia rolland morrisoni" ; Times: 1
+	Query: "Coereba vntype:specimen (tortuga) institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:18447 institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:discors genus:Anas year &gt;= 1956 year &lt;= 1957" ; Times: 1
+	Query: "Tinamus major zuliensis preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "genus:Entomodestes hastissue:1" ; Times: 1
+	Query: "vntype:specimen class:Aves catalognumber:345232" ; Times: 1
+	Query: "pteruthius delacouri" ; Times: 1
+	Query: "FMNH 242514" ; Times: 1
+	Query: "Ognorhynchus icterotis" ; Times: 3
+	Query: "specificepithet:Pipra genus:Pipra country:&#34;Peru&#34;" ; Times: 1
+	Query: "Oceanites oceanicus vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "preparations:skin (Tinamus guttatus) institutioncode:FMNH" ; Times: 1
+	Query: "deltae" ; Times: 1
+	Query: "Schoenicola brevirostris" ; Times: 1
+	Query: "white rhino" ; Times: 1
+	Query: "catalognumber:246469 institutioncode:FMNH" ; Times: 1
+	Query: "ficedula malindangensis" ; Times: 1
+	Query: "vntype:specimen preparations:skin (porzana flaviventer) institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:199934 institutioncode:FMNH" ; Times: 1
+	Query: "spelaeornis formosus" ; Times: 2
+	Query: "FMNH 52902" ; Times: 1
+	Query: "macronyx grimwoodi" ; Times: 4
+	Query: "preparations:skin (rallus longirostris) institutioncode:FMNH" ; Times: 1
+	Query: "759212" ; Times: 1
+	Query: "759214" ; Times: 2
+	Query: "genus:cecropis country:&#34;vietnam&#34;" ; Times: 1
+	Query: "genus:Threskiornis family:Threskiornithidae continent:Africa" ; Times: 1
+	Query: "759217" ; Times: 1
+	Query: "auduboni hastypestatus:1" ; Times: 3
+	Query: "aburria jacutinga" ; Times: 1
+	Query: "326981" ; Times: 1
+	Query: "vntype:specimen preparations:skin (pardirallus ) institutioncode:FMNH" ; Times: 1
+	Query: "institutioncode:FMNH Diomedea exulans" ; Times: 1
+	Query: "johannae" ; Times: 2
+	Query: "phacellodomus striaticollis" ; Times: 1
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella year &gt;= 1894 year &lt;= 1894" ; Times: 1
+	Query: "trichastoma tickelli" ; Times: 1
+	Query: "fmnh 454951" ; Times: 1
+	Query: "class:aves catalognumber:29304" ; Times: 1
+	Query: "49503" ; Times: 1
+	Query: "Tinamus osgoodi hershkovitzi preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:9627 institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Pygoscelis papua) institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:280143 institutioncode:FMNH" ; Times: 1
+	Query: "todirostrum annectens" ; Times: 3
+	Query: "catalognumber:246466 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 58376" ; Times: 1
+	Query: "FMNH 58377" ; Times: 1
+	Query: "county:&#34;camden&#34; stateprovince:&#34;georgia&#34; year &gt;= 1902 year &lt;= 1902" ; Times: 1
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "himantopus novaezelandiae" ; Times: 4
+	Query: "vntype:specimen preparations:skin (Spheniscus demersus) institutioncode:FMNH" ; Times: 2
+	Query: "institutioncode:FMNH" ; Times: 3
+	Query: "preparations:skin (gallicrex) institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen genus:Alectrurus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "FMNH 185786" ; Times: 1
+	Query: "Atlapetes albofrenatus" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Gallirallus australis) institutioncode:FMNH" ; Times: 2
+	Query: "specificepithet:wyatti genus:Asthenes country:&#34;Peru&#34;" ; Times: 1
+	Query: "FMNH 185785" ; Times: 1
+	Query: "specificepithet:cyanea genus:chlorophonia hastissue:1" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 11
+	Query: "Monarcha melanonotus" ; Times: 1
+	Query: "FMNH 226636" ; Times: 2
+	Query: "preparations:skin (Tinamus solitarius) institutioncode:FMNH" ; Times: 1
+	Query: "locality:Ootacamund" ; Times: 1
+	Query: "Anas chlorotis vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:skin ( Mesitornis unicolor) institutioncode:FMNH" ; Times: 1
+	Query: "anthus nilghiriensis" ; Times: 1
+	Query: "atlantisia" ; Times: 4
+	Query: "genus:Tephrodornis preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "Atlapetes citrinellus" ; Times: 2
+	Query: "dicrurus madagascar fmnh" ; Times: 1
+	Query: "FMNH 91030" ; Times: 1
+	Query: "vntype:specimen genus:EMPIDONAX class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen (Casuarius casuarius) institutioncode:FMNH" ; Times: 1
+	Query: "thermophilus" ; Times: 1
+	Query: "willardi" ; Times: 1
+	Query: "specificepithet:gilvus genus:Vireo collectioncode:eggs year &gt;= 1897 year &lt;= 1897" ; Times: 1
+	Query: "Schoenicola" ; Times: 1
+	Query: "specificepithet:semirufa genus:thamnolaea" ; Times: 1
+	Query: "753725" ; Times: 1
+	Query: "melanerpes pygmaeus" ; Times: 1
+	Query: "FMNH 274889" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Pinguinus impennis )" ; Times: 1
+	Query: "Momotus momota vntype:specimen country:&#34;Mexico&#34; hastissue:1" ; Times: 4
+	Query: "spreo albicapillus" ; Times: 2
+	Query: "Diglossa baritula" ; Times: 12
+	Query: "vntype:specimen preparations:Skin (Struthio camelus) institutioncode:FMNH" ; Times: 1
+	Query: "fmnh 350955" ; Times: 2
+	Query: "genus:Tylas preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "Pachycephala soror bartoni" ; Times: 1
+	Query: "gbifdatasetid:36f15a36-6b45-442e-9c31-cd633423aee0" ; Times: 30
+	Query: "Atlapetes tricolor" ; Times: 2
+	Query: "genus:Xenopirostris family:Vangidae preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 226635" ; Times: 1
+	Query: "vntype:specimen preparations:skin (neocrex erythrops) institutioncode:FMNH" ; Times: 1
+	Query: "229846" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Phalacrocorax harrisi )" ; Times: 1
+	Query: "vntype:specimen country:&#34;Trinidad and Tobago&#34; ( magnirostris)" ; Times: 1
+	Query: "batis institutioncode:FMNH" ; Times: 1
+	Query: "299226" ; Times: 1
+	Query: "Spizaetus" ; Times: 1
+	Query: "dacnis egregia" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Apteryx mantelli ) institutioncode:FMNH" ; Times: 2
+	Query: "myrmecocichla tholloni" ; Times: 2
+	Query: "catalognumber:232113 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 187212" ; Times: 2
+	Query: "FMNH 187210" ; Times: 4
+	Query: "catalognumber:1486 institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:atropileus genus:hemispingus" ; Times: 1
+	Query: "chlorophonia cyanea" ; Times: 2
+	Query: "Arremon oaxaca" ; Times: 1
+	Query: "nothocercus" ; Times: 1
+	Query: "specificepithet:flavifrons genus:Vireo collectioncode:eggs" ; Times: 1
+	Query: "saxicola jerdoni" ; Times: 1
+	Query: "catalognumber:215662 institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen genus:hylia hastissue:1" ; Times: 1
+	Query: "Atlapetes personatus" ; Times: 2
+	Query: "catalognumber:15402 institutioncode:FMNH" ; Times: 1
+	Query: "family:hirundinidae country:&#34;vietnam&#34;" ; Times: 1
+	Query: "catalognumber:8841 institutioncode:FMNH" ; Times: 1
+	Query: "basileuterus pariae" ; Times: 1
+	Query: "catalognumber:246445 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:124236 institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Tachyeres brachypterus) institutioncode:FMNH" ; Times: 2
+	Query: "progne modesta" ; Times: 9
+	Query: "specificepithet:atrocaerulea genus:hirundo hastissue:1" ; Times: 1
+	Query: "preparations:skin (Tinamus tao kleei) institutioncode:FMNH" ; Times: 1
+	Query: "rhinomyias albigularis" ; Times: 3
+	Query: "genus:Cnemotriccus class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "vntype:specimen preparations:skin (Eudyptes chrysocome ) institutioncode:FMNH" ; Times: 1
+	Query: "380149" ; Times: 1
+	Query: "specificepithet:virens genus:Dendroica year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Mesitornis unicolor)" ; Times: 1
+	Query: "claravis mondetoura" ; Times: 1
+	Query: "vntype:specimen preparations:skin (rallus) institutioncode:FMNH hastypestatus:1" ; Times: 2
+	Query: "99456" ; Times: 1
+	Query: "99457" ; Times: 1
+	Query: "Neomorphus geoffroyi" ; Times: 1
+	Query: "vntype:specimen preparations:skin (laterallus albigularis) institutioncode:FMNH" ; Times: 1
+	Query: "nothoprocta taczanowskii" ; Times: 1
+	Query: "vntype:specimen genus:CNEMOTRIcCUS country:&#34;bRAZIL&#34;" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Alca torda ) institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Fulica armillata ) institutioncode:FMNH" ; Times: 1
+	Query: "Napothera crispifrons" ; Times: 3
+	Query: "tinamus tao" ; Times: 2
+	Query: "Loxigilla portoricensis grandis" ; Times: 2
+	Query: "specificepithet:squammata country:&#34;Brazil&#34; institutioncode:FMNH" ; Times: 1
+	Query: "specificepithet:americana genus:Parula collectioncode:eggs" ; Times: 3
+	Query: "FMNH 205529" ; Times: 3
+	Query: "fmnh 255318" ; Times: 2
+	Query: "vntype:specimen genus:Ochthoeca country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:viridis institutioncode:FMNH" ; Times: 1
+	Query: "margaroperdix" ; Times: 2
+	Query: "Xiphorhynchus obsoletus" ; Times: 3
+	Query: "zoothera chuka" ; Times: 1
+	Query: "catalognumber:246474 institutioncode:FMNH" ; Times: 1
+	Query: "Capito quinticolor" ; Times: 1
+	Query: "Mesitornis variegata" ; Times: 2
+	Query: "thamnolaea semirufa" ; Times: 1
+	Query: "adelomyia connectens" ; Times: 1
+	Query: "FMNH 57791" ; Times: 3
+	Query: "FMNH 57790" ; Times: 2
+	Query: "saltator maxillosus" ; Times: 1
+	Query: "vntype:specimen preparations:skin (tachyeres pteneres) institutioncode:FMNH" ; Times: 2
+	Query: "class:Aves locality:Nilgiri basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "FMNH 250870" ; Times: 3
+	Query: "Arremon Oaxaca" ; Times: 1
+	Query: "FMNH 218204" ; Times: 1
+	Query: "numenius borealis" ; Times: 102
+	Query: "360050" ; Times: 1
+	Query: "basileuterus chlorophrys" ; Times: 2
+	Query: "FMNH 250879" ; Times: 1
+	Query: "geotrygon purpurata" ; Times: 2
+	Query: "FMNH 62296" ; Times: 1
+	Query: "FMNH 62297" ; Times: 2
+	Query: "FMNH 62294" ; Times: 1
+	Query: "FMNH 62295" ; Times: 1
+	Query: "FMNH 62292" ; Times: 2
+	Query: "FMNH 62293" ; Times: 1
+	Query: "class:aves catalognumber:36107" ; Times: 1
+	Query: "specificepithet:rufa genus:sarothrura collectioncode:birds hastissue:1" ; Times: 1
+	Query: "Acanthis cabaret" ; Times: 2
+	Query: "Chlorophonia flavirostris vntype:specimen" ; Times: 1
+	Query: "nothocercus bonapartei" ; Times: 2
+	Query: "catalognumber:246471 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:246453 institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Eudyptes chrysolophus) institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:106843 institutioncode:FMNH" ; Times: 2
+	Query: "basileuterus basilicus" ; Times: 1
+	Query: "specificepithet:mexicanus genus:himantopus hastissue:1" ; Times: 1
+	Query: "943431" ; Times: 1
+	Query: "Phoeniculus purpureus institutioncode:FMNH hastissue:1" ; Times: 1
+	Query: "specificepithet:pipra genus:Pipra country:&#34;Colombia&#34;" ; Times: 1
+	Query: "catalognumber:246454 institutioncode:FMNH" ; Times: 1
+	Query: "FMNH 274840" ; Times: 1
+	Query: "FMNH 274843" ; Times: 1
+	Query: "myioborus pariae" ; Times: 2
+	Query: "preparations:skin (porphyrio porphyrio) institutioncode:FMNH" ; Times: 2
+	Query: "vntype:specimen (Struthio molybdophanes) institutioncode:FMNH" ; Times: 2
+	Query: "156142" ; Times: 1
+	Query: "catalognumber:200906 institutioncode:FMNH" ; Times: 1
+	Query: "preparations:skin institutioncode:FMNH" ; Times: 3
+	Query: "xenoligea montana" ; Times: 11
+	Query: "aplonis zelandica" ; Times: 3
+	Query: "fulica gigantea vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "Regulus obscurus" ; Times: 1
+	Query: "streptoprocne biscutata brazil" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1956 year &lt;= 1957" ; Times: 1
+	Query: "stateprovince:&#34;Quebec&#34; institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Eudyptula minor) institutioncode:FMNH" ; Times: 2
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "class:Aves (15540)" ; Times: 1
+	Query: "specificepithet:tigrina genus:Dendroica year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "catalognumber:120780 institutioncode:FMNH" ; Times: 1
+	Query: "catalognumber:246467 institutioncode:FMNH" ; Times: 1
+	Query: "class:aves catalognumber:29294" ; Times: 2
+	Query: "preparations:skin (Amaurornis phoenicurus phoenicurus) institutioncode:FMNH" ; Times: 1
+	Query: "fulica cristata vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Anas aucklandica) institutioncode:FMNH" ; Times: 2
+	Query: "70533" ; Times: 1
+	Query: "50785" ; Times: 1
+	Query: "FMNH 255526" ; Times: 2
+	Query: "Rollandia rolland vntype:specimen preparations:skin institutioncode:FMNH" ; Times: 2
+	Query: "753713" ; Times: 2
+	Query: "Atlapetes forbesi" ; Times: 2
+	Query: "dicrurus macrocercus india" ; Times: 2
+	Query: "Polyborus lutosus" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 96 (out of 1169 download events in this period)
+Total number of records downloaded: 15654
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 11
+	Country: Brazil ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 46
+	Country: Peru ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 6
+	Country: Venezuela ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Ecuador ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 14
+	Date: 2018-06-06 ; Times: 6
+	Date: 2018-06-05 ; Times: 6
+	Date: 2018-06-04 ; Times: 7
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-25 ; Times: 3
+	Date: 2018-06-27 ; Times: 3
+	Date: 2018-06-26 ; Times: 2
+	Date: 2018-06-21 ; Times: 4
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-08 ; Times: 9
+	Date: 2018-06-22 ; Times: 3
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 4
+	Date: 2018-06-12 ; Times: 4
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-15 ; Times: 6
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-18 ; Times: 7
+	Date: 2018-06-19 ; Times: 4
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sea otter" ; Times: 2
+	Query: "caprimulgus parvulus" ; Times: 1
+	Query: "Turdus institutioncode:FMNH hastissue:1" ; Times: 1
+	Query: "bullfrog" ; Times: 3
+	Query: "Accipiter gentilis institutioncode:FMNH" ; Times: 1
+	Query: "genus:Pipilo stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "family:Ploceidae preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "puffin" ; Times: 1
+	Query: "Cougar" ; Times: 1
+	Query: "Turdus migratorius vntype:specimen institutioncode:FMNH" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "Micropygia schomburgkii" ; Times: 1
+	Query: "vntype:specimen specificepithet:lucifer genus:Calothorax country:&#34;México&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "phacellodomus striaticollis" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "Neomorphus radiolosus" ; Times: 1
+	Query: "panda" ; Times: 1
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "tyto glaucops" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo family:Strigidae order:Strigiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "eupetomena macroura country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "anthus correndera" ; Times: 1
+	Query: "himantopus himantopus leucocephalus year &lt;= 1950" ; Times: 1
+	Query: "white rhino" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "himantopus novaezelandiae vntype:specimen year &lt;= 1950" ; Times: 1
+	Query: "Phlogophilus hemileucurus" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "melanerpes chrysogenys" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Ortalis erythroptera" ; Times: 1
+	Query: "Eriocnemis nigrivestis" ; Times: 3
+	Query: "wolverine" ; Times: 1
+	Query: "chlorophonia flavirostris" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Tinamus major fuscipennis preparations:skin institutioncode:FMNH" ; Times: 1
+	Query: "oriturus" ; Times: 1
+	Query: "Mountain Beaver" ; Times: 1
+	Query: "penelope ortoni" ; Times: 1
+	Query: "Junco hyemalis aikeni" ; Times: 2
+	Query: "Crax rubra" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "moun" ; Times: 1
+	Query: "caprimulgus longirostris" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "atlantisia rogersi" ; Times: 1
+	Query: "tinamus osgoodi" ; Times: 1
+	Query: "genus:Ciccaba class:Aves basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:costae genus:Calypte country:&#34;México&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "elaenia parvirostris" ; Times: 1
+	Query: "Egretta intermedia" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "Spizaetus" ; Times: 2
+	Query: "Setophaga ruticilla" ; Times: 1
+	Query: "wolves" ; Times: 1
+	Query: "Acanthis cabaret" ; Times: 1
+	Query: "Napothera crispifrons" ; Times: 1
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "picoides arcticus" ; Times: 1
+	Query: "Galbula pastazae" ; Times: 2
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:heloisa genus:Atthis country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+	Query: "Momotus momota vntype:specimen country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "Mt Turumiquire genus:Diglossa" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "Aegolius harrisii harrisii" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maranhão&#34;" ; Times: 1
+	Query: "orca" ; Times: 2
+	Query: "specificepithet:Pipra genus:Pipra country:&#34;Peru&#34;" ; Times: 2
+	Query: "Xiphorhynchus obsoletus" ; Times: 2
+	Query: "genus:accipiter country:&#34;Haiti&#34;" ; Times: 2
+
+
+End of report.
